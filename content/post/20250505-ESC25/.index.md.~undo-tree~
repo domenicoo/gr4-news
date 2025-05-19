@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"5beb04b8023fb2778cd9da43b19609867c2d3d51"
+"d952a2a8eb4ad052621b6c66ef48627f6175b7e9"
 [nil nil nil nil (26667 23665 979892 0) 0 nil]
 ([nil nil ((235 . 236) (t 26667 23389 327945 358000)) nil (26667 23665 979892 0) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 1946 . 1947) (nil fontified nil 236 . 1947) (236 . 1947)) nil (26667 23665 979891 0) 0 nil])
@@ -18,5 +18,22 @@
 ([nil nil ((294 . 296) (t 26667 23704 613898 382000)) nil (26667 24080 356115 0) 0 nil])
 ([nil nil ((309 . 311)) nil (26667 24080 356112 0) 0 nil])
 ([nil nil ((#(" " 0 1 (fontified t)) . 309) (#(">" 0 1 (face (markdown-markup-face markdown-blockquote-face) markdown-blockquote (309 420 309 310 310 311 311 420 #<buffer 20250505-ESC25/index.md>) fontified t)) . 309) (t 26667 24080 359261 89000)) nil (26667 24093 343341 0) 0 nil])
-([nil current ((#(" " 0 1 (fontified t)) . 294) (#(">" 0 1 (face (markdown-markup-face markdown-blockquote-face) markdown-blockquote (294 307 294 295 295 296 296 307 #<buffer 20250505-ESC25/index.md>) fontified t)) . 294)) nil (26667 24093 343338 0) 0 nil])
+([nil nil ((#(" " 0 1 (fontified t)) . 294) (#(">" 0 1 (face (markdown-markup-face markdown-blockquote-face) markdown-blockquote (294 307 294 295 295 296 296 307 #<buffer 20250505-ESC25/index.md>) fontified t)) . 294)) nil (26667 24093 343338 0) 0 nil])
+([nil nil ((187 . 188) (t 26667 24093 346512 682000)) nil (26667 33272 863944 0) 0 nil])
+([nil nil ((#("    - IT" 0 8 (fontified t markdown-yaml-metadata-section (5 290))) . 166) (undo-tree-id150 . -8) (undo-tree-id151 . -8) (undo-tree-id152 . -8) (undo-tree-id153 . -8) (undo-tree-id154 . -8) (undo-tree-id155 . -8) (undo-tree-id156 . -8)) nil (26667 33272 863943 0) 0 nil])
+([nil nil ((#("
+" 0 1 (font-lock-multiline t markdown-yaml-metadata-section (5 282) fontified t)) . -165) (undo-tree-id83 . -1) (undo-tree-id84 . -1) (undo-tree-id85 . -1) (undo-tree-id86 . -1) (undo-tree-id87 . -1) (undo-tree-id88 . -1) (undo-tree-id89 . -1) (undo-tree-id90 . -1) (undo-tree-id91 . -1) (undo-tree-id92 . -1) (undo-tree-id93 . -1) (undo-tree-id94 . -1) (undo-tree-id95 . -1) (undo-tree-id96 . -1) (undo-tree-id97 . -1) (undo-tree-id98 . -1) (undo-tree-id99 . -1) (undo-tree-id100 . -1) (undo-tree-id101 . -1) (undo-tree-id102 . -1) (undo-tree-id103 . -1) (undo-tree-id104 . -1) (undo-tree-id105 . -1) (undo-tree-id106 . -1) (undo-tree-id107 . -1) (undo-tree-id108 . -1) (undo-tree-id109 . -1) (undo-tree-id110 . -1) (undo-tree-id111 . -1) (undo-tree-id112 . -1) (undo-tree-id113 . -1) (undo-tree-id114 . -1) (undo-tree-id115 . -1) (undo-tree-id116 . -1) (undo-tree-id117 . -1) (undo-tree-id118 . -1) (undo-tree-id119 . -1) (undo-tree-id120 . -1) (undo-tree-id121 . -1) (undo-tree-id122 . -1) (undo-tree-id123 . -1) (undo-tree-id124 . -1) (undo-tree-id125 . -1) (undo-tree-id126 . -1) (undo-tree-id127 . -1) (undo-tree-id128 . -1) (undo-tree-id129 . -1) (undo-tree-id130 . -1) (undo-tree-id131 . -1) (undo-tree-id132 . -1) (undo-tree-id133 . -1) (undo-tree-id134 . -1) (undo-tree-id135 . -1) (undo-tree-id136 . -1) (undo-tree-id137 . -1) (undo-tree-id138 . -1) (undo-tree-id139 . -1) (undo-tree-id140 . -1) (undo-tree-id141 . -1) (undo-tree-id142 . -1) (undo-tree-id143 . -1) (undo-tree-id144 . -1) (undo-tree-id145 . -1) (undo-tree-id146 . -1) (undo-tree-id147 . -1) (undo-tree-id148 . -1) (undo-tree-id149 . -1) 166) nil (26667 33272 863935 0) 0 nil])
+([nil current ((#(" 
+We are planning to buy a few UPS (uninterruptible power supplies) to change our aging ones.
+ 
+Please send me a mail if you need one for your office (and please tell people around because some of my emails end up straight to the spam).
+
+<!-- Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing! -->
+
+<!-- For more information about this theme, check the documentation: https://stack.jimmycai.com/ -->
+
+<!-- Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter) -->
+
+<!-- > Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/) -->
+" 0 238 (fontified t) 238 239 (face markdown-comment-face fontified t markdown-comment (2236 2337) syntax-table (11)) 239 338 (face markdown-comment-face fontified t markdown-comment (2236 2337)) 338 339 (face markdown-comment-face fontified t markdown-comment (2236 2337) syntax-table (12)) 339 341 (fontified t) 341 342 (face markdown-comment-face fontified t markdown-comment (2339 2439) syntax-table (11)) 342 440 (face markdown-comment-face fontified t markdown-comment (2339 2439)) 440 441 (face markdown-comment-face fontified t markdown-comment (2339 2439) syntax-table (12)) 441 443 (fontified t) 443 444 (face markdown-comment-face fontified t markdown-comment (2441 2562) syntax-table (11)) 444 563 (face markdown-comment-face fontified t markdown-comment (2441 2562)) 563 564 (face markdown-comment-face fontified t markdown-comment (2441 2562) syntax-table (12)) 564 566 (fontified t) 566 567 (face markdown-comment-face fontified t markdown-comment (2564 2679) syntax-table (11)) 567 680 (face markdown-comment-face fontified t markdown-comment (2564 2679)) 680 681 (face markdown-comment-face fontified t markdown-comment (2564 2679) syntax-table (12)) 681 682 (fontified t)) . -1998) (undo-tree-id157 . -682) 2680 (t 26667 33272 867132 697000)) nil (26667 34322 323453 0) 0 nil])
 nil

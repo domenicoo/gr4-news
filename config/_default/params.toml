@@ -5,16 +5,16 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+#since = 2020
+#customText = ""
 
 [dateFormat]
 published = "02 Jan 2006"
-lastUpdated = "02 Jan 2006 15:04 MST"
+lastUpdated = "02 Jan 2006"
 
 [sidebar]
 #emoji = "🍥"
-subtitle = "GR4 Torino news"
+#subtitle = "GR4 Torino news"
 
 [sidebar.avatar]
 enabled = true

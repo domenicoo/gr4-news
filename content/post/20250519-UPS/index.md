@@ -4,7 +4,7 @@ description:
 slug: UPS
 date: 2025-05-19 00:00:00+0000
 categories:
-    - Purchases
+    - Local
 tags:
     - IT
     - purchases

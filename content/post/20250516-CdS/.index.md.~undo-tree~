@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"57cb9a6db5a65455acadd22c6a12d847d1835ce4"
+"bb46ef8c3d4ffbd4deafa20865b5d9a4586a5300"
 [nil nil nil nil (26667 17560 81202 0) 0 nil]
 ([nil nil ((nil rear-nonsticky nil 5498 . 5499) (nil fontified nil 261 . 5499) (261 . 5499) (t 26667 16423 65696 936000)) nil (26667 17560 81201 0) 0 nil])
 ([nil nil ((#(" 
@@ -85,5 +85,8 @@ tags:
 ([nil nil ((4283 . 4286)) nil (26667 23373 405172 0) 0 nil])
 ([nil nil ((4622 . 4625)) nil (26667 23373 405171 0) 0 nil])
 ([nil nil ((#("#" 0 1 (face markdown-header-delimiter-face markdown-heading-2-atx (4622 4638 nil nil nil nil nil nil 4622 4625 4625 4638 #<buffer 20250516-CdS/index.md>) markdown-heading (4622 4638 nil nil nil nil nil nil 4622 4625 4625 4638 #<buffer 20250516-CdS/index.md>) fontified t)) . -4623) (undo-tree-id276 . -1) 4624) nil (26667 23373 405170 0) 0 nil])
-([nil current ((4987 . 4989)) nil (26667 23373 405159 0) 0 nil])
+([nil nil ((4987 . 4989)) nil (26667 23373 405159 0) 0 nil])
+([nil nil ((145 . 146) (t 26667 23373 408127 810000)) nil (26667 33327 63270 0) 0 nil])
+([nil nil ((#("C" 0 1 (markdown-yaml-metadata-section (5 246) fontified t)) . -112) (undo-tree-id277 . -1) (undo-tree-id278 . -1) (undo-tree-id279 . -1) (#("d" 0 1 (markdown-yaml-metadata-section (5 247) fontified t)) . -113) (undo-tree-id280 . -1) (undo-tree-id281 . -1) (undo-tree-id282 . -1) (#("S" 0 1 (markdown-yaml-metadata-section (5 248) fontified t)) . -114) (undo-tree-id283 . -1) (undo-tree-id284 . -1) (undo-tree-id285 . -1) 115) nil (26667 33327 63268 0) 0 nil])
+([nil current ((112 . 117)) nil (26667 33327 63255 0) 0 nil])
 nil

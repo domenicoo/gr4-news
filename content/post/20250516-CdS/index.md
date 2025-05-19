@@ -4,10 +4,10 @@ description:
 slug: CdS-may
 date: 2025-05-16 00:00:00+0000
 categories:
-    - CdS
+    - Local
 tags:
     - CdS
-    - Italian
+    - Italiano
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 

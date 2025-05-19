@@ -1,0 +1,68 @@
+(undo-tree-save-format-version . 1)
+"cbdd26fc059719278f06228c0cee678d94c81ff0"
+[nil nil nil nil (26667 34702 162517 0) 0 nil]
+([nil nil ((285 . 286) (t 26667 34322 326792 737000)) nil (26667 34702 162516 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1044 . 1045) (nil fontified nil 286 . 1045) (286 . 1045)) nil (26667 34702 162515 0) 0 nil])
+([nil nil ((#("
+Buongiorno,
+
+le iscrizioni alla sedicesima edizione della Efficient Scientific Computing School sono ufficialmente aperte.
+Si tratta di un'opportunità unica per dottorandi, post-doc e ricercatori che desiderano approfondire le proprie competenze nel campo del calcolo scientifico avanzato.
+Il programma si concentra su architetture, strumenti e metodologie per lo sviluppo di applicazioni scientifiche efficienti su larga scala.
+Il centro universitario di Bertinoro, che si trova all'interno di un borgo medievale immerso nelle colline romagnole, farà da cornice a questa esperienza unica.
+La scadenza per le application con early bird è il 15 Maggio 2025.
+Tutte le informazioni sono presenti a seguire e lo staff è a vostra completa disposizione al seguente indirizzo e-mail: esc_contact@lists.infn.it <mailto:esc_contact@lists.infn.it>.
+Vi preghiamo di inoltrare il presente messaggio all'interno della Vostra struttura.
+
+Cordiali saluti,
+Anna
+
+---
+Anna Dalla Bona
+ESC SCHOOL
+Tel. +39 049 967 7145
+esc_contact@lists.infn.it <mailto:esc_contact@lists.infn.it>
+esc.infn.it <https://esc.infn.it/>
+ <https://esc.infn.it/>
+
+
+ESC 2025
+EFFICIENT SCIENTIFIC COMPUTING SCHOOL
+29.9 - 9.10 2025
+CEUB - Bertinoro (FC) Italy
+PROGRAM
+Fundamentals of efficient programming:
+- modern processor architectures
+- tools and methodologies to improve performance
+- efficient use of modern C++
+- managing memory usage
+
+Parallel programming for scientific applications:
+- parallel CPU programming
+- floating-point computation
+- GPU programming
+- cluster computing with MPI
+
+ORGANIZED BY
+INFN
+in partnership with
+NGT Next Generation Triggers
+APPLICATIONS AND INFO
+esc.infn.it <https://esc.infn.it/>
+ <https://linktr.ee/esc_school> 	
+
+
+" 0 1 (fontified t) 1 12 (fontified t) 12 781 (fontified t) 781 782 (fontified t face (markdown-markup-face) invisible markdown-markup) 782 804 (fontified t face (markdown-italic-face)) 804 805 (fontified t font-lock-multiline t rear-nonsticky t invisible markdown-markup face (markdown-markup-face markdown-italic-face)) 805 815 (fontified t mouse-face markdown-highlight-face font-lock-multiline t face (markdown-plain-url-face markdown-italic-face) keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face))) 815 816 (fontified t invisible markdown-markup mouse-face markdown-highlight-face font-lock-multiline t face (markdown-markup-face markdown-plain-url-face) keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face))) 816 837 (fontified t mouse-face markdown-highlight-face font-lock-multiline t face markdown-plain-url-face keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face))) 837 838 (fontified t font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face) 838 840 (fontified t) 840 948 (fontified t) 948 951 (font-lock-multiline t face markdown-hr-face markdown-hr (1993 1996 1993 1996 #<buffer 20250505-Workshop/index.md>) fontified t) 951 952 (font-lock-multiline t fontified t) 952 1004 (fontified t) 1004 1005 (face (markdown-markup-face) invisible markdown-markup fontified t) 1005 1027 (face (markdown-italic-face) fontified t) 1027 1028 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face (markdown-markup-face markdown-italic-face) fontified t) 1028 1038 (mouse-face markdown-highlight-face font-lock-multiline t face (markdown-plain-url-face markdown-italic-face) keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) fontified t) 1038 1039 (invisible markdown-markup mouse-face markdown-highlight-face font-lock-multiline t face (markdown-markup-face markdown-plain-url-face) keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) fontified t) 1039 1060 (mouse-face markdown-highlight-face font-lock-multiline t face markdown-plain-url-face keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) fontified t) 1060 1061 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face fontified t) 1061 1062 (font-lock-multiline t fontified t) 1062 1074 (fontified t) 1074 1075 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face fontified t) 1075 1095 (mouse-face markdown-highlight-face font-lock-multiline t face markdown-plain-url-face keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) fontified t) 1095 1096 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face fontified t) 1096 1097 (font-lock-multiline t fontified t) 1097 1098 (fontified t) 1098 1099 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face fontified t) 1099 1119 (mouse-face markdown-highlight-face font-lock-multiline t face markdown-plain-url-face keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) fontified t) 1119 1120 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face fontified t) 1120 1121 (font-lock-multiline t fontified t) 1121 1216 (fontified t) 1216 1223 (fontified t) 1223 1262 (fontified t) 1262 1263 (face markdown-list-face fontified t markdown-list-item ((2307 2339 0 2 "- " nil (2307 2309 2307 2307 2307 2308 2308 2309)))) 1263 1294 (fontified t markdown-list-item ((2307 2339 0 2 "- " nil (2307 2309 2307 2307 2307 2308 2308 2309)))) 1294 1295 (font-lock-multiline t fontified t) 1295 1296 (face markdown-list-face fontified t markdown-list-item ((2340 2388 0 2 "- " nil (2340 2342 2340 2340 2340 2341 2341 2342)))) 1296 1343 (fontified t markdown-list-item ((2340 2388 0 2 "- " nil (2340 2342 2340 2340 2340 2341 2341 2342)))) 1343 1344 (font-lock-multiline t fontified t) 1344 1345 (face markdown-list-face fontified t markdown-list-item ((2389 2418 0 2 "- " nil (2389 2391 2389 2389 2389 2390 2390 2391)))) 1345 1373 (fontified t markdown-list-item ((2389 2418 0 2 "- " nil (2389 2391 2389 2389 2389 2390 2390 2391)))) 1373 1374 (font-lock-multiline t fontified t) 1374 1375 (face markdown-list-face fontified t markdown-list-item ((2419 2442 0 2 "- " nil (2419 2421 2419 2419 2419 2420 2420 2421)))) 1375 1397 (fontified t markdown-list-item ((2419 2442 0 2 "- " nil (2419 2421 2419 2419 2419 2420 2420 2421)))) 1397 1398 (font-lock-multiline t fontified t) 1398 1449 (fontified t) 1449 1450 (face markdown-list-face fontified t markdown-list-item ((2494 2520 0 2 "- " nil (2494 2496 2494 2494 2494 2495 2495 2496)))) 1450 1475 (fontified t markdown-list-item ((2494 2520 0 2 "- " nil (2494 2496 2494 2494 2494 2495 2495 2496)))) 1475 1476 (font-lock-multiline t fontified t) 1476 1477 (face markdown-list-face fontified t markdown-list-item ((2521 2549 0 2 "- " nil (2521 2523 2521 2521 2521 2522 2522 2523)))) 1477 1504 (fontified t markdown-list-item ((2521 2549 0 2 "- " nil (2521 2523 2521 2521 2521 2522 2522 2523)))) 1504 1505 (font-lock-multiline t fontified t) 1505 1506 (face markdown-list-face fontified t markdown-list-item ((2550 2567 0 2 "- " nil (2550 2552 2550 2550 2550 2551 2551 2552)))) 1506 1522 (fontified t markdown-list-item ((2550 2567 0 2 "- " nil (2550 2552 2550 2550 2550 2551 2551 2552)))) 1522 1523 (font-lock-multiline t fontified t) 1523 1524 (face markdown-list-face fontified t markdown-list-item ((2568 2596 0 2 "- " nil (2568 2570 2568 2568 2568 2569 2569 2570)))) 1524 1551 (fontified t markdown-list-item ((2568 2596 0 2 "- " nil (2568 2570 2568 2568 2568 2569 2569 2570)))) 1551 1552 (font-lock-multiline t fontified t) 1552 1654 (fontified t) 1654 1655 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face fontified t) 1655 1675 (mouse-face markdown-highlight-face font-lock-multiline t face markdown-plain-url-face keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face)) fontified t) 1675 1676 (font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face fontified t) 1676 1677 (font-lock-multiline t fontified t) 1677 1678 (fontified t) 1678 1679 (fontified t font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face) 1679 1707 (fontified t mouse-face markdown-highlight-face font-lock-multiline t face markdown-plain-url-face keymap (keymap (mouse-2 . markdown-follow-thing-at-point) (follow-link . mouse-face))) 1707 1708 (fontified t font-lock-multiline t rear-nonsticky t invisible markdown-markup face markdown-markup-face) 1708 1711 (fontified t) 1711 1712 (fontified t) 1712 1713 (fontified t)) . -1045) (undo-tree-id5 . -1713) 2758) nil (26667 34702 162514 0) 0 nil])
+([nil nil ((#("schools" 0 7 (fontified t markdown-yaml-metadata-section (5 281))) . -172) (undo-tree-id4 . -7) 179) nil (26667 34702 162513 0) 0 nil])
+([nil nil ((172 . 174)) nil (26667 34702 162512 0) 0 nil])
+([nil nil ((#("h" 0 1 (markdown-yaml-metadata-section (5 276) fontified t)) . -173) (undo-tree-id3 . -1) 174) nil (26667 34702 162511 0) 0 nil])
+([nil nil ((173 . 181)) nil (26667 34702 162510 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 67 . 68) (nil fontified nil 12 . 68) (12 . 68)) nil (26667 34702 162510 0) 0 nil])
+([nil nil ((#("ESC25 - Efficient Scientific School - " 0 38 (face markdown-metadata-value-face markdown-metadata-value (5 126 5 10 10 12 12 126 #<buffer 20250505-Workshop/index.md>) markdown-yaml-metadata-section (5 339) fontified t)) . 68)) nil (26667 34702 162509 0) 0 nil])
+([nil nil ((#("Apertura iscrizioni " 0 20 (face markdown-metadata-value-face markdown-metadata-value (5 88 5 10 10 12 12 88 #<buffer 20250505-Workshop/index.md>) markdown-yaml-metadata-section (5 301) fontified t)) . 68)) nil (26667 34702 162508 0) 0 nil])
+([nil nil ((#("\"" 0 1 (face markdown-metadata-value-face markdown-metadata-value (5 68 5 10 10 12 12 68 #<buffer 20250505-Workshop/index.md>) markdown-yaml-metadata-section (5 281) fontified t)) . -67) (undo-tree-id2 . -1) 68) nil (26667 34702 162507 0) 0 nil])
+([nil nil ((#("\"" 0 1 (face markdown-metadata-value-face markdown-metadata-value (5 67 5 10 10 12 12 67 #<buffer 20250505-Workshop/index.md>) markdown-yaml-metadata-section (5 280) fontified t)) . -29) (undo-tree-id1 . -1) 30) nil (26667 34702 162506 0) 0 nil])
+([nil nil ((#("ESC25" 0 5 (face markdown-metadata-value-face markdown-metadata-value (81 92 81 85 85 87 87 92 #<buffer 20250505-Workshop/index.md>) markdown-yaml-metadata-section (5 279) fontified t)) . -87) (undo-tree-id0 . -5) 92) nil (26667 34702 162504 0) 0 nil])
+([nil nil ((87 . 94)) nil (26667 34702 162488 0) 0 nil])
+([nil current ((1045 . 1046) 94) nil (26667 34702 162486 0) 0 nil])
+nil

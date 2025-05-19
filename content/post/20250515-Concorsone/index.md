@@ -1,5 +1,5 @@
 ---
-title: Candidati al concorso INFN, un po' di dati
+title: Candidati al concorsone INFN, un po' di dati
 description: 
 slug: concorsone
 language: it
@@ -7,7 +7,7 @@ date: 2025-05-16 00:00:00+0000
 categories:
     - INFN
 tags:
-    - INFN
+    - Jobs
     - Italiano
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---

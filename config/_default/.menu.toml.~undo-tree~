@@ -1,0 +1,5 @@
+(undo-tree-save-format-version . 1)
+"5d7226fb52bedc816fd8db8022a3970aeb85ba6a"
+[nil nil nil nil (26667 34405 850381 0) 0 nil]
+([nil current ((apply -24 142 427 undo--wrap-and-run-primitive-undo 142 427 ((402 . 404) (384 . 386) (353 . 355) (334 . 336) (309 . 311) (296 . 298) (271 . 273) (253 . 255) (197 . 199) (179 . 181) (155 . 157) (142 . 144) 403))) nil (26667 34405 850380 0) 0 nil])
+nil
