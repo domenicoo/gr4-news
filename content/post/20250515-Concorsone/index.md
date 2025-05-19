@@ -2,6 +2,7 @@
 title: Candidati al concorso INFN, un po' di dati
 description: 
 slug: concorsone
+language: it
 date: 2025-05-16 00:00:00+0000
 categories:
     - INFN
@@ -11,7 +12,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-qualche tempo fa vi avevo chiesto di mettermi in contatto con i candidati al concorso INFN che avevano espresso preferenza per la sede di Torino.
+Qualche tempo fa vi avevo chiesto di mettermi in contatto con i candidati al concorso INFN che avevano espresso preferenza per la sede di Torino.
 
 Per essere completamente trasparenti, vi fornisco alcune statistiche (tenendo presente che i numeri sono piccoli e la varianza è grande).
 

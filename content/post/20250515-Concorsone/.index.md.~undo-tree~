@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"86bcbcf5d15f4eec00636c02a0bf37ba44226170"
+"a291842cbf4ab32512d899506cbb77c3bbefb3be"
 [nil nil nil nil (26667 18334 14113 0) 0 nil]
 ([nil nil ((273 . 274) (t 26667 17809 500765 665000)) nil (26667 18334 14113 0) 0 nil])
 ([nil nil ((nil rear-nonsticky nil 1047 . 1048) (nil fontified nil 274 . 1048) (274 . 1048)) nil (26667 18334 14112 0) 0 nil])
@@ -109,6 +109,10 @@ tags:
 ([nil nil ((181 . 183)) nil (26667 23243 875876 0) 0 nil])
 ([nil nil ((183 . 189)) nil (26667 23243 875874 0) 0 nil])
 ([nil nil ((#("image: cover.jpg " 0 5 (face markdown-metadata-key-face markdown-metadata-key (117 134 117 122 122 124 124 134 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 291) fontified t) 5 7 (face markdown-markup-face markdown-metadata-markup (117 134 117 122 122 124 124 134 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 291) fontified t) 7 17 (face markdown-metadata-value-face markdown-metadata-value (117 134 117 122 122 124 124 134 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 291) fontified t)) . 117) (undo-tree-id386 . -17) (undo-tree-id387 . -17) (undo-tree-id388 . -17) (undo-tree-id389 . -17) (undo-tree-id390 . -17) (t 26667 23243 880192 561000)) nil (26667 23285 435670 0) 0 nil])
-([nil current ((#("
+([nil nil ((#("
 " 0 1 (font-lock-multiline t markdown-yaml-metadata-section (5 274) fontified t)) . -116) (undo-tree-id380 . -1) (undo-tree-id381 . -1) (undo-tree-id382 . -1) (undo-tree-id383 . -1) (undo-tree-id384 . -1) (undo-tree-id385 . -1) 117) nil (26667 23285 435665 0) 0 nil])
+([nil nil ((85 . 86) (t 26667 23285 439443 681000)) nil (26667 23520 434913 0) 0 nil])
+([nil nil ((86 . 98)) nil (26667 23520 434910 0) 0 nil])
+([nil nil ((#("q" 0 1 (fontified t)) . -291) (undo-tree-id391 . -1) (undo-tree-id392 . -1) (undo-tree-id393 . -1) (undo-tree-id394 . -1) (undo-tree-id395 . -1) (undo-tree-id396 . -1) (undo-tree-id397 . -1) (undo-tree-id398 . -1) (undo-tree-id399 . -1) (undo-tree-id400 . -1) (undo-tree-id401 . -1) (undo-tree-id402 . -1) (undo-tree-id403 . -1) (undo-tree-id404 . -1) (undo-tree-id405 . -1) (undo-tree-id406 . -1) (undo-tree-id407 . -1) (undo-tree-id408 . -1) (undo-tree-id409 . -1) (undo-tree-id410 . -1) (undo-tree-id411 . -1) (undo-tree-id412 . -1) (undo-tree-id413 . -1) (undo-tree-id414 . -1) (undo-tree-id415 . -1) (undo-tree-id416 . -1) (undo-tree-id417 . -1) (undo-tree-id418 . -1) (undo-tree-id419 . -1) (undo-tree-id420 . -1) (undo-tree-id421 . -1) (undo-tree-id422 . -1) (undo-tree-id423 . -1) (undo-tree-id424 . -1) (undo-tree-id425 . -1) (undo-tree-id426 . -1) (undo-tree-id427 . -1) (undo-tree-id428 . -1) (undo-tree-id429 . -1) (undo-tree-id430 . -1) 292 (t 26667 23520 438682 90000)) nil (26667 23960 578736 0) 0 nil])
+([nil current ((291 . 292)) nil (26667 23960 578711 0) 0 nil])
 nil
