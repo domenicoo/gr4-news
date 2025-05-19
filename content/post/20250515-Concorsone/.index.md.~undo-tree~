@@ -1,0 +1,114 @@
+(undo-tree-save-format-version . 1)
+"86bcbcf5d15f4eec00636c02a0bf37ba44226170"
+[nil nil nil nil (26667 18334 14113 0) 0 nil]
+([nil nil ((273 . 274) (t 26667 17809 500765 665000)) nil (26667 18334 14113 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1047 . 1048) (nil fontified nil 274 . 1048) (274 . 1048)) nil (26667 18334 14112 0) 0 nil])
+([nil nil ((#("
+Carissimi,
+
+il 16 maggio 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.
+
+
+Dal Consiglio Direttivo
+
+È stato rinnovato l'accordo con ICTP.
+Il FOE (Fondo Ordinario per gli Enti di ricerca) è in fase di definizione. Si prevede che le parti non premiali rimarranno invariate, mentre per le parti premiali sono attesi 20M€ per il 2025 e 50M€ per il 2026. Di questi, 10M€ saranno destinati all'INFN. La trattativa è resa più complicata dal fatto che l'INFN è l'unico tra gli enti di ricerca che non sta cambiando management in questo periodo.
+È stato nominato un nuovo presidente IRIM, un professore del Politecnico di Torino.
+
+Riforma del Preruolo
+
+È assolutamente chiara la necessità di una figura intermedia tra dottorato e contratto di ricerca.
+La proposta originaria del MUR è stata abbandonata per mancanza di consenso, sia a livello nazionale che in parlamento. Si è registrata una forte opposizione sindacale (CGIL e ADI).
+
+La nuova proposta prevede due contratti intermedi: incarico di ricerca e postdoc.
+Il postdoc includerà anche attività didattica, ammetterà finanziamenti esterni (es. INFN), sarà a tempo determinato di 1 anno con possibilità fino a 3 rinnovi, ed è destinato a chi ha conseguito il dottorato.
+L'incarico di ricerca sostituirà l'AdR (Assegno di Ricerca), sarà detassato con 3 scaglioni salariali, a tempo determinato di 1 anno con possibilità fino a tre rinnovi, e sarà disponibile entro 6 anni dalla laurea, concedendo tempo sufficiente per ottenerlo anche dopo il dottorato.
+Il nuovo incarico di ricerca non sarà compatibile con il dottorato e non potrà essere utilizzato per finanziare dottorati senza borsa.
+Al momento, sembra che università ed EPR procederanno in modo diverso: le università con contratto subordinato (forse con introduzione del cartellino), gli EPR con contratto parasubordinato e previdenza in gestione separata. Potrebbero sorgere problemi nel riconoscimento dell'anzianità per i concorsi.
+
+Per affrontare l'attuale vuoto normativo, esistono: borse di studio post-laurea (utilizzate intensamente dalle università, ma non dall'INFN, se non per ponti di qualche mese) e borse di studio postdoc. Queste non sono state abolite esplicitamente per gli EPR, ma sono soggette a tassazione e quindi hanno un costo complessivo superiore. Ci sono limitazioni per chi ha già avuto un AdR, ma con possibilità di discussione con la giunta. È in preparazione un disciplinare.
+
+La situazione rimane molto fluida, ma ci si aspettano novità entro la prima settimana di giugno, quando saremo in completo vuoto normativo. Per dirne una, in questo momento non è possibile far venire in Italia i vincitori di una borsa Marie Curie.
+
+Concorsone
+
+Sono state definite le modalità di svolgimento e i candidati sono stati informati.
+La prova scritta per i teorici si terrà il 22 maggio.
+La prova comprenderà domande chiuse, domande aperte e un tema breve, con possibilità di scelta tra diversi argomenti.
+Il testo sarà disponibile in italiano e inglese, con possibilità di rispondere in inglese.
+Verrà fornito un tablet ai candidati e non sarà consentito portare niente (inclusa la carta) dall'esterno.
+
+Situazione Internazionale
+
+USA
+È stato proposto un taglio del 55% dei fondi alla NSF. Sono già stati terminati da un giorno all'altro grant per un totale di 1G$.
+Sono in dubbio i progetti comuni con l'INFN, creando problemi principalmente ai laboratori del Gran Sasso.
+Si valuta un possibile contributo del Canada al progetto Darkside.
+
+ET (Einstein Telescope)
+La situazione internazionale è in evoluzione dopo l'annuncio in Germania di investimenti dell'ordine di 100G€.
+Si prospetta una possibile spinta verso un laboratorio da costruire intorno a Maastricht o in Sassonia.
+
+I tagli negli USA rischiano di cancellare tutti i prossimi grandi esperimenti (come Cosmic Explorer) per i prossimi 10 anni.
+Si prevedono problemi per tutte le attività interconnesse, considerando che per esempio attualmente il 70% del software è supportato dagli americani.
+
+IA (Intelligenza Artificiale)
+La Commissione Europea ha previsto investimenti per costruire 5 AI factory da 4G€ ciascuna, ripartiti in 3G€ con fondi privati e 1G€ dalla Commissione.
+Francia e paesi nordici si mostrano molto interessati.
+L'INFN sta promuovendo una candidatura italiana, ma non è chiaro come reperire i fondi necessari.
+
+Piccole Spese
+È stata definita la figura dell'agente contabile. A Torino, questo ruolo sarà ricoperto dal Direttore.
+Mancano ancora i moduli per avviare il sistema delle piccole spese.
+Per gli acquisti via web persistono problemi sia tecnici che nella scelta delle categorie merceologiche proponibili.
+Si prevede di avviare una fase di sperimentazione a giugno.
+
+Comunicazioni dalla Segreteria di Direzione
+Bisogna chiudere il cartellino tassativamente entro il 5 del mese successivo, pena il blocco dell'intera procedura.
+Le ferie residue devono essere godute entro il 31 agosto dell'anno successivo.
+È richiesto di pianificare almeno due settimane di ferie nel periodo tra giugno e settembre.
+
+
+Non esitate a scrivermi se volete altri chiarimenti.
+Vi ricordo che come sempre potete trovare tutti le slides e i documenti del CdS all'indirizzo
+
+l.infn.it/cds-to
+
+A presto!  
+Domenico
+
+" 0 1 (fontified t) 1 1228 (fontified t) 1228 1257 (fontified t) 1257 1466 (fontified t) 1466 1501 (fontified t) 1501 1540 (fontified t) 1540 2757 (fontified t) 2757 2794 (fontified t) 2794 3040 (fontified t) 3040 3057 (fontified t) 3057 4294 (fontified t) 4294 4353 (fontified t) 4353 4557 (fontified t) 4557 4656 (fontified t) 4656 5226 (fontified t) 5226 5228 (face (markdown-line-break-face) invisible markdown-markup fontified t) 5228 5229 (font-lock-multiline t fontified t) 5229 5238 (fontified t) 5238 5239 (fontified t)) . -1048) (undo-tree-id4 . -525) (undo-tree-id5 . -5239) 6287) nil (26667 18334 14111 0) 0 nil])
+([nil nil ((#("C" 0 1 (markdown-yaml-metadata-section (5 267) fontified t)) . -150) (undo-tree-id1 . -1) (#("d" 0 1 (markdown-yaml-metadata-section (5 268) fontified t)) . -151) (undo-tree-id2 . -1) (#("S" 0 1 (fontified t markdown-yaml-metadata-section (5 269))) . -152) (undo-tree-id3 . -1) 153) nil (26667 18334 14109 0) 0 nil])
+([nil nil ((150 . 154)) nil (26667 18334 14107 0) 0 nil])
+([nil nil ((154 . 156)) nil (26667 18334 14106 0) 0 nil])
+([nil nil ((156 . 165)) nil (26667 18334 14106 0) 0 nil])
+([nil nil ((#("Note dal CdS di Maggio" 0 22 (face markdown-metadata-value-face markdown-metadata-value (5 34 5 10 10 12 12 34 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 281) fontified t)) . 12)) nil (26667 18334 14105 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 53 . 54) (nil fontified nil 12 . 54) (12 . 54)) nil (26667 18334 14104 0) 0 nil])
+([nil nil ((#("c" 0 1 (face markdown-metadata-value-face markdown-metadata-value (5 54 5 10 10 12 12 54 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 301) fontified t)) . -12) (undo-tree-id0 . -1) 13) nil (26667 18334 14103 0) 0 nil])
+([nil nil ((12 . 13)) nil (26667 18334 14090 0) 0 nil])
+([nil nil ((69 . 70)) nil (26667 18334 14088 0) 0 nil])
+([nil nil ((70 . 71) (t 26667 18334 19653 993000)) nil (26667 18347 232323 0) 0 nil])
+([nil nil ((#("#" 0 1 (markdown-yaml-metadata-section (5 302) fontified t)) . -69) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (undo-tree-id25 . -1) (undo-tree-id26 . -1) (undo-tree-id27 . -1) (undo-tree-id28 . -1) (undo-tree-id29 . -1) (undo-tree-id30 . -1) (undo-tree-id31 . -1) (undo-tree-id32 . -1) (undo-tree-id33 . -1) (undo-tree-id34 . -1) (undo-tree-id35 . -1) (undo-tree-id36 . -1) (undo-tree-id37 . -1) (undo-tree-id38 . -1) (undo-tree-id39 . -1) (undo-tree-id40 . -1) (undo-tree-id41 . -1) (undo-tree-id42 . -1) (undo-tree-id43 . -1) (undo-tree-id44 . -1) (undo-tree-id45 . -1) (undo-tree-id46 . -1) (undo-tree-id47 . -1) (undo-tree-id48 . -1) (undo-tree-id49 . -1) (undo-tree-id50 . -1) (undo-tree-id51 . -1) (undo-tree-id52 . -1) (undo-tree-id53 . -1) (undo-tree-id54 . -1) (undo-tree-id55 . -1) (undo-tree-id56 . -1) (undo-tree-id57 . -1) (undo-tree-id58 . -1) (undo-tree-id59 . -1) (undo-tree-id60 . -1) (undo-tree-id61 . -1) (undo-tree-id62 . -1) (undo-tree-id63 . -1) (undo-tree-id64 . -1) (undo-tree-id65 . -1) (undo-tree-id66 . -1) (undo-tree-id67 . -1) (undo-tree-id68 . -1) (undo-tree-id69 . -1) (undo-tree-id70 . -1) (undo-tree-id71 . -1) (undo-tree-id72 . -1) (undo-tree-id73 . -1) (undo-tree-id74 . -1) (undo-tree-id75 . -1) (undo-tree-id76 . -1) (undo-tree-id77 . -1) (undo-tree-id78 . -1) (undo-tree-id79 . -1) (undo-tree-id80 . -1) (undo-tree-id81 . -1) (undo-tree-id82 . -1) (undo-tree-id83 . -1) (undo-tree-id84 . -1) (undo-tree-id85 . -1) (undo-tree-id86 . -1) (undo-tree-id87 . -1) (undo-tree-id88 . -1) (undo-tree-id89 . -1) (undo-tree-id90 . -1) (undo-tree-id91 . -1) (undo-tree-id92 . -1) (undo-tree-id93 . -1) (undo-tree-id94 . -1) (undo-tree-id95 . -1) (undo-tree-id96 . -1) (undo-tree-id97 . -1) (undo-tree-id98 . -1) (undo-tree-id99 . -1) (undo-tree-id100 . -1) (undo-tree-id101 . -1) (undo-tree-id102 . -1) (undo-tree-id103 . -1) (undo-tree-id104 . -1) (undo-tree-id105 . -1) (undo-tree-id106 . -1) (undo-tree-id107 . -1) (undo-tree-id108 . -1) (undo-tree-id109 . -1) (undo-tree-id110 . -1) (undo-tree-id111 . -1) (undo-tree-id112 . -1) (undo-tree-id113 . -1) (undo-tree-id114 . -1) (undo-tree-id115 . -1) (undo-tree-id116 . -1) (undo-tree-id117 . -1) (undo-tree-id118 . -1) (undo-tree-id119 . -1) (undo-tree-id120 . -1) (undo-tree-id121 . -1) (undo-tree-id122 . -1) (undo-tree-id123 . -1) (undo-tree-id124 . -1) (undo-tree-id125 . -1) (undo-tree-id126 . -1) (undo-tree-id127 . -1) (undo-tree-id128 . -1) (undo-tree-id129 . -1) (undo-tree-id130 . -1) (undo-tree-id131 . -1) (undo-tree-id132 . -1) (undo-tree-id133 . -1) (undo-tree-id134 . -1) (undo-tree-id135 . -1) (undo-tree-id136 . -1) (undo-tree-id137 . -1) (undo-tree-id138 . -1) (undo-tree-id139 . -1) (undo-tree-id140 . -1) (undo-tree-id141 . -1) (undo-tree-id142 . -1) (undo-tree-id143 . -1) (undo-tree-id144 . -1) (undo-tree-id145 . -1) (undo-tree-id146 . -1) (undo-tree-id147 . -1) (undo-tree-id148 . -1) (undo-tree-id149 . -1) (undo-tree-id150 . -1) (undo-tree-id151 . -1) (undo-tree-id152 . -1) (undo-tree-id153 . -1) (undo-tree-id154 . -1) (undo-tree-id155 . -1) (undo-tree-id156 . -1) (undo-tree-id157 . -1) (undo-tree-id158 . -1) (undo-tree-id159 . -1) (undo-tree-id160 . -1) (undo-tree-id161 . -1) (undo-tree-id162 . -1) (undo-tree-id163 . -1) (undo-tree-id164 . -1) (undo-tree-id165 . -1) (undo-tree-id166 . -1) (undo-tree-id167 . -1) (undo-tree-id168 . -1) (#("=" 0 1 (markdown-yaml-metadata-section (5 303) fontified t)) . -70) (undo-tree-id169 . -1) (undo-tree-id170 . -1) (undo-tree-id171 . -1) (undo-tree-id172 . -1) (undo-tree-id173 . -1) (undo-tree-id174 . -1) (undo-tree-id175 . -1) (undo-tree-id176 . -1) (undo-tree-id177 . -1) (undo-tree-id178 . -1) (undo-tree-id179 . -1) (undo-tree-id180 . -1) (undo-tree-id181 . -1) (undo-tree-id182 . -1) (undo-tree-id183 . -1) (undo-tree-id184 . -1) (undo-tree-id185 . -1) (undo-tree-id186 . -1) (undo-tree-id187 . -1) (undo-tree-id188 . -1) (undo-tree-id189 . -1) (undo-tree-id190 . -1) (undo-tree-id191 . -1) (undo-tree-id192 . -1) (undo-tree-id193 . -1) (undo-tree-id194 . -1) (undo-tree-id195 . -1) (undo-tree-id196 . -1) (undo-tree-id197 . -1) (undo-tree-id198 . -1) (undo-tree-id199 . -1) (undo-tree-id200 . -1) (undo-tree-id201 . -1) (undo-tree-id202 . -1) (undo-tree-id203 . -1) (undo-tree-id204 . -1) (undo-tree-id205 . -1) (undo-tree-id206 . -1) (undo-tree-id207 . -1) (undo-tree-id208 . -1) (undo-tree-id209 . -1) (undo-tree-id210 . -1) (undo-tree-id211 . -1) (undo-tree-id212 . -1) (undo-tree-id213 . -1) (undo-tree-id214 . -1) (undo-tree-id215 . -1) (undo-tree-id216 . -1) (undo-tree-id217 . -1) (undo-tree-id218 . -1) (undo-tree-id219 . -1) (undo-tree-id220 . -1) (undo-tree-id221 . -1) (undo-tree-id222 . -1) (undo-tree-id223 . -1) (undo-tree-id224 . -1) (undo-tree-id225 . -1) (undo-tree-id226 . -1) (undo-tree-id227 . -1) (undo-tree-id228 . -1) (undo-tree-id229 . -1) (undo-tree-id230 . -1) (undo-tree-id231 . -1) (undo-tree-id232 . -1) (undo-tree-id233 . -1) (undo-tree-id234 . -1) (undo-tree-id235 . -1) (undo-tree-id236 . -1) (undo-tree-id237 . -1) (undo-tree-id238 . -1) (undo-tree-id239 . -1) (undo-tree-id240 . -1) (undo-tree-id241 . -1) (undo-tree-id242 . -1) (undo-tree-id243 . -1) (undo-tree-id244 . -1) 71) nil (26667 18347 232312 0) 0 nil])
+([nil nil ((#("    - INFN" 0 10 (markdown-yaml-metadata-section (5 301) fontified t)) . 164) (undo-tree-id330 . -10) (undo-tree-id331 . -10) (undo-tree-id332 . -10) (undo-tree-id333 . -10) (undo-tree-id334 . -10) (undo-tree-id335 . -10) (undo-tree-id336 . -10) (undo-tree-id337 . -10) (undo-tree-id338 . -10) (undo-tree-id339 . -10) (undo-tree-id340 . -10) (undo-tree-id341 . -10) (undo-tree-id342 . -10) (undo-tree-id343 . -10) (undo-tree-id344 . -10) (undo-tree-id345 . -10) (undo-tree-id346 . -10) (undo-tree-id347 . -10) (undo-tree-id348 . -10) (undo-tree-id349 . -10) (undo-tree-id350 . -10) (undo-tree-id351 . -10) (undo-tree-id352 . -10) (undo-tree-id353 . -10) (undo-tree-id354 . -10) (undo-tree-id355 . -10) (undo-tree-id356 . -10) (undo-tree-id357 . -10) (undo-tree-id358 . -10) (undo-tree-id359 . -10) (undo-tree-id360 . -10) (undo-tree-id361 . -10) (undo-tree-id362 . -10) (undo-tree-id363 . -10) (undo-tree-id364 . -10) (undo-tree-id365 . -10) (undo-tree-id366 . -10) (undo-tree-id367 . -10) (undo-tree-id368 . -10) (t 26667 18347 235563 138000)) nil (26667 18363 346528 0) 0 nil])
+([nil nil ((#("
+" 0 1 (font-lock-multiline t markdown-yaml-metadata-section (5 291) fontified t)) . -163) (undo-tree-id245 . -1) (undo-tree-id246 . -1) (undo-tree-id247 . -1) (undo-tree-id248 . -1) (undo-tree-id249 . -1) (undo-tree-id250 . -1) (undo-tree-id251 . -1) (undo-tree-id252 . -1) (undo-tree-id253 . -1) (undo-tree-id254 . -1) (undo-tree-id255 . -1) (undo-tree-id256 . -1) (undo-tree-id257 . -1) (undo-tree-id258 . -1) (undo-tree-id259 . -1) (undo-tree-id260 . -1) (undo-tree-id261 . -1) (undo-tree-id262 . -1) (undo-tree-id263 . -1) (undo-tree-id264 . -1) (undo-tree-id265 . -1) (undo-tree-id266 . -1) (undo-tree-id267 . -1) (undo-tree-id268 . -1) (undo-tree-id269 . -1) (undo-tree-id270 . -1) (undo-tree-id271 . -1) (undo-tree-id272 . -1) (undo-tree-id273 . -1) (undo-tree-id274 . -1) (undo-tree-id275 . -1) (undo-tree-id276 . -1) (undo-tree-id277 . -1) (undo-tree-id278 . -1) (undo-tree-id279 . -1) (undo-tree-id280 . -1) (undo-tree-id281 . -1) (undo-tree-id282 . -1) (undo-tree-id283 . -1) (undo-tree-id284 . -1) (undo-tree-id285 . -1) (undo-tree-id286 . -1) (undo-tree-id287 . -1) (undo-tree-id288 . -1) (undo-tree-id289 . -1) (undo-tree-id290 . -1) (undo-tree-id291 . -1) (undo-tree-id292 . -1) (undo-tree-id293 . -1) (undo-tree-id294 . -1) (undo-tree-id295 . -1) (undo-tree-id296 . -1) (undo-tree-id297 . -1) (undo-tree-id298 . -1) (undo-tree-id299 . -1) (undo-tree-id300 . -1) (undo-tree-id301 . -1) (undo-tree-id302 . -1) (undo-tree-id303 . -1) (undo-tree-id304 . -1) (undo-tree-id305 . -1) (undo-tree-id306 . -1) (undo-tree-id307 . -1) (undo-tree-id308 . -1) (undo-tree-id309 . -1) (undo-tree-id310 . -1) (undo-tree-id311 . -1) (undo-tree-id312 . -1) (undo-tree-id313 . -1) (undo-tree-id314 . -1) (undo-tree-id315 . -1) (undo-tree-id316 . -1) (undo-tree-id317 . -1) (undo-tree-id318 . -1) (undo-tree-id319 . -1) (undo-tree-id320 . -1) (undo-tree-id321 . -1) (undo-tree-id322 . -1) (undo-tree-id323 . -1) (undo-tree-id324 . -1) (undo-tree-id325 . -1) (undo-tree-id326 . -1) (undo-tree-id327 . -1) (undo-tree-id328 . -1) (undo-tree-id329 . -1) 164) nil (26667 18363 346506 0) 0 nil])
+([nil nil ((#("categories:
+    - CdS
+tags:
+	- Sezione
+    - Italian
+" 0 10 (face markdown-metadata-key-face markdown-metadata-key (136 147 136 146 146 147 147 147 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 290) fontified t) 10 11 (face markdown-markup-face markdown-metadata-markup (136 147 136 146 146 147 147 147 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 290) fontified t) 11 12 (font-lock-multiline t markdown-yaml-metadata-section (5 290) fontified t) 12 22 (markdown-yaml-metadata-section (5 290) fontified t) 22 26 (face markdown-metadata-key-face markdown-metadata-key (158 163 158 162 162 163 163 163 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 290) fontified t) 26 27 (face markdown-markup-face markdown-metadata-markup (158 163 158 162 162 163 163 163 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 290) fontified t) 27 28 (font-lock-multiline t markdown-yaml-metadata-section (5 290) fontified t) 28 38 (markdown-yaml-metadata-section (5 290) fontified t) 38 39 (markdown-yaml-metadata-section (5 290) fontified t) 39 53 (markdown-yaml-metadata-section (5 290) fontified t)) . 136) (undo-tree-id369 . -27) (undo-tree-id370 . -27) (undo-tree-id371 . -27) (undo-tree-id372 . -27) (undo-tree-id373 . -27) (undo-tree-id374 . -53) (undo-tree-id375 . -27) 189 (t 26667 18363 350199 433000)) nil (26667 22779 397539 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 194 . 195) (nil fontified nil 170 . 195) (nil fontified nil 169 . 170) (nil fontified nil 168 . 169) (nil fontified nil 164 . 168) (nil fontified nil 148 . 164) (nil fontified nil 147 . 148) (nil fontified nil 146 . 147) (nil fontified nil 136 . 146) (136 . 195)) nil (26667 22779 397527 0) 0 nil])
+([nil nil ((#("hello-world" 0 11 (face markdown-metadata-value-face markdown-metadata-value (69 86 69 73 73 75 75 86 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 296) fontified t)) . 75) (t 26667 22779 401049 215000)) nil (26667 23203 668487 0) 0 nil])
+([nil nil ((75 . 85)) nil (26667 23203 668484 0) 0 nil])
+([nil nil ((#("Purchases" 0 9 (markdown-yaml-metadata-section (5 295) fontified t)) . -153) (undo-tree-id378 . -9) (undo-tree-id379 . -9) 162 (t 26667 23203 672221 98000)) nil (26667 23243 875890 0) 0 nil])
+([nil nil ((153 . 157)) nil (26667 23243 875888 0) 0 nil])
+([nil nil ((#("I" 0 1 (markdown-yaml-metadata-section (5 289) fontified t)) . -170) (undo-tree-id376 . -1) (#("T" 0 1 (markdown-yaml-metadata-section (5 290) fontified t)) . -171) (undo-tree-id377 . -1) 172) nil (26667 23243 875887 0) 0 nil])
+([nil nil ((170 . 174)) nil (26667 23243 875878 0) 0 nil])
+([nil nil ((#("purchases" 0 9 (markdown-yaml-metadata-section (5 292) fontified t)) . 181)) nil (26667 23243 875877 0) 0 nil])
+([nil nil ((181 . 183)) nil (26667 23243 875876 0) 0 nil])
+([nil nil ((183 . 189)) nil (26667 23243 875874 0) 0 nil])
+([nil nil ((#("image: cover.jpg " 0 5 (face markdown-metadata-key-face markdown-metadata-key (117 134 117 122 122 124 124 134 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 291) fontified t) 5 7 (face markdown-markup-face markdown-metadata-markup (117 134 117 122 122 124 124 134 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 291) fontified t) 7 17 (face markdown-metadata-value-face markdown-metadata-value (117 134 117 122 122 124 124 134 #<buffer 20250515-Concorsone/index.md>) markdown-yaml-metadata-section (5 291) fontified t)) . 117) (undo-tree-id386 . -17) (undo-tree-id387 . -17) (undo-tree-id388 . -17) (undo-tree-id389 . -17) (undo-tree-id390 . -17) (t 26667 23243 880192 561000)) nil (26667 23285 435670 0) 0 nil])
+([nil current ((#("
+" 0 1 (font-lock-multiline t markdown-yaml-metadata-section (5 274) fontified t)) . -116) (undo-tree-id380 . -1) (undo-tree-id381 . -1) (undo-tree-id382 . -1) (undo-tree-id383 . -1) (undo-tree-id384 . -1) (undo-tree-id385 . -1) 117) nil (26667 23285 435665 0) 0 nil])
+nil

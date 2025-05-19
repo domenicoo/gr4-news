@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"135e3954e598ee7a95cdf3f749bcaa0e272f8031"
+"57cb9a6db5a65455acadd22c6a12d847d1835ce4"
 [nil nil nil nil (26667 17560 81202 0) 0 nil]
 ([nil nil ((nil rear-nonsticky nil 5498 . 5499) (nil fontified nil 261 . 5499) (261 . 5499) (t 26667 16423 65696 936000)) nil (26667 17560 81201 0) 0 nil])
 ([nil nil ((#(" 
@@ -66,5 +66,24 @@ tags:
 ([nil nil ((#("I" 0 1 (markdown-yaml-metadata-section (5 269) fontified t)) . -150) (undo-tree-id168 . -1) (#("T" 0 1 (markdown-yaml-metadata-section (5 270) fontified t)) . -151) (undo-tree-id169 . -1) 152 (t 26667 17771 928370 554000)) nil (26667 17809 493889 0) 0 nil])
 ([nil nil ((150 . 153)) nil (26667 17809 493882 0) 0 nil])
 ([nil nil ((#("purchases" 0 9 (markdown-yaml-metadata-section (5 271) fontified t)) . 160)) nil (26667 17809 493880 0) 0 nil])
-([nil current ((160 . 167)) nil (26667 17809 493878 0) 0 nil])
+([nil nil ((160 . 167)) nil (26667 17809 493878 0) 0 nil])
+([nil nil ((450 . 451) (t 26667 17809 500765 665000)) nil (26667 23189 123086 0) 0 nil])
+([nil nil ((#("1" 0 1 (fontified t)) . -450) (undo-tree-id172 . -1) 451) nil (26667 23189 123085 0) 0 nil])
+([nil nil ((#("world" 0 5 (face markdown-metadata-value-face markdown-metadata-value (49 66 49 53 53 55 55 66 #<buffer 20250516-CdS/index.md>) markdown-yaml-metadata-section (5 269) fontified t)) . -61) (undo-tree-id171 . -5) 66) nil (26667 23189 123084 0) 0 nil])
+([nil nil ((#("hello-" 0 6 (face markdown-metadata-value-face markdown-metadata-value (49 61 49 53 53 55 55 61 #<buffer 20250516-CdS/index.md>) markdown-yaml-metadata-section (5 264) fontified t)) . -55) (undo-tree-id170 . -6) 61) nil (26667 23189 123082 0) 0 nil])
+([nil nil ((55 . 62)) nil (26667 23189 123070 0) 0 nil])
+([nil nil ((#("image: cover.jpg " 0 5 (face markdown-metadata-key-face markdown-metadata-key (94 111 94 99 99 101 101 111 #<buffer 20250516-CdS/index.md>) markdown-yaml-metadata-section (5 265) fontified t) 5 7 (face markdown-markup-face markdown-metadata-markup (94 111 94 99 99 101 101 111 #<buffer 20250516-CdS/index.md>) markdown-yaml-metadata-section (5 265) fontified t) 7 16 (face markdown-metadata-value-face markdown-metadata-value (94 111 94 99 99 101 101 111 #<buffer 20250516-CdS/index.md>) markdown-yaml-metadata-section (5 265) fontified t) 16 17 (face markdown-metadata-value-face markdown-metadata-value (94 111 94 99 99 101 101 111 #<buffer 20250516-CdS/index.md>) markdown-yaml-metadata-section (5 265) fontified t)) . 94) (undo-tree-id248 . -13) (undo-tree-id249 . -13) (undo-tree-id250 . -13) (undo-tree-id251 . -13) (undo-tree-id252 . -13) (undo-tree-id253 . -13) (undo-tree-id254 . -13) (undo-tree-id255 . -13) (undo-tree-id256 . -13) (undo-tree-id257 . -13) (undo-tree-id258 . -13) (undo-tree-id259 . -13) (undo-tree-id260 . -13) (undo-tree-id261 . -13) (undo-tree-id262 . -13) (undo-tree-id263 . -13) (undo-tree-id264 . -13) (undo-tree-id265 . -13) (undo-tree-id266 . -13) (undo-tree-id267 . -13) (undo-tree-id268 . -13) (undo-tree-id269 . -13) (undo-tree-id270 . -17) (undo-tree-id271 . -17) (undo-tree-id272 . -17) (undo-tree-id273 . -17) (undo-tree-id274 . -17) (undo-tree-id275 . -17) (t 26667 23189 126015 699000)) nil (26667 23300 800552 0) 0 nil])
+([nil nil ((#("
+" 0 1 (font-lock-multiline t markdown-yaml-metadata-section (5 248) fontified t)) . -93) (undo-tree-id173 . -1) (undo-tree-id174 . -1) (undo-tree-id175 . -1) (undo-tree-id176 . -1) (undo-tree-id177 . -1) (undo-tree-id178 . -1) (undo-tree-id179 . -1) (undo-tree-id180 . -1) (undo-tree-id181 . -1) (undo-tree-id182 . -1) (undo-tree-id183 . -1) (undo-tree-id184 . -1) (undo-tree-id185 . -1) (undo-tree-id186 . -1) (undo-tree-id187 . -1) (undo-tree-id188 . -1) (undo-tree-id189 . -1) (undo-tree-id190 . -1) (undo-tree-id191 . -1) (undo-tree-id192 . -1) (undo-tree-id193 . -1) (undo-tree-id194 . -1) (undo-tree-id195 . -1) (undo-tree-id196 . -1) (undo-tree-id197 . -1) (undo-tree-id198 . -1) (undo-tree-id199 . -1) (undo-tree-id200 . -1) (undo-tree-id201 . -1) (undo-tree-id202 . -1) (undo-tree-id203 . -1) (undo-tree-id204 . -1) (undo-tree-id205 . -1) (undo-tree-id206 . -1) (undo-tree-id207 . -1) (undo-tree-id208 . -1) (undo-tree-id209 . -1) (undo-tree-id210 . -1) (undo-tree-id211 . -1) (undo-tree-id212 . -1) (undo-tree-id213 . -1) (undo-tree-id214 . -1) (undo-tree-id215 . -1) (undo-tree-id216 . -1) (undo-tree-id217 . -1) (undo-tree-id218 . -1) (undo-tree-id219 . -1) (undo-tree-id220 . -1) (undo-tree-id221 . -1) (undo-tree-id222 . -1) (undo-tree-id223 . -1) (undo-tree-id224 . -1) (undo-tree-id225 . -1) (undo-tree-id226 . -1) (undo-tree-id227 . -1) (undo-tree-id228 . -1) (undo-tree-id229 . -1) (undo-tree-id230 . -1) (undo-tree-id231 . -1) (undo-tree-id232 . -1) (undo-tree-id233 . -1) (undo-tree-id234 . -1) (undo-tree-id235 . -1) (undo-tree-id236 . -1) (undo-tree-id237 . -1) (undo-tree-id238 . -1) (undo-tree-id239 . -1) (undo-tree-id240 . -1) (undo-tree-id241 . -1) (undo-tree-id242 . -1) (undo-tree-id243 . -1) (undo-tree-id244 . -1) (undo-tree-id245 . -1) (undo-tree-id246 . -1) (undo-tree-id247 . -1) 94) nil (26667 23300 800533 0) 0 nil])
+([nil nil ((5450 . 5458) (t 26667 23300 803129 339000)) nil (26667 23323 136675 0) 0 nil])
+([nil nil ((366 . 368) (t 26667 23323 139355 805000)) nil (26667 23373 405175 0) 0 nil])
+([nil nil ((915 . 917)) nil (26667 23373 405175 0) 0 nil])
+([nil nil ((2954 . 2956)) nil (26667 23373 405174 0) 0 nil])
+([nil nil ((3422 . 3424)) nil (26667 23373 405173 0) 0 nil])
+([nil nil ((3451 . 3454)) nil (26667 23373 405173 0) 0 nil])
+([nil nil ((3764 . 3767)) nil (26667 23373 405172 0) 0 nil])
+([nil nil ((4283 . 4286)) nil (26667 23373 405172 0) 0 nil])
+([nil nil ((4622 . 4625)) nil (26667 23373 405171 0) 0 nil])
+([nil nil ((#("#" 0 1 (face markdown-header-delimiter-face markdown-heading-2-atx (4622 4638 nil nil nil nil nil nil 4622 4625 4625 4638 #<buffer 20250516-CdS/index.md>) markdown-heading (4622 4638 nil nil nil nil nil nil 4622 4625 4625 4638 #<buffer 20250516-CdS/index.md>) fontified t)) . -4623) (undo-tree-id276 . -1) 4624) nil (26667 23373 405170 0) 0 nil])
+([nil current ((4987 . 4989)) nil (26667 23373 405159 0) 0 nil])
 nil

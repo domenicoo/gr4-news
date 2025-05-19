@@ -1,9 +1,8 @@
 ---
 title: UPS
 description: 
-slug: hello-world
+slug: UPS
 date: 2025-05-19 00:00:00+0000
-image: cover.jpg
 categories:
     - Purchases
 tags:
