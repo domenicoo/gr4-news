@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://domenicoo.github.io"
+baseurl = "https://domenicoo.github.io/gr4-news"
 languageCode = "en-us"
 title = "Group IV News"
 
