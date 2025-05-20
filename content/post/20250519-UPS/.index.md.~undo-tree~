@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"29cac5d6c6d564dc3c712e0e06470717974a5766"
+"107b670bfb1a33a72495dc3535f652d1f9a11f2b"
 [nil nil nil nil (26667 23174 286726 0) 0 nil]
 ([nil nil ((#("world" 0 5 (face markdown-metadata-value-face fontified t markdown-metadata-value (30 47 30 34 34 36 36 47 #<buffer 20250519-UPS/index.md>) markdown-yaml-metadata-section (5 256))) . -42) (undo-tree-id1 . -5) 47 (t 26667 16423 65696 936000)) nil (26667 23174 286725 0) 0 nil])
 ([nil nil ((#("hello-" 0 6 (face markdown-metadata-value-face markdown-metadata-value (30 42 30 34 34 36 36 42 #<buffer 20250519-UPS/index.md>) markdown-yaml-metadata-section (5 251) fontified t)) . -36) (undo-tree-id0 . -6) 42) nil (26667 23174 286723 0) 0 nil])
@@ -8,5 +8,11 @@
 ([nil nil ((#("
 " 0 1 (font-lock-multiline t markdown-yaml-metadata-section (5 232) fontified t)) . -70) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (undo-tree-id25 . -1) (undo-tree-id26 . -1) (undo-tree-id27 . -1) (undo-tree-id28 . -1) (undo-tree-id29 . -1) (undo-tree-id30 . -1) (undo-tree-id31 . -1) (undo-tree-id32 . -1) (undo-tree-id33 . -1) (undo-tree-id34 . -1) (undo-tree-id35 . -1) (undo-tree-id36 . -1) (undo-tree-id37 . -1) (undo-tree-id38 . -1) (undo-tree-id39 . -1) (undo-tree-id40 . -1) (undo-tree-id41 . -1) (undo-tree-id42 . -1) (undo-tree-id43 . -1) (undo-tree-id44 . -1) (undo-tree-id45 . -1) 71) nil (26667 23389 326340 0) 0 nil])
 ([nil nil ((#("Purchases" 0 9 (markdown-yaml-metadata-section (5 231) fontified t)) . -89) (undo-tree-id59 . -9) (undo-tree-id60 . -9) (undo-tree-id61 . -9) (undo-tree-id62 . -9) (undo-tree-id63 . -9) (undo-tree-id64 . -9) (undo-tree-id65 . -9) (undo-tree-id66 . -9) (undo-tree-id67 . -9) (undo-tree-id68 . -9) (undo-tree-id69 . -9) (undo-tree-id70 . -9) 98 (t 26667 23389 327945 358000)) nil (26667 33339 25021 0) 0 nil])
-([nil current ((89 . 94)) nil (26667 33339 25007 0) 0 nil])
+([nil nil ((89 . 94)) nil (26667 33339 25007 0) 0 nil])
+([nil nil ((125 . 127) (t 26667 33339 26692 628000)) nil (26668 2726 765685 0) 0 nil])
+([nil nil ((127 . 129)) nil (26668 2726 765684 0) 0 nil])
+([nil nil ((#(";" 0 1 (markdown-yaml-metadata-section (5 231) fontified t)) . -128) (undo-tree-id71 . -1) 129) nil (26668 2726 765684 0) 0 nil])
+([nil nil ((128 . 139)) nil (26668 2726 765676 0) 0 nil])
+([nil nil ((#("	" 0 1 (face whitespace-tab fontified t markdown-yaml-metadata-section (5 241))) . 126)) nil (26668 2726 765675 0) 0 nil])
+([nil current ((126 . 130)) nil (26668 2726 765673 0) 0 nil])
 nil
