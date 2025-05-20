@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Group IV News</title><link>https://domenicoo.github.io/gr4-news/page/</link><description>Recent content in Pages on Group IV News</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://domenicoo.github.io/gr4-news/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://domenicoo.github.io/gr4-news/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/archives/</guid><description/></item><item><title>Links</title><link>https://domenicoo.github.io/gr4-news/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/links/</guid><description>&lt;!-- \href{https://l.infn.it/gr4-to-manual}{l.infn.it/gr4-to-manual} &amp; this manual :-) \\ -->
+&lt;!-- \href{https://l.infn.it/disciplinari}{l.infn.it/disciplinari} &amp; disciplinari\\ -->
+&lt;!-- \href{https://l.infn.it/to-uffici}{l.infn.it/to-uffici} &amp; office space \\ -->
+&lt;!-- \href{https://l.infn.it/gr4-to-seminars}{l.infn.it/gr4-to-seminars} &amp; all TH seminars calendar \\ -->
+&lt;!-- \href{https://l.infn.it/cds-to}{l.infn.it/cds-to} &amp; CdS (\emph{Consiglio di Sezione}) slides and documents\\ -->
+&lt;!-- To use this feature, add `links` section to frontmatter. -->
+&lt;!-- This page's frontmatter: -->
+&lt;!-- ```yaml -->
+&lt;!-- links: -->
+&lt;!-- - title: GitHub -->
+&lt;!-- description: GitHub is the world's largest software development platform. -->
+&lt;!-- website: https://github.com -->
+&lt;!-- image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png -->
+&lt;!-- - title: TypeScript -->
+&lt;!-- description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. -->
+&lt;!-- website: https://www.typescriptlang.org -->
+&lt;!-- image: ts-logo-128.jpg -->
+&lt;!-- ``` -->
+&lt;!-- `image` field accepts both local and external images. --></description></item><item><title>Search</title><link>https://domenicoo.github.io/gr4-news/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/search/</guid><description/></item></channel></rss>
