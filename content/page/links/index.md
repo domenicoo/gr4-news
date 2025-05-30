@@ -29,14 +29,7 @@ menu:
 
 comments: false
 ---
-
-
-<!--   \href{https://l.infn.it/gr4-to-manual}{l.infn.it/gr4-to-manual} & this manual :-) \\ -->
-<!--   \href{https://l.infn.it/disciplinari}{l.infn.it/disciplinari} & disciplinari\\ -->
-<!--   \href{https://l.infn.it/to-uffici}{l.infn.it/to-uffici} & office space \\ -->
-<!--   \href{https://l.infn.it/gr4-to-seminars}{l.infn.it/gr4-to-seminars} & all TH seminars calendar \\ -->
-<!--   \href{https://l.infn.it/cds-to}{l.infn.it/cds-to} & CdS (\emph{Consiglio di Sezione}) slides and documents\\ -->
-<!-- To use this feature, add `links` section to frontmatter. -->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FRome&showPrint=0&showTz=0&showCalendars=0&src=NGowb2VibHMzb2gydXE4MXY1NTBnNnF1MWw0ZTk5Z3ZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ef6c00" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- This page's frontmatter: -->
 
