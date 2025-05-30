@@ -40,3 +40,34 @@ weight: 1       # You can add weight to some posts to override the default sorti
 > 
 > Danila
  
+English version
+
+> Hello everyone,
+> 
+> Starting from June 1st, the new "INFN Mission Expense Policy" will come into effect, as approved by the Board of Directors on March 26, 2025, with resolution no. 17363, which I am attaching. All missions beginning on or after June 1st will be reimbursed according to the new rules, which have already been implemented in the Oracle tool with the appropriate program update. All missions that start before June 1st, even if they end after that date, will be reimbursed according to the old rules.
+> 
+> Some important changes have been introduced, which will be presented to you in brief presentations at the next Section Council meeting as follows:
+> 
+> -   Cristel: Foreign Missions – Comparison, updates, and news
+> 
+> -   Eleonora: Domestic Missions – Comparison, updates, and news
+> 
+> -   Paola: Domestic and Foreign Missions funded by external sources – Comparison and updates
+> 
+> However, the most important change concerns the new mission closure procedure through the "digitization of mission documents", which will come into effect on June 16th. For this new procedure as well, there will be a presentation, as you will no longer need to bring documentation to the office. A scan or photo taken by you and uploaded via the new procedure will be sufficient. The presentation will be given by:
+> 
+> -    Rosy: Digitization of Mission Closures
+> 
+> We are waiting for implementation circulars, but I can already share some important operational instructions:
+> 
+> All those who have already submitted mission closure reimbursements in Oracle must immediately leave the paper documentation in the designated boxes located in front of the administrative office;
+> 
+> Those who have not yet submitted their mission reimbursement in Oracle are kindly asked to wait until June 16th and follow the new document digitization rules.
+> 
+> The boxes will be permanently removed on June 5th, and starting June 6th, it will no longer be possible to submit paper documents to the office or leave them in the mailbox, as they will not be checked.
+> 
+> There will be a trial and adjustment period for us as well, as the office handling reimbursements, so we kindly ask for your understanding and cooperation. Please share this information with your working group.
+> 
+> For any questions, you can contact the colleagues, but please wait for the Section Council to receive the initial and most important information. Further circulars will be shared with you.
+> 
+> Danila
