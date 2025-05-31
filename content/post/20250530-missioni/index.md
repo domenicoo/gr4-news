@@ -7,7 +7,8 @@ categories:
     - Local
 tags:
     - local life
-    - Workshops 
+    - Missions
+    - INFN
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 > Ciao a tutte/i
