@@ -31,7 +31,7 @@ comments: false
 ---
 # CSN4 events
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FRome&showPrint=0&src=NGowb2VibHMzb2gydXE4MXY1NTBnNnF1MWw0ZTk5Z3ZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ef6c00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FRome&showPrint=0&src=NGowb2VibHMzb2gydXE4MXY1NTBnNnF1MWw0ZTk5Z3ZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ef6c00&mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Seminars in Torino
 
