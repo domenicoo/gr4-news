@@ -1,5 +1,5 @@
 ---
-title: avviso di selezione per il conferimento degli incarichi di lavoro autonomo occasionale presso le Strutture INFN
+title: Avviso di selezione per il conferimento degli incarichi di lavoro autonomo occasionale presso le Strutture INFN
 description: 
 slug: autonomo-occasionale
 date: 2025-06-10 00:00:00+0000
