@@ -4,7 +4,7 @@ description:
 slug: RIP-zoroastro
 date: 2025-06-18 00:00:00+0000
 categories:
-    - Announcements
+    - Local
 tags:
     - Local life
     - IT

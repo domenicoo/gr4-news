@@ -1,10 +1,10 @@
 ---
-title: Wolfram Mathematica software - the new site license is available (fwd)
+title: Wolfram Mathematica software - the new site license is available
 description: 
 slug: mathematica-license-2025
 date: 2025-06-18 00:00:00+0000
 categories:
-    - Announcements
+    - Local
 tags:
     - INFN
     - italiano
