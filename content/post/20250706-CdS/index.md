@@ -52,14 +52,14 @@ Si è discusso anche su come migliorare l’organizzazione futura, ad esempio tr
 
 ---
 
-### ***Stabilizzazione***
+# Stabilizzazioni
 
 Il finanziamento premiale del FOE dovrebbe contribuire in modo sostanziale a ridurre di circa la metà il disavanzo di 20M€ legato alla stabilizzazione dei contratti a tempo determinato finanziati dal PNRR.  
 Come già ribadito in passato, per l’INFN si tratta di stabilizzare la metà dei tecnologi e due terzi dei tecnici già formati, risorse fondamentali che sarebbe irragionevole disperdere.
 
 ---
 
-### ***Dall’estero***
+# Dall’estero
 
 C’è delusione per la recente nomina del nuovo Council del CERN, che non include membri italiani. Il ministero ha inviato una lettera molto franca al nuovo Director General. Per la prima volta, il Council non è stato approvato all’unanimità.
 
