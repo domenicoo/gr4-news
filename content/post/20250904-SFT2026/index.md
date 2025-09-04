@@ -1,5 +1,5 @@
 ---
-title: PhD School SFT2026: Lectures on Statistical Field Theories
+title: "PhD School SFT2026: Lectures on Statistical Field Theories"
 description: 
 slug: SFT2026
 date: 2025-09-04 00:00:00+0000
