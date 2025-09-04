@@ -54,8 +54,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 > The deadline for application is November 15, 2025.
 > 
 > Please circulate this information to colleagues and collaborators that
-> might be interested in the initiative. The poster of the school is
-> attached.
+> might be interested in the initiative.
 > 
 > Best regards,  
 > 
