@@ -17,6 +17,11 @@ giro un messaggio del responsabile del Centro di Calcolo sulla situazione attual
 
 Domenico
 
+ℹ️ AGGIORNAMENTO (serale)
+> Purtroppo la situazione è peggiorata, è di nuovo crashato il cluster e non si riesce a farlo ripartire. Domani mattina vien un tecnico per cercare di capire se il problema, come sembra, è lo storage.
+ 
+Messaggio originale:
+
 > Cari coordinatori,
 > 
 > Se leggete questo mail ho un vostro indirizzo alternativo (non sono sicuro di quello di Domenico).
