@@ -17,10 +17,14 @@ giro un messaggio del responsabile del Centro di Calcolo sulla situazione attual
 
 Domenico
 
-ℹ️ AGGIORNAMENTO (serale)
+# ℹ️ AGGIORNAMENTO (22 settembre)
+
+> stiamo ancora aspettando il disco (che probabilmente non sarà risolutivo, ma evita  i rischi di perdita di dati), ho sollecitato ma mi dicono che anche loro stanno aspettando il corriere
+
+# ℹ️ AGGIORNAMENTO (21 settembre)
 > Purtroppo la situazione è peggiorata, è di nuovo crashato il cluster e non si riesce a farlo ripartire. Domani mattina vien un tecnico per cercare di capire se il problema, come sembra, è lo storage.
  
-Messaggio originale:
+# Messaggio originale:
 
 > Cari coordinatori,
 > 
