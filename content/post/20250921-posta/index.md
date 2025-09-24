@@ -18,6 +18,10 @@ We are waiting for hardware replacements, which should arrive hopefully soon. We
 
 # ℹ️ AGGIORNAMENTO (24 settembre)
 
+> Il disco è arrivato e installato, sta ricostruendo la ridondanza. Ci vorranno alcune ore: a questo punto d’accordo con gli altri aspetterei domani mattina per fare ulteriori passi
+ 
+# ℹ️ AGGIORNAMENTO (24 settembre)
+
 > stiamo ancora aspettando il disco (che probabilmente non sarà risolutivo, ma evita  i rischi di perdita di dati), ho sollecitato ma mi dicono che anche loro stanno aspettando il corriere
 
 # ℹ️ AGGIORNAMENTO (22 settembre)
