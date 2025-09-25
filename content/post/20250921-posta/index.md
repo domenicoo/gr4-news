@@ -15,7 +15,12 @@ weight: 1       # You can add weight to some posts to override the default sorti
 Dear all, as you might have noticed the INFN system is completely down.
 As of now, it's not even possible to login to zoroastro/artaban to read emails with pine. 
 We are waiting for hardware replacements, which should arrive hopefully soon. We will keep you posted.
+ 
+# ℹ️ AGGIORNAMENTO (25 settembre)
 
+> la ricostruzione è finita stanotte, ma abbiamo ancora problemi che stiamo cercando di capire
+> Se entro stasera non risolviamo andiamo nella direzione del forward
+> 
 # ℹ️ AGGIORNAMENTO (24 settembre)
 
 > Il disco è arrivato e installato, sta ricostruendo la ridondanza. Ci vorranno alcune ore: a questo punto d’accordo con gli altri aspetterei domani mattina per fare ulteriori passi
