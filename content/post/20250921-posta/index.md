@@ -36,30 +36,30 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 # English version: how to forward your mail to another address
 
-Unfortunately, the mail system malfunction persists and we cannot enable the mail clients (pine, imap, webmail).
-
-While waiting to solve the problem, it is possible to configure a forward to a different mailbox as follows (replace “username” with your local username and [mioindirizzo@serverdiposta.dacambiare] with the address you want to use):
-
-```
-ssh -l username artaban.to.infn.it
-
-cd
-cp -a .forward .forward-20250925
-echo "\username, mioindirizzo@serverdiposta.dacambiare" > .forward
-```
-
-Then check the contents of the `.forward` file with the following command:
-
-```
-cat .forward
-```
-
-It should return a line similar to the one below (which of course must be yours; the initial backslash is important in order to keep a copy of the mail also in the local inbox):
-
-```
-\bagnasco, stefano.bagnasco@cern.ch
-```
-
+> Unfortunately, the mail system malfunction persists and we cannot enable the mail clients (pine, imap, webmail).
+> 
+> While waiting to solve the problem, it is possible to configure a forward to a different mailbox as follows (replace “username” with your local username and [mioindirizzo@serverdiposta.dacambiare] with the address you want to use):
+> 
+> ```
+> ssh -l username artaban.to.infn.it
+> 
+> cd
+> cp -a .forward .forward-20250925
+> echo "\username, mioindirizzo@serverdiposta.dacambiare" > .forward
+> ```
+> 
+> Then check the contents of the `.forward` file with the following command:
+> 
+> ```
+> cat .forward
+> ```
+> 
+> It should return a line similar to the one below (which of course must be yours; the initial backslash is important in order to keep a copy of the mail also in the local inbox):
+> 
+> ```
+> \bagnasco, stefano.bagnasco@cern.ch
+> ```
+> 
 
 
 
