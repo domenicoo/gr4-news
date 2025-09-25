@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Local Life on Group IV News</title><link>https://domenicoo.github.io/gr4-news/tags/local-life/</link><description>Recent content in Local Life on Group IV News</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://domenicoo.github.io/gr4-news/tags/local-life/index.xml" rel="self" type="application/rss+xml"/><item><title>Situazione mail</title><link>https://domenicoo.github.io/gr4-news/p/situazione-mail/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/situazione-mail/</guid><description>&lt;h1 id="come-inoltrare-la-mail-ad-un-altro-indirizzo"&gt;Come inoltrare la mail ad un altro indirizzo
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Purtroppo il guasto al sistema di posta persiste e non possiamo abilitare i client di posta (pine, imap, webmail).&lt;/p&gt;
+&lt;p&gt;In attesa di risolvere il problema, è possibile configurare un forward a una casella diversa nel seguente modo (sostituite “username” con il vostro username locale e [mioindirizzo@serverdiposta.dacambiare] con l’indirizzo che volete usare):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ssh -l username artaban.to.infn.it
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cd
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cp -a .forward .forward-20250925
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;echo &amp;#34;\\username, mioindirizzo@serverdiposta.dacambiare&amp;#34; &amp;gt; .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;e controllate il contenuto del file &lt;code&gt;.forward&lt;/code&gt; con il seguente comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cat .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Che deve restituire una riga simile a quella qui sotto (che ovviamente deve essere il vostro; importante il backslah iniziale per mantenere una copia del mail anche nella inbox locale):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;\bagnasco, stefano.bagnasco@cern.ch
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;h1 id="english-version-how-to-forward-your-mail-to-another-address"&gt;English version: how to forward your mail to another address
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Unfortunately, the mail system malfunction persists and we cannot enable the mail clients (pine, imap, webmail).&lt;/p&gt;
+&lt;p&gt;While waiting to solve the problem, it is possible to configure a forward to a different mailbox as follows (replace “username” with your local username and [mioindirizzo@serverdiposta.dacambiare] with the address you want to use):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ssh -l username artaban.to.infn.it
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cd
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cp -a .forward .forward-20250925
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;echo &amp;#34;\username, mioindirizzo@serverdiposta.dacambiare&amp;#34; &amp;gt; .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Then check the contents of the &lt;code&gt;.forward&lt;/code&gt; file with the following command:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cat .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;It should return a line similar to the one below (which of course must be yours; the initial backslash is important in order to keep a copy of the mail also in the local inbox):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;\bagnasco, stefano.bagnasco@cern.ch
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-25-settembre"&gt;ℹ️ AGGIORNAMENTO (25 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Non ho buone notizie
+Non risuciamo ad avviare stabilmente il servizio IMAP, stiamo cercando di capire la causa
+E per non rischiare di schiantare tutto per ora teniamo disabilitato anche pine
+Per i ricercatori, tra poco apriamo una public login per poterlo mettere in autonomia&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-25-settembre-1"&gt;ℹ️ AGGIORNAMENTO (25 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;la ricostruzione è finita stanotte, ma abbiamo ancora problemi che stiamo cercando di capire
+Se entro stasera non risolviamo andiamo nella direzione del forward&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-24-settembre"&gt;ℹ️ AGGIORNAMENTO (24 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Il disco è arrivato e installato, sta ricostruendo la ridondanza. Ci vorranno alcune ore: a questo punto d’accordo con gli altri aspetterei domani mattina per fare ulteriori passi&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-24-settembre-1"&gt;ℹ️ AGGIORNAMENTO (24 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;stiamo ancora aspettando il disco (che probabilmente non sarà risolutivo, ma evita i rischi di perdita di dati), ho sollecitato ma mi dicono che anche loro stanno aspettando il corriere&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-22-settembre"&gt;ℹ️ AGGIORNAMENTO (22 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;se con il disco rimpiazzato il sistema sta in piedi e tutto torna come prima, bene
+altrimenti il piano è vedere se si riesce a tenere il sistema in piendi senza IMAP (e senza pine); la posta la gestiremmo attraverso dei forward verso altre caselle (CERN, UNITO, gmail,…) che possimo gestire noi per l’amministrazione, mentre i ricercatori dovrebbero essere in grado di far da soli (con opportune istruzioni)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-21-settembre"&gt;ℹ️ AGGIORNAMENTO (21 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Purtroppo la situazione è peggiorata, è di nuovo crashato il cluster e non si riesce a farlo ripartire. Domani mattina vien un tecnico per cercare di capire se il problema, come sembra, è lo storage.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id="messaggio-originale"&gt;Messaggio originale:
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Cari coordinatori,&lt;/p&gt;
+&lt;p&gt;Se leggete questo mail ho un vostro indirizzo alternativo (non sono sicuro di quello di Domenico).&lt;/p&gt;
+&lt;p&gt;Abbiamo un complicato problema hardware, ci abbiamo messo un po’ a capire la situazione (dettagli su richiesta) e ora sto aspettando che mi chiamino dall’assistenza per avere un’idea dei tempi di ripristino.&lt;/p&gt;
+&lt;p&gt;Intanto in realtà il sistema di posta funziona, le mail arrivano e non si perdono, possono essere spedite; solo non possiamo “accendere” IMAP o si schianta tutto, quindi non è possible usare un normale client di posta per leggerle.&lt;/p&gt;
+&lt;p&gt;Per chi si ricorda come si fa, pine sulle macchine di public login funziona; un’alternativa, in deroga alle regole, è configurare un forward su un indirizzo diverso (unito, cern, gmail,…), da togliere però finita l’emergenza perché genera potenzialmente altri problemi.&lt;/p&gt;
+&lt;p&gt;Mi spiace per il grave disservizio, il sistema ha ovviamente tutte le ridondanze del caso (e infatti non abbiamo perso dati) ma shit happens… vi tengo informati sugli sviluppi.&lt;/p&gt;
+&lt;p&gt;Grazie,
+Stefano&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>Note dal CdS di Settembre</title><link>https://domenicoo.github.io/gr4-news/p/cds-sep-2025/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-sep-2025/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 15 settembre 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note&lt;/p&gt;
+&lt;h1 id="comunicazioni-del-direttore"&gt;Comunicazioni del Direttore
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;È stato eletto il nuovo Vice Presidente: il Prof. Diego Bettoni subentra al Prof. Pallavicini.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sono stati pubblicati i bandi per una serie di concorsi e premi:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Più donne nella Fisica&lt;/em&gt;: 25 borse per studentesse iscritte al primo anno della laurea magistrale.&lt;/li&gt;
+&lt;li&gt;Premio Nazionale &lt;em&gt;Milla Baldo Ceolin&lt;/em&gt; dedicato a &lt;em&gt;Women in Theoretical Physics&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Premio Nazionale &lt;em&gt;La Fisica delle particelle elementari e la meccanica quantistica: un incontro tra Arte e Scienza&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Premi Nazionali 2025 per le migliori tesi di dottorato: &lt;em&gt;Sergio Fubini&lt;/em&gt;, &lt;em&gt;Marcello Conversi&lt;/em&gt;, &lt;em&gt;Bruno Rossi&lt;/em&gt;, &lt;em&gt;Claudio Villi&lt;/em&gt;, &lt;em&gt;Francesco Resmini&lt;/em&gt;, &lt;em&gt;Raffaele Tripiccione&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;È iniziata la procedura selettiva per soli titoli per l’attribuzione della prima, seconda, terza e quarta progressione economica.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Da circa un anno è attivo un gruppo di lavoro ministeriale per la semplificazione dell’organizzazione delle università. Sono attese due novità rilevanti: l’abolizione dell’abilitazione scientifica nazionale e la riforma del CUN.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;È stato approvato il decreto per il preruolo, come annunciato a luglio. Sono previste due nuove figure:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Incarico di Ricerca&lt;/strong&gt;: richiede la laurea (conseguita da non più di sei anni), ha durata massima di tre anni e prevede la presenza di un tutor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incarico Postdoc&lt;/strong&gt;: richiede un PhD o titolo equivalente, dura al massimo tre anni, è compatibile con attività didattiche e non prevede tutor, in quanto figura autonoma.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Restiamo in attesa dei decreti attuativi per la definizione dei parametri stipendiali minimi, attesi entro la fine di settembre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CERN&lt;/strong&gt;: situazione ancora tesa tra il Direttore Generale e il Governo italiano dopo la nomina del Direttorato (nel quale, ricordiamo, l’Italia non è rappresentata). Ci si augura un riequilibrio nella scelta dei capi servizio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Onde gravitazionali&lt;/strong&gt;: la situazione rimane complessa, soprattutto per la mancanza di finanziamenti statunitensi. LIGO, VIRGO e KAGRA saranno fusi in un unico esperimento per ottimizzare la gestione.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="centro-di-calcolo"&gt;Centro di Calcolo
+&lt;/h1&gt;&lt;p&gt;Stefano Bagnasco ha presentato le attività del Centro di Calcolo, sia per i servizi sia per la parte scientifica, illustrando i progetti a cui il nostro CdC partecipa come TIER2.&lt;br&gt;
+È stata inoltre discussa la situazione del ri-cablaggio dell’Istituto, completato da UniTO, e quella del sistema di posta. Non disponiamo ancora di una roadmap per il trasferimento al CINECA, ma contiamo di averla al più presto.&lt;/p&gt;
+&lt;h1 id="piccole-spese"&gt;Piccole spese
+&lt;/h1&gt;&lt;p&gt;Ripartono le piccole spese, con una nuova procedura meno automatizzata e, temo, meno efficiente rispetto al passato. Se siete interessati, contattatemi direttamente.&lt;/p&gt;
+&lt;h1 id="lavoro-agile"&gt;Lavoro agile
+&lt;/h1&gt;&lt;p&gt;Si è svolta un’ampia discussione sull’applicazione del lavoro agile in sezione per i livelli IV-VIII. È emerso che l’INFN non ha una linea univoca: l’interpretazione è in gran parte lasciata ai singoli direttori.&lt;/p&gt;
+&lt;p&gt;Per qualsiasi chiarimento non esitate a scrivermi.&lt;br&gt;
+Come sempre, tutte le slides e i documenti del CdS sono disponibili all’indirizzo:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!&lt;br&gt;
+Domenico&lt;/p&gt;</description></item><item><title>Santo Stefano Belbo 2025</title><link>https://domenicoo.github.io/gr4-news/p/ssb-mail2/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/ssb-mail2/</guid><description>&lt;p&gt;Good news, everyone!&lt;/p&gt;
+&lt;p&gt;The Santo Stefano Belbo retreat is happening again in 2025!&lt;/p&gt;
+&lt;p&gt;If you weren’t with us two years ago: every other year we organize a relaxed weekend workshop in Santo Stefano Belbo, a lovely spot not far from Torino. We spend two days together sharing our work, chatting about ideas, enjoying good food, great wine, and just having a nice time as a group (*), helping to spark new conversations and collaborations.&lt;/p&gt;
+&lt;p&gt;This year, we’ll be going on Saturday and Sunday, November 15–16.&lt;/p&gt;
+&lt;p&gt;For now, just save the date and feel free to start signing up on our (still in progress) Indico page.&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://agenda.infn.it/e/SSB25" target="_blank" rel="noopener"
+&gt;https://agenda.infn.it/e/SSB25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please keep in mind that you will have to take care of your own accommodation!&lt;/p&gt;
+&lt;p&gt;Looking forward to another fun and inspiring weekend!&lt;/p&gt;
+&lt;p&gt;Andrea, Antonio, Domenico &amp;amp; Marco&lt;/p&gt;
+&lt;p&gt;(*) (good) music included.&lt;/p&gt;</description></item><item><title>Mission attachments howto</title><link>https://domenicoo.github.io/gr4-news/p/mission-attachments-howto/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/mission-attachments-howto/</guid><description>&lt;p&gt;The DSI (Direzione Sistemi Informativi) made a little manual for attachments to add when you come back from a mission.&lt;br&gt;
+You can find it here&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.dsi.infn.it/images/DSI/Aree/rilasci/personale/missioni/Guida_Operativa_NEW_solo_utente-vers_ENGLISH.pdf" target="_blank" rel="noopener"
+&gt;https://www.dsi.infn.it/images/DSI/Aree/rilasci/personale/missioni/Guida_Operativa_NEW_solo_utente-vers_ENGLISH.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and for the visual learners 📺&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://mediawall.infn.it/video/1300" target="_blank" rel="noopener"
+&gt;https://mediawall.infn.it/video/1300&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Chiarimenti sulla digitalizzazione delle missioni e modifica tracciabilità spese per trasferte all'estero</title><link>https://domenicoo.github.io/gr4-news/p/chiarimenti-digitalizzazione/</link><pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/chiarimenti-digitalizzazione/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Buongiorno a tutti,&lt;/p&gt;
+&lt;p&gt;Con la presente Vi comunichiamo che il D.L. 84/25 pubblicato il 17 giugno 2025 in Gazzetta Ufficiale, dispone che l’obbligo del pagamento con strumenti tracciati, ai fini dell’esenzione fiscale e previdenziale delle somme rimborsate al lavoratore, trova applicazione solo per le spese sostenute in territorio italiano, escludendo pertanto la gestione delle trasferte all&amp;rsquo;estero per motivi legati alla difficoltà di trovare strumenti di pagamento tracciato. Il disposto è retroattivo a far data dal 1/1/25.&lt;/p&gt;
+&lt;p&gt;In allegato la circolare rilasciata dall&amp;rsquo;Amministrazione Centrale.&lt;/p&gt;
+&lt;p&gt;Precisiamo inoltre che, facendo seguito alla presentazione del nuovo disciplinare durante l&amp;rsquo;ultimo CdS:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BOARDING PASS&lt;/em&gt;: il nuovo disciplinare prevede, come anticipato, che non è più necessario allegarli alle missioni MA in via del tutto prudenziale, e fino a quando non verranno date delle risposte alle nostre FAQ, chiediamo a tutti coloro che viaggiano sui FONDI ESTERNI DI PROGETTO (progetti soggetti a rendicontazione), di allegare le copie dei boarding pass ai documenti di missione.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;DOCUMENTI UNICI&lt;/em&gt;: Sono considerati documenti unici i documenti non riproducibili dall’Agenzia delle Entrate, come ad esempio le ricevute non fiscali dei taxi;- i documenti emessi in paesi che non hanno accordi di cooperazione fiscale con l’Italia ovvero la lista dei paesi c.d. in black-list; - le ricevute rilasciate dalle strutture alberghiere, dagli host, dai B&amp;amp;B, che non sono fiscali.&lt;/p&gt;
+&lt;p&gt;Tutte queste tipologie di documento, oltre ad essere scansionate e caricate come allegato alla missione, dovranno essere OBBLIGATORIAMENTE CONSEGNATE IN FORMA CARTACEA all&amp;rsquo;ufficio missioni, concordando preventivamente il giorno della consegna.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONTROLLO A CAMPIONE 1% DEI DOCUMENTI&lt;/em&gt; Come da nuovo disciplinare, l&amp;rsquo;ufficio missioni è tenuto a controllare i documenti di un campione dell'1% delle missioni. Sarà cura degli uffici, comunicare al trasfertista se la sua missione è stata selezionata per il controllo.
+A tal fine, verrà richiesto alla persona di portare i documenti cartacei che verranno controllati e ne verrà accertata la conformità con la copia digitale.&lt;/p&gt;
+&lt;p&gt;Tutti gli originali cartacei dei documenti unici, nonchè i documenti controllati a campione, sottoposti a regolare attestazione, saranno conservati a cura degli uffici missione fino all’invio in conservazione documentale.&lt;/p&gt;
+&lt;p&gt;Restiamo a disposizione per ogni evenienza&lt;/p&gt;
+&lt;p&gt;Ufficio Missioni Torino&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class="link" href="Tracciamento-Spese-Missioni.pdf" &gt;Circolare Tracciabilità Spese di Missione&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Good morning everyone,&lt;/p&gt;
+&lt;p&gt;We hereby inform you that Decree Law 84/25, published on June 17, 2025, in the Official Gazette, establishes that the requirement for payment via traceable instruments—necessary for tax and social security exemption of amounts reimbursed to employees—applies only to expenses incurred within Italian territory. Therefore, this excludes the management of foreign business trips, due to the difficulty of using traceable payment methods abroad. This provision is retroactive, effective from January 1, 2025.&lt;/p&gt;
+&lt;p&gt;Attached you will find the circular issued by the Central Administration.&lt;/p&gt;
+&lt;p&gt;We also wish to clarify the following, following the presentation of the new regulations during the last CdS meeting:&lt;/p&gt;
+&lt;p&gt;BOARDING PASSES: As previously announced, under the new rules, attaching boarding passes to mission reports is no longer mandatory. However, as a precaution—and until answers to our FAQs are provided—we ask all those traveling under EXTERNALLY FUNDED PROJECTS (i.e., projects subject to financial reporting) to attach copies of boarding passes to their mission documentation.&lt;/p&gt;
+&lt;p&gt;UNIQUE DOCUMENTS: Unique documents are considered to be those that cannot be reproduced by the Italian Revenue Agency, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;non-fiscal taxi receipts;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;documents issued in countries that do not have tax cooperation agreements with Italy (i.e., countries on the so-called blacklist);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;receipts from hotels, hosts, or B&amp;amp;Bs that are not fiscal documents.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All such documents, in addition to being scanned and uploaded as attachments to the mission report, must be MANDATORILY SUBMITTED IN PAPER FORMAT to the Missions Office, by arranging a delivery date in advance.&lt;/p&gt;
+&lt;p&gt;1% RANDOM DOCUMENT CHECK: As per the new guidelines, the Missions Office is required to check documents from a random 1% sample of missions. The relevant offices will notify the traveler if their mission has been selected for inspection.&lt;/p&gt;
+&lt;p&gt;In such cases, the person will be asked to bring the original paper documents, which will be verified for compliance with the digital copies.&lt;/p&gt;
+&lt;p&gt;All original paper versions of unique documents—as well as any documents selected and verified through the sampling process—will be kept by the Missions Office until they are archived through official document storage procedures.&lt;/p&gt;
+&lt;p&gt;Please don’t hesitate to contact us for any further information.&lt;/p&gt;
+&lt;p&gt;Missions Office – Turin&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>🪦 R.I.P. zoroastro (624 BC–2025) – Long Live artaban! 🎉</title><link>https://domenicoo.github.io/gr4-news/p/rip-zoroastro/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/rip-zoroastro/</guid><description>&lt;p&gt;Dear all,&lt;/p&gt;
+&lt;p&gt;It is with a heavy heart (and a slightly overheated CPU) that we announce the passing of zoroastro, our loyal SSH server and steadfast companion through login storms, accidental rm -rf, and infinite loops since time immemorial.&lt;/p&gt;
+&lt;p&gt;After years of noble service—during which zoroastro survived kernel panics, mysterious downtime, and that one time someone tried to mine bitcoins (I&amp;rsquo;m not joking), our venerable server has finally ascended to the great /dev/null in the sky.&lt;/p&gt;
+&lt;p&gt;But fear not! From the ashes of zoroastro rises a worthy successor: artaban is now ready to serve all your SSH-ing needs with dignity and RAM to spare.&lt;/p&gt;
+&lt;p&gt;Effective immediately, please direct your logins, scripts, and affection to:&lt;br&gt;
+👉 artaban.to.infn.it&lt;/p&gt;
+&lt;p&gt;the home directory contents are still there and aliases should redirect smoothly. But do check your scripts and cron jobs just in case.&lt;/p&gt;
+&lt;p&gt;Rest in peace, dear zoroastro you were the SSH server we didn’t deserve but desperately needed.&lt;/p&gt;</description></item><item><title>IMPORTANTE- Applicazione Nuovo Disciplinare per le missioni ITALIA e ESTERO e nuova procedura di gestione della documentazione</title><link>https://domenicoo.github.io/gr4-news/p/nuovo-disciplinare-missioni/</link><pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/nuovo-disciplinare-missioni/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Ciao a tutte/i&lt;/p&gt;
+&lt;p&gt;a partire dal 1 giugno p.v. entrerà in vigore il nuovo &amp;ldquo;disciplinare sul trattamento di missione del personale INFN &amp;quot; approvato dal CD del 26/3/25 con delibera n. 17363 che vi metto in allegato. Tutte le missioni con inizio dal 1 giugno verranno liquidate secondo le nuove regole già inserite nel tool di Oracle con apposito aggiornamento del programma. Tutte le missioni con partenza antecedente al 1/6, anche con data di chiusura successiva, verranno liquidate con le vecchie regole.&lt;/p&gt;
+&lt;p&gt;Sono state introdotte delle novità importanti che vi verranno comunicate tramite brevi presentazioni nel prossimo consiglio di sezione come segue:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cristel: MS Estero Confronto, novità e aggiornamenti&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eleonora: MS Italia Confronto, novità e aggiornamenti&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paola: MS Italia e Estero su fondi esterni Confronto e novità&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La novità più importante però riguarda la nuova procedura di chiusura delle missioni tramite la &amp;ldquo;digitalizzazione dei documenti di missione&amp;rdquo;, che entrerà in vigore il 16 giugno p.v. Anche per questa nuova prassi ci sarà un presentazione in quanto NON dovrete più portare la documentazione in ufficio perchè basterà una scansione o fotografia fatta direttamente da voi stessi e caricata sulla nuova procedura. La presentazione sarà fatta da&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rosy: Digitalizzazione della chiusura delle missioni&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Siamo in attesa di circolari attuative ma vi posso già dare alcune comunicazioni operative importanti:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;tutti coloro che hanno già inserito a rimborso in Oracle la chiusura delle trasferte devono immediatamente lasciare il cartaceo negli appositi scatolotti presenti davanti alla segreteria amministrativa;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;chi non ha ancora inserito il rimborso della missione in Oracle, è pregato di aspettare il 16 giugno e di effettuarlo con le nuove regole di digitalizzazione della documentazione.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Gli scatolotti verrranno definitavemnte tolti in data 5 giugno e dal 6 giugno non sarà più possibile portare il cartaceo in segreteria nè lasciarlo nella buca delle lettere in quanto non verrà controllata.&lt;/p&gt;
+&lt;p&gt;Ci sarà poi un periodo di prova e sperimentazione anche da parte nostra come Ufficio che si occupa dei rimborsi e quindi chiediamo a tutte/i una gentile comprensione e collaborazione. Vi chiedo gentilmente di far circolare queste informazioni all&amp;rsquo;interno del vostro gruppo di lavoro.&lt;/p&gt;
+&lt;p&gt;Per qualsiasi informazione potete contattare le colleghe ma vi prego di aspettare il consiglio di sezione per avere le prime e importanti comunicazioni. Arriveranno ulteriori circolari che condivideremo con voi.&lt;/p&gt;
+&lt;p&gt;Danila&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;English version&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hello everyone,&lt;/p&gt;
+&lt;p&gt;Starting from June 1st, the new &amp;ldquo;INFN Mission Expense Policy&amp;rdquo; will come into effect, as approved by the Board of Directors on March 26, 2025, with resolution no. 17363, which I am attaching. All missions beginning on or after June 1st will be reimbursed according to the new rules, which have already been implemented in the Oracle tool with the appropriate program update. All missions that start before June 1st, even if they end after that date, will be reimbursed according to the old rules.&lt;/p&gt;
+&lt;p&gt;Some important changes have been introduced, which will be presented to you in brief presentations at the next Section Council meeting as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cristel: Foreign Missions – Comparison, updates, and news&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eleonora: Domestic Missions – Comparison, updates, and news&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paola: Domestic and Foreign Missions funded by external sources – Comparison and updates&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, the most important change concerns the new mission closure procedure through the &amp;ldquo;digitization of mission documents&amp;rdquo;, which will come into effect on June 16th. For this new procedure as well, there will be a presentation, as you will no longer need to bring documentation to the office. A scan or photo taken by you and uploaded via the new procedure will be sufficient. The presentation will be given by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rosy: Digitization of Mission Closures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We are waiting for implementation circulars, but I can already share some important operational instructions:&lt;/p&gt;
+&lt;p&gt;All those who have already submitted mission closure reimbursements in Oracle must immediately leave the paper documentation in the designated boxes located in front of the administrative office;&lt;/p&gt;
+&lt;p&gt;Those who have not yet submitted their mission reimbursement in Oracle are kindly asked to wait until June 16th and follow the new document digitization rules.&lt;/p&gt;
+&lt;p&gt;The boxes will be permanently removed on June 5th, and starting June 6th, it will no longer be possible to submit paper documents to the office or leave them in the mailbox, as they will not be checked.&lt;/p&gt;
+&lt;p&gt;There will be a trial and adjustment period for us as well, as the office handling reimbursements, so we kindly ask for your understanding and cooperation. Please share this information with your working group.&lt;/p&gt;
+&lt;p&gt;For any questions, you can contact the colleagues, but please wait for the Section Council to receive the initial and most important information. Further circulars will be shared with you.&lt;/p&gt;
+&lt;p&gt;Danila&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>Regge school and Parisi’s lecture</title><link>https://domenicoo.github.io/gr4-news/p/regge-school-and-parisis-lecture/</link><pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/regge-school-and-parisis-lecture/</guid><description>&lt;p&gt;Just a reminder that next week there will be the Regge School plus the Regge lecture by Giorgio Parisi.&lt;/p&gt;
+&lt;p&gt;You can find all info and the timetable here&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://agenda.infn.it/event/46376/overview" target="_blank" rel="noopener"
+&gt;https://agenda.infn.it/event/46376/overview&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Workshop per Wanda</title><link>https://domenicoo.github.io/gr4-news/p/workshop-per-wanda/</link><pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/workshop-per-wanda/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Stiamo organizzando per il 3-4 luglio un piccolo workshop per celebrare i
+75 anni di Wanda Alberico, andata purtroppo in pensione in periodo Covid.
+Stiamo invitando suoi passati studenti e collaboratori ora in altri
+istituti, incoraggiandoli anche a proporre dei talk sui comuni interessi e
+progetti di ricerca.
+Penso sarebbe bello che anche suoi vecchi colleghi e colleghe del
+dipartimento e della sezione possano, se lo desiderano, partecipare.
+Ti giro il link per iscriversi (per noi utile per organizzare la logistica
+in base al numero di partecipanti), pregando di farlo circolare tra il
+personale di gruppo 4.&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://agenda.infn.it/event/46508/" target="_blank" rel="noopener"
+&gt;https://agenda.infn.it/event/46508/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cari saluti&lt;/p&gt;
+&lt;p&gt;Andrea Beraudo&lt;/p&gt;&lt;/blockquote&gt;</description></item><item><title>GR4 news</title><link>https://domenicoo.github.io/gr4-news/p/gr4-news/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/gr4-news/</guid><description>&lt;p&gt;Dear all,&lt;/p&gt;
+&lt;p&gt;Since we still seem to be having issues with some emails going directly to spam folders, I’ve decided to collect all announcements on a webpage, which I will try to keep regularly updated.&lt;/p&gt;
+&lt;p&gt;You might want to check it from time to time for the latest news. One added benefit is that it will be easier to keep track of past announcements, and there is also a search function.&lt;/p&gt;
+&lt;p&gt;You can find the page at:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://domenicoo.github.io/gr4-news" target="_blank" rel="noopener"
+&gt;https://domenicoo.github.io/gr4-news&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As always, the full archives of the mailing list are also available here:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://lists.to.infn.it/sympa/arc/gr4" target="_blank" rel="noopener"
+&gt;https://lists.to.infn.it/sympa/arc/gr4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I hope this will be useful.&lt;/p&gt;
+&lt;p&gt;All the best,
+Domenico&lt;/p&gt;</description></item><item><title>UPS</title><link>https://domenicoo.github.io/gr4-news/p/ups/</link><pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/ups/</guid><description>&lt;p&gt;We are planning to buy a few UPS (uninterruptible power supplies) to change our aging ones.&lt;/p&gt;
+&lt;p&gt;Please send me a mail if you need one for your office (and please tell people around because some of my emails end up straight to the spam).&lt;/p&gt;
+&lt;!-- Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing! --&gt;
+&lt;!-- For more information about this theme, check the documentation: https://stack.jimmycai.com/ --&gt;
+&lt;!-- Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter) --&gt;
+&lt;!-- &gt; Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/) --&gt;</description></item><item><title>2025 Workshop on Resummation, Evolution, Factorization</title><link>https://domenicoo.github.io/gr4-news/p/ref2025/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/ref2025/</guid><description>&lt;p&gt;Dear colleague,&lt;/p&gt;
+&lt;p&gt;We are pleased to announce the forthcoming 12th edition of the&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Workshop on Resummation, Evolution, Factorization (REF 2025)&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://agenda.infn.it/event/43981/" target="_blank" rel="noopener"
+&gt;https://agenda.infn.it/event/43981/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The workshop will be held at the Department of Physics of the
+University of Milan from October 13 to October 17, 2025.&lt;/p&gt;
+&lt;p&gt;Registration and call for abstracts are open from the Indico webpage above. All
+relevant details can be found there.&lt;/p&gt;
+&lt;p&gt;We encourage you to circulate this announcement among colleagues who might
+be interested in the event.&lt;/p&gt;
+&lt;p&gt;We look forward to see you in Milan!&lt;/p&gt;
+&lt;p&gt;Best regards,
+Giancarlo Ferrera and Lorenzo Rossi (for the LOC)&lt;/p&gt;</description></item></channel></rss>
