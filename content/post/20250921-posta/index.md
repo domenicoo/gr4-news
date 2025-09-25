@@ -12,9 +12,56 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Dear all, as you might have noticed the INFN system is completely down.
-As of now, it's not even possible to login to zoroastro/artaban to read emails with pine. 
-We are waiting for hardware replacements, which should arrive hopefully soon. We will keep you posted.
+# Come inoltrare la mail ad un altro indirizzo
+
+> Purtroppo il guasto al sistema di posta persiste e non possiamo abilitare i client di posta (pine, imap, webmail).
+> 
+> In attesa di risolvere il problema, è possibile configurare un forward a una casella diversa nel seguente modo (sostituite “username” con il vostro username locale e [mioindirizzo@serverdiposta.dacambiare] con l’indirizzo che volete usare):
+> ```
+> ssh -l username artaban.to.infn.it
+> 
+> cd
+> cp -a .forward .forward-20250925
+> echo "\\username, mioindirizzo@serverdiposta.dacambiare" > .forward
+> ```
+> e controllate il contenuto del file `.forward` con il seguente comando:
+> ```
+> cat .forward
+> ```
+> Che deve restituire una riga simile a quella qui sotto (che ovviamente deve essere il vostro; importante il backslah iniziale per mantenere una copia del mail anche nella inbox locale):
+> ```
+> \bagnasco, stefano.bagnasco@cern.ch
+> ```
+
+
+# English version: how to forward your mail to another address
+
+Unfortunately, the mail system malfunction persists and we cannot enable the mail clients (pine, imap, webmail).
+
+While waiting to solve the problem, it is possible to configure a forward to a different mailbox as follows (replace “username” with your local username and [mioindirizzo@serverdiposta.dacambiare] with the address you want to use):
+
+```
+ssh -l username artaban.to.infn.it
+
+cd
+cp -a .forward .forward-20250925
+echo "\username, mioindirizzo@serverdiposta.dacambiare" > .forward
+```
+
+Then check the contents of the `.forward` file with the following command:
+
+```
+cat .forward
+```
+
+It should return a line similar to the one below (which of course must be yours; the initial backslash is important in order to keep a copy of the mail also in the local inbox):
+
+```
+\bagnasco, stefano.bagnasco@cern.ch
+```
+
+
+
 
 # ℹ️ AGGIORNAMENTO (25 settembre)
 
