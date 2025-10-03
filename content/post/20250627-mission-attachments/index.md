@@ -9,7 +9,7 @@ tags:
     - INFN
     - Local life
     - missions
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 10       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 The DSI (Direzione Sistemi Informativi) made a little manual for attachments to add when you come back from a mission.  

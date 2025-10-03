@@ -8,7 +8,7 @@ categories:
 tags:
     - workshops
     - italiano
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 10       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 > Per incarico del Direttore si trasmette in allegato la Second Circular del

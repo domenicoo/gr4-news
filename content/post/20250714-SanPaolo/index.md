@@ -9,7 +9,7 @@ tags:
     - INFN
     - italiano
     - jobs
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 10       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 > Si segnala che Fondazione Compagnia di San Paolo ha aperto le candidature per le nuove “Linee guida per attività a supporto della ricerca interdisciplinare” per l’Obiettivo Pianeta – missione Valorizzare la ricerca, con l’obiettivo di incentivare la ricerca interdisciplinare, favorire collaborazioni internazionali e rafforzare le istituzioni nella valorizzazione e nell’autofinanziamento della ricerca.  

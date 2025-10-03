@@ -9,7 +9,7 @@ categories:
 tags:
     - Jobs
     - Italiano
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 10       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Qualche tempo fa vi avevo chiesto di mettermi in contatto con i candidati al concorso INFN che avevano espresso preferenza per la sede di Torino.

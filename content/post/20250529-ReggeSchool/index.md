@@ -8,7 +8,7 @@ categories:
 tags:
     - local life
     - Schools 
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 10       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 Just a reminder that next week there will be the Regge School plus the Regge lecture by Giorgio Parisi.

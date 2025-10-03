@@ -7,7 +7,7 @@ categories:
     - Announcements
 tags:
     - jobs
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 10       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 > A two year position (with a possible one year extension) for a technologist is available starting from October 1st 2025. Deadline for application is July 21st 2025, and the link for applying is  

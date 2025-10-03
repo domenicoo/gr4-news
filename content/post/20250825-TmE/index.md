@@ -7,7 +7,7 @@ categories:
     - Announcements
 tags:
     - Schools
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 10       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 The 2025 edition of the school Theory meets Experiment will be held at GGI from the 10th to the 21st of November 2025
