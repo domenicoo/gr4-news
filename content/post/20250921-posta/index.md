@@ -12,6 +12,12 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+# ℹ️ AGGIORNAMENTO (3 ottobre)
+
+> È (quasi) tutto pronto per il passaggio al sistema di emergenza. Lunedì arrivano i dischi, gli diamo il tempo di ribilanciare il RAID e martedì mattina se non riparte provvediamo (non credo martedì stesso, ma forse mercoledì).  
+> Se il nostro sistema riparte non ha senso passare al sistema di emergenza, aspettiamo quello definnitivo nel giro di qualche settimana.  
+> Seguiranno istruzioni dettagliate
+
 # TEAMS
 
 L'INFN ha una licenza campus di microsoft teams.
