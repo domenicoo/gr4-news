@@ -12,6 +12,17 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+# ℹ️ AGGIORNAMENTO (2 ottobre)
+
+> - ⁠ufficialmente i dischi arrivano lunedì. Se il problema è davvero quello (ma non sono troppo ottimista) il problema si risolve subito
+> - ⁠migrazione al sistema di posta di emergenza potrebbe avvenire  già nel corso della prossima settimana
+> - sistema di posta definitivo ai servizi nazionali ottimisticamente tre settimane
+
+Nel frattempo,
+
+- l'accesso alla VPN è chiuso per qualche giorno
+- l'accesso alle macchine di login è sospeso. Ci auguriamo che sia ripristinato velocemente.
+
 # Come inoltrare la mail ad un altro indirizzo
 
 > Purtroppo il guasto al sistema di posta persiste e non possiamo abilitare i client di posta (pine, imap, webmail).
@@ -45,7 +56,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 > 
 > cd
 > cp -a .forward .forward-20250925
-> echo "\username, mioindirizzo@serverdiposta.dacambiare" > .forward
+> echo "\\username, mioindirizzo@serverdiposta.dacambiare" > .forward
 > ```
 > 
 > Then check the contents of the `.forward` file with the following command:
