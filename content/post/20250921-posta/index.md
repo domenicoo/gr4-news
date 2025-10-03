@@ -12,6 +12,16 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+# TEAMS
+
+L'INFN ha una licenza campus di microsoft teams.
+Come detto in CdS, è in questo momento il modo migliore per comunicare con l'amministrazione.
+
+Trovate tutte le istruzioni alla pagina
+https://web.infn.it/windows/index.php/istruzioni/24-office-365
+
+In breve: ci si collega a http://www.infn.it/richiesta-o365; si viene autenticati con AAI; se non si è mai fatto richiesta di abilitazione si visualizza un bottone, diversamente l'informazione che si è già stati abilitati.
+
 # ℹ️ AGGIORNAMENTO (2 ottobre)
 
 > - ⁠ufficialmente i dischi arrivano lunedì. Se il problema è davvero quello (ma non sono troppo ottimista) il problema si risolve subito
