@@ -12,6 +12,19 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+# ℹ️ AGGIORNAMENTO (8 ottobre)
+
+
+Purtroppo non ho le buone notizie che mi auguravo.
+I dischi sono arrivati, sono stati inseriti ma i problemi rimangono.
+
+Nel frattempo, ho messo su una paginetta per avere sotto controllo la situazione. La trovate qui:
+
+https://domenicoo.github.io/gr4-news/is-it-up
+
+(non è automatico che i server accettino il login anche se sono in funzione).
+
+
 # ℹ️ AGGIORNAMENTO (3 ottobre)
 
 > È (quasi) tutto pronto per il passaggio al sistema di emergenza. Lunedì arrivano i dischi, gli diamo il tempo di ribilanciare il RAID e martedì mattina se non riparte provvediamo (non credo martedì stesso, ma forse mercoledì).  
