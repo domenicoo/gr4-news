@@ -10,7 +10,7 @@ comments: false
 ---
 
 
-<iframe src="https://is-it-up.reflando.net/status/torino"  width="800" height="900" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://is-it-up.reflando.net/status/torino"  width=100% height="900" frameborder="0" scrolling="no"></iframe>
 
 
 
