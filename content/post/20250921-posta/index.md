@@ -14,12 +14,13 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 # ℹ️ AGGIORNAMENTO (8 ottobre)
 
-Allora, abbiamo fatto passi avanti nel debug del sistema, ma la soluzione richiede probabilmente la sostituzione di altri dischi (già ordinati, ma ancora una settimana) e non è detto che basti
-Quindi abbiamo deciso di procedere con la soluzione di emergenza al CNAF
-domani o al più tardi venerdì mattina migriamo
-domani in giornata arrivano istruzioni dettagliate su come procedere
-caveat principale: ci sono delle incongruenze tra la lista degli account locali e la lista degli account in AAI
-l’idea è di procedere al più presto in modo da mettere la maggior parte delle persone in grado di lavorare, e sistemare gli altri via via che troviamo i problemi
+> Allora, abbiamo fatto passi avanti nel debug del sistema, ma la soluzione richiede probabilmente la sostituzione di altri dischi (già ordinati, ma ancora una settimana) e non è detto che basti  
+> Quindi abbiamo deciso di procedere con la soluzione di emergenza al CNAF
+> domani o al più tardi venerdì mattina migriamo  
+> Domani in giornata arrivano istruzioni dettagliate su come procedere  
+> Caveat principale: ci sono delle incongruenze tra la lista degli account locali e la lista degli account in AAI
+> l’idea è di procedere al più presto in modo da mettere la maggior parte delle persone in grado di lavorare, e sistemare gli altri via via che troviamo i problemi
+
 
 # ℹ️ AGGIORNAMENTO (8 ottobre)
 
