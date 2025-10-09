@@ -1,8 +1,8 @@
 ---
-title: Situazione mail
+title: Situazione mail ‼️ UPDATE ‼️ 
 description: 
 slug: situazione-mail
-date: 2025-09-21 00:00:00+0000
+date: 2025-10-09 00:00:00+0000
 categories:
     - Local
 tags:
@@ -12,7 +12,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# ℹ️ Migrazione a server di posta esterno (8 ottobre)
+# ‼️  Migrazione a server di posta esterno (8 ottobre)
 
 > Domani mattina (venerdì 10 ottobre) tutti gli indirizzi di posta @to.infn.it saranno migrati su un sistema di emergenza al CNAF, molto simile a quello che sarà poi definitivo.
 > 
