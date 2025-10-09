@@ -12,6 +12,22 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+# ℹ️ Migrazione a server di posta esterno (8 ottobre)
+
+> Domani mattina (venerdì 10 ottobre) tutti gli indirizzi di posta @to.infn.it saranno migrati su un sistema di emergenza al CNAF, molto simile a quello che sarà poi definitivo.
+> 
+> In un primo momento sarà possibile accedere solo attraverso il servizio webmail collegandosi a
+> 
+> https://mail-to.infn.it
+> 
+> e autenticandosi con le credenziali AAI (le stesse del portale INFN). Successivamente comunicheremo le istruzioni per configurare i client (mail.app, thunderbird eccetera).
+> 
+> Ci sarà un intervallo di poche ore in cui l’informazione si propaga; in quel periodo alcuni messaggi continueranno ad arrivare al nostro server (e conseguentemente a essere forwardati) mentre altri arriveranno direttamente al nuovo sistema; trascorso il periodo tutta la posta arriverà al nuovo server e i forward non saranno più attivi.
+> 
+> Per quanto riguarda la posta sul vecchio server, stiamo ancora lavorando al ripristino dello storage e la renderemo accessibile in sola lettura appena possibile.
+> 
+> Fare riferimento a central-support@to.infn.it per qualunque problema si incontri (central-support ha ricevuto email anche durante tutta la crsisi, è sempre il riferimento per richieste di supporto)
+
 # ℹ️ AGGIORNAMENTO (8 ottobre)
 
 > Allora, abbiamo fatto passi avanti nel debug del sistema, ma la soluzione richiede probabilmente la sostituzione di altri dischi (già ordinati, ma ancora una settimana) e non è detto che basti  
