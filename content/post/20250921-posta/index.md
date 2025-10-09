@@ -12,7 +12,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# ‼️  Migrazione a server di posta esterno (8 ottobre)
+# ‼️  Migrazione a server di posta esterno (9 ottobre)
 
 > Domani mattina (venerdì 10 ottobre) tutti gli indirizzi di posta @to.infn.it saranno migrati su un sistema di emergenza al CNAF, molto simile a quello che sarà poi definitivo.
 > 
