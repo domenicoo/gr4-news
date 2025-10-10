@@ -12,6 +12,10 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+ℹ️ <mark>You can find up-to-date information at the following address</mark>
+
+👉  https://docs.infn.it/share/page/site/TO/wiki-page?title=Main_Page
+
 # ‼️ English version: Migration to an external email server (10 October)
 
 > This morning all email addresses in the @to.infn.it domain will be migrated to an emergency backup server at CNAF, very similar to the final one that will be put in production in the coming weeks.
