@@ -1,5 +1,5 @@
 ---
-title: Situazione mail UPDATE
+title: Situazione mail ‼️ UPDATE ‼️
 description: 
 slug: situazione-mail
 date: 2025-10-09 00:00:00+0000
@@ -12,7 +12,23 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# Migrazione a server di posta esterno (9 ottobre) 
+# ‼️ English version: Migration to an external email server (10 October)
+
+> This morning all email addresses in the @to.infn.it domain will be migrated to an emergency backup server at CNAF, very similar to the final one that will be put in production in the coming weeks.
+> 
+> At first, it will only be possible to access email through a webmail service, by connecting to
+> 
+> https://mail-to.infn.it
+> 
+> Using your INFN-AAI credentials (the ones used for the general INFN portal). More instructions for the configuration of email clients such as mail.app, thunderbird etc. will be forthcoming shortly.
+> 
+> There will be a few hours interval while the configuration propagates worldwide; during that period some messages will continue to be shipped to our old server (and thus be forwarded according to your configuration), while most will already arrive at the new server. After that period, all messages will be routed to the new server and your forward configuration will be automatically disabled.
+> 
+> All archived email on the old server is not lost, we’re working on the hardware, and it will be made accessible read-only as soon as possible.
+
+
+
+# ‼️ Migrazione a server di posta esterno (9 ottobre) 
 
 > Domani mattina (venerdì 10 ottobre) tutti gli indirizzi di posta @to.infn.it saranno migrati su un sistema di emergenza al CNAF, molto simile a quello che sarà poi definitivo.
 > 
@@ -22,11 +38,12 @@ weight: 1       # You can add weight to some posts to override the default sorti
 > 
 > e autenticandosi con le credenziali AAI (le stesse del portale INFN). Successivamente comunicheremo le istruzioni per configurare i client (mail.app, thunderbird eccetera).
 > 
-> Ci sarà un intervallo di poche ore in cui l’informazione si propaga; in quel periodo alcuni messaggi continueranno ad arrivare al nostro server (e conseguentemente a essere forwardati) mentre altri arriveranno direttamente al nuovo sistema; trascorso il periodo tutta la posta arriverà al nuovo server e i forward non saranno più attivi.
+> Ci sarà un intervallo di poche ore in cui l’informazione si propaga; in quel periodo alcuni messaggi continueranno ad arrivare al nostro server (e conseguentemente a essere forwardati) mentre altri arriveranno direttamente al nuovo sistema; trascorso il periodo tutta la posta arriverà al nuovo server e **i forward non saranno più attivi**.
 > 
 > Per quanto riguarda la posta sul vecchio server, stiamo ancora lavorando al ripristino dello storage e la renderemo accessibile in sola lettura appena possibile.
 > 
 > Fare riferimento a central-support@to.infn.it per qualunque problema si incontri (central-support ha ricevuto email anche durante tutta la crsisi, è sempre il riferimento per richieste di supporto)
+
 
 # ℹ️ AGGIORNAMENTO (8 ottobre)
 
