@@ -17,7 +17,7 @@ Carissimi,
 il 10 novembre 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.
 
 # In memoria di Michele Arneodo
-Il CdS si è aperto con una commemorazione di Michele Arnoldo che, ricordiamo, ci ha lasciati prematuramente questa estate.
+Il CdS si è aperto con una commemorazione di Michele Arneodo che, ricordiamo, ci ha lasciati prematuramente questa estate.
 
 # Dal direttivo
 
