@@ -64,7 +64,7 @@ Stefano Bagnasco ci ha rapidamente raccontato dalla situazione al Centro di Calc
 
 # Dalla segreteria amministrativa
 
-- nuova procedura per i collaudi. Abbiamo un nuovo sistema digitale che introduce una serie di procedure piuttosto complicate. Simona Bortot ci ha spiegato che anche se non sembra adatto per le necessità della sezione Torino (che è relativamente piccola per queste cose), tutte le nuove complicazioni hanno un loro perchè nel caso dei laboratori. La buona notizia è che Matteo (Fea Sbaraglio) cercherà di semplificarci la vita e sarà in pratica necessario confermare che il materiale acquistato è funzionante con una semplice email.
+- nuova procedura per i collaudi. Abbiamo un nuovo sistema digitale che introduce una serie di procedure piuttosto complicate. Simona Bortot ci ha spiegato che anche se non sembra adatto per le necessità della sezione Torino (che è relativamente piccola per queste cose), tutte le nuove complicazioni hanno un loro perchè nel caso dei laboratori. La buona notizia è che Matteo (Fea Sbaraglia) cercherà di semplificarci la vita e sarà in pratica necessario confermare che il materiale acquistato è funzionante con una semplice email.
 
 - forse si parte davvero con Amazon. Non è purtroppo da considerarsi come una resurrezione delle compiante piccole spese, ma sarà da utilizzare solo in casi di estrema urgenza (da giustificare). Poi comunque la procedura è complicata e ci si aspetta di dover attendere comunque un paio di settimane tra la richiesta e l'effettivo acquisto
 
