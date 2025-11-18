@@ -4,3 +4,4 @@ resources
 .index.md.~undo-tree~
 *.~undo-tree~
 /content/page/links/.index.md.~undo-tree~
+*.md~
