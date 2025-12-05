@@ -1,5 +1,5 @@
 ---
-title: Giornta in onore di Giancarlo Rossi 
+title: Giornata in onore di Giancarlo Rossi 
 description: 
 slug: Rossi
 date: 2025-12-01 00:00:00+0000
