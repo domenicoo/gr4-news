@@ -75,7 +75,7 @@ We are continuing our quest to have a *normal place*, whatever that means.
 - We have an instruction manual: https://l.infn.it/gr4-to-manual  
   It is a true *living document*, with 41 updates since last December, and it has been consulted over 400 times.
 - We keep replacing old computers with new ones. 💻  
-  Once at regime, the average machine should be less than three years old.
+  Once everything will be running as intended, the average machine should be less than three years old.
 - We now have a small stationery cabinet available to everyone (office E17). 🗄️
 
 Expected for 2026: a computer accessories (cables, etc.) cabinet and a wall-mounted screen for seminar and other announcements.
