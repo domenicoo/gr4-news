@@ -18,7 +18,7 @@ l'8 gennaio 2026 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Que
 
 ## Comunicazioni del Direttore
 
-Sono stati pubblicati il nuovo piano di risposta agli incidenti informatici e il disciplinare per l'uso delle risorse IT. Siete tutti invitati a consultarli per restare aggiornati sulle procedure.
+Sono stati pubblicati il nuovo [piano di risposta agli incidenti informatici](17602_cd.pdf) e il [disciplinare per l'uso delle risorse IT](17603_cd.pdf). Siete tutti invitati a consultarli per restare aggiornati sulle procedure.
 
 **Premi e Concorsi.** Annunciati due nuovi premi nazionali per tesi magistrali sugli acceleratori di particelle, uno teorico e uno sperimentale, seguiranno dettagli.
 
