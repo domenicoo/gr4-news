@@ -42,3 +42,9 @@ More information is available on **Alfresco** at the following
 >   *(Crisis and Evacuation Containment Expenses)*
 > 
 > This service is staffed **24 hours a day**, in **Italian and English**, by operators who will be ready to provide assistance as required.
+
+[Condzioni-di-polizza.pdf](Condzioni-di-polizza.pdf)  
+[DIP_aggiuntivo.pdf](DIP_aggiuntivo.pdf)  
+[Guida-operativa.pdf](Guida-operativa.pdf)
+
+
