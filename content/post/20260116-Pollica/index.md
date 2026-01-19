@@ -22,7 +22,7 @@ weight: 10       # You can add weight to some posts to override the default sort
 > Website https://agenda.infn.it/event/49735, Application
 > form https://forms.gle/iuAK5KJ5AXF2eecZ7 (application deadline Feb 7)
 > 
-> ##  “Beyond WIMPs: theory and model building for the next generation of dark matter searches” - June 1st to June 12th , 2026
+> ###  “Beyond WIMPs: theory and model building for the next generation of dark matter searches” - June 1st to June 12th , 2026
 > organized by Gianfranco Bertone (Amsterdam U. GRAPPA), Dan
 > Hopper (Wisconsin-Madison U.), Gordan Krnjaic (Fermilab), Tim
 > Linden (Stockholm U.), Kathelin Schutz (McGill U.), Jessica
@@ -31,7 +31,7 @@ weight: 10       # You can add weight to some posts to override the default sort
 > Website https://agenda.infn.it/event/49733/, Application
 > form https://forms.gle/2w9y7NBKVY1pNJa69 (application deadline Feb 7)
 > 
-> ##  “Scattering amplitudes: from positive geometries to analytic structures" - September 14th to September 25th 2026, 
+> ###  “Scattering amplitudes: from positive geometries to analytic structures" - September 14th to September 25th 2026, 
 > organized by Lara Bossinger (UNA of Mexico), James Drummond (U.
 > of Southampton), Livia Ferro (U. of Hertfordshire), Ö. Gürdoğan
 > (U. of Southampton), Tomasz Lukowski (U. of Hertfordshire),
