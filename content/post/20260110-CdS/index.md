@@ -14,7 +14,7 @@ weight: 10       # You can add weight to some posts to override the default sort
 
 Carissimi,
 
-l'8 gennaio 2026 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.
+ l'8 gennaio 2026 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.
 
 ## Comunicazioni del Direttore
 
