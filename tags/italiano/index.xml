@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Italiano on Group IV News</title><link>https://domenicoo.github.io/gr4-news/tags/italiano/</link><description>Recent content in Italiano on Group IV News</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://domenicoo.github.io/gr4-news/tags/italiano/index.xml" rel="self" type="application/rss+xml"/><item><title>Note dal CdS di Gennaio</title><link>https://domenicoo.github.io/gr4-news/p/cds-gen-2026/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-gen-2026/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;l'8 gennaio 2026 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.&lt;/p&gt;
+&lt;h2 id="comunicazioni-del-direttore"&gt;Comunicazioni del Direttore
+&lt;/h2&gt;&lt;p&gt;Sono stati pubblicati il nuovo &lt;a class="link" href="17602_cd.pdf" &gt;piano di risposta agli incidenti informatici&lt;/a&gt; e il &lt;a class="link" href="17603_cd.pdf" &gt;disciplinare per l&amp;rsquo;uso delle risorse IT&lt;/a&gt;. Siete tutti invitati a consultarli per restare aggiornati sulle procedure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Premi e Concorsi.&lt;/strong&gt; Annunciati due nuovi premi nazionali per tesi magistrali sugli acceleratori di particelle, uno teorico e uno sperimentale, seguiranno dettagli.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Personale e Strategie di Sezione.&lt;/strong&gt; Luca Tabasso è stato assunto a tempo indeterminato presso il centro di calcolo. Sono anche in arrivo nuovi fondi ministeriali per le stabilizzazioni post-PNRR. Ne è seguita una discussione sulle scelte strategiche della nostra sezione e dell&amp;rsquo;ente in generale. In particolare, ci si è confrontati sulla necessità di assumere tecnici o tecnologi e sulla differenza di vedute tra giunta e direttorato riguardo alla pianificazione su scala locale o nazionale.&lt;/p&gt;
+&lt;h2 id="progetti-llm-intelligenza-artificiale"&gt;Progetti LLM (Intelligenza Artificiale)
+&lt;/h2&gt;&lt;p&gt;Negli ultimi mesi alcune sezioni hanno avviato dei progetti pilota per valutare se e come i modelli linguistici (LLM) possano supportare le nostre attività. La commissione calcolo ha iniziato una ricognizione per mappare gli interessati (come anticipato nella mail di dicembre), approfittando delle condizioni economiche vantaggiose ottenute dalla CRUI per ChatGPT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Protezione dei dati.&lt;/strong&gt; Al momento il punto principale da risolvere riguarda la protezione dei dati, specialmente quelli sensibili. Vi ricordo che le licenze individuali, sia gratuite che a pagamento, in genere non offrono garanzie di riservatezza. Il rischio di responsabilità penale per la condivisione di dati sensibili è reale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Formazione.&lt;/strong&gt; È prevista per il futuro una formazione specifica. Nel frattempo, potete iniziare a seguire quelli su Syllabus, Coursera o Viva Learning che trovate nell&amp;rsquo;&lt;a class="link" href="corsi-IA.pdf" &gt;allegato&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="gestione-posta-elettronica"&gt;Gestione Posta Elettronica
+&lt;/h2&gt;&lt;p&gt;Siamo finalmente riusciti ad acquistare le licenze necessarie per il nuovo server di posta. Ora dobbiamo solo aspettare la riunione dei responsabili per capire quando verrà montato il tutto.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Riguardo ai dati&lt;/strong&gt; È possibile, se non probabile, che i recenti problemi tecnici locali abbiano causato delle perdite di dati. Al momento abbiamo un backup aggiornato a settembre, sperando in quella data fosse tutto in ordine. Sì, mi rendo conto di quello che sto dicendo: purtroppo la situazione dei dati è questa.&lt;/p&gt;
+&lt;h2 id="missioni-e-portale"&gt;Missioni e Portale
+&lt;/h2&gt;&lt;p&gt;Il portale è di nuovo attivo. Se dovete ancora partire, per favore inserite la missione sul portale anche se avevate già ricevuto l&amp;rsquo;ok via mail. Serve a non sommergere di lavoro la segreteria, che ha già tanto da fare.&lt;/p&gt;
+&lt;h2 id="spazi"&gt;Spazi
+&lt;/h2&gt;&lt;p&gt;G.Della Casa ha presentato la situazione del laboratorio di elettronica. C&amp;rsquo;è tanta preoccupazione per quello che succederà quando cominceranno i lavori di ristrutturazione attesi per l&amp;rsquo;autunno 2026. Al momento non c&amp;rsquo;è niente di sicuro ma vi terremo aggiornati.&lt;/p&gt;
+&lt;p&gt;Per qualsiasi chiarimento non esitate a scrivermi.&lt;br&gt;
+Come sempre, tutte le slides e i documenti del CdS sono disponibili all’indirizzo:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!&lt;br&gt;
+Domenico&lt;/p&gt;</description></item><item><title>Note dal CdS di Dicembre</title><link>https://domenicoo.github.io/gr4-news/p/cds-dic-2025/</link><pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-dic-2025/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 9 dicembre 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.&lt;/p&gt;
+&lt;h2 id="premi"&gt;Premi
+&lt;/h2&gt;&lt;p&gt;I vincitori dei premi di sezione per la miglior tesi magistrale hanno presentato i loro lavori:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fabrizio Chinu, premio Wataghin per la fisica sperimentale&lt;/li&gt;
+&lt;li&gt;Camilla Forgione, premio Molinari per la fisica teorica&lt;/li&gt;
+&lt;li&gt;Federico Malnati, premio Piccotti per i rivelatori di particelle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I nostri più sentiti auguri vanno ai bravissimi vincitori, e in particolare a Camilla, che ha lavorato sotto la supervisione del nostro Paolo Torrielli e che ora è dottoranda a Monaco.&lt;/p&gt;
+&lt;h2 id="prossimi-appuntamenti"&gt;Prossimi appuntamenti
+&lt;/h2&gt;&lt;p&gt;I prossimi CdS si terranno nelle seguenti date:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;08/01/2026 (backup 16/01/2026)&lt;/li&gt;
+&lt;li&gt;09/02/2026 (backup 13/02/2026)&lt;/li&gt;
+&lt;li&gt;09/03/2026 (backup 13/03/2026)&lt;/li&gt;
+&lt;li&gt;27/03/2026 (backup 30/03/2026)&lt;/li&gt;
+&lt;li&gt;11/05/2026 (backup 15/05/2026)&lt;/li&gt;
+&lt;li&gt;08/06/2026 (backup 12/06/2026)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tutti gli incontri si svolgeranno alle 9:30 in Wataghin.&lt;/p&gt;
+&lt;h2 id="dal-ministero"&gt;Dal Ministero
+&lt;/h2&gt;&lt;p&gt;Si avvicina la fine dell’anno e, con essa, la legge di bilancio. Come di consueto, sapremo solo alla mezzanotte del 31 dicembre quale sarà l’esito finale, ma al momento sembra che il FOE (Fondo Ordinario per gli Enti e le Istituzioni di ricerca) resterà invariato.&lt;/p&gt;
+&lt;p&gt;Attenzione però: lo scorso anno il FOE era stato inizialmente ridotto e solo successivamente il Ministero aveva aggiunto fondi extra per riportarlo ai livelli del 2024. In pratica, quindi, l’attuale situazione corrisponde a una riduzione, a meno di un nuovo intervento ministeriale.&lt;/p&gt;
+&lt;p&gt;Ci sono possibili criticità per le assunzioni PNRR legate al blocco del turnover. Esiste persino il rischio di problemi nelle prese di servizio dei vincitori dell’ultimo “concorsone”.
+Detto questo, la situazione dell’INFN è relativamente meno problematica, poiché le spese di personale sono contenute. Resta comunque un tema da monitorare con attenzione.&lt;/p&gt;
+&lt;h2 id="concorsi"&gt;Concorsi
+&lt;/h2&gt;&lt;p&gt;Si sono conclusi i due concorsoni.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Teorici: tutto si è svolto regolarmente. Ricordo che uno dei vincitori (su 10) ha scelto Torino come sede. Se tutto procederà come previsto, Ivano Basile entrerà in servizio da noi a partire dal 1° luglio.
+Ci lascia invece Nicolò Petri, che ha scelto di tornare a Milano nonostante i nostri incoraggiamenti a restare. Vabbè.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sperimentali: la situazione è stata molto diversa. Su 40 posizioni, solo una è stata assegnata a Torino. C’è un diffuso malcontento per le assegnazioni delle sedi, che risultano fortemente concentrate su alcune sezioni non particolarmente grandi.
+È in corso una discussione all’interno del Direttorato e della Giunta su come migliorare le modalità di assegnazione. A breve verrà nominato un gruppo di lavoro sul tema. Vi terremo aggiornati.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Per il 2026 sono attesi:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;concorso per dirigenti di ricerca (25 posizioni)&lt;/li&gt;
+&lt;li&gt;concorso per dirigenti tecnologi (25 posizioni)&lt;/li&gt;
+&lt;li&gt;concorso per primi ricercatori&lt;/li&gt;
+&lt;li&gt;concorso per primi tecnologi&lt;/li&gt;
+&lt;li&gt;un ulteriore concorso per ricercatori&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le date non sono ancora state definite.&lt;/p&gt;
+&lt;h2 id="portale-in-vacanza"&gt;Portale in vacanza
+&lt;/h2&gt;&lt;p&gt;Come sempre il portale missioni sarà chiuso tra il 19 dicembre e il 10 gennaio.
+Non è possibile aprire nel 2025 missioni da effettuare nel 2026.
+Se avete qualcosa di urgente e non potete aspettare il 10 gennaio, per cortesia seguite la procedura spiegata in §4.6 del manuale &lt;a class="link" href="https://l.infn.it/gr4-to-manual" target="_blank" rel="noopener"
+&gt;https://l.infn.it/gr4-to-manual&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Per qualsiasi chiarimento non esitate a scrivermi.
+Come sempre, tutte le slides e i documenti del CdS sono disponibili all’indirizzo:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!
+Domenico&lt;/p&gt;</description></item><item><title>Seminario con il Professor Pietro Perona</title><link>https://domenicoo.github.io/gr4-news/p/seminar-perona/</link><pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/seminar-perona/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;seminario con il Professor Pietro Perona:&lt;/p&gt;
+&lt;p&gt;“Correlation and Causality in Responsible AI”&lt;br&gt;
+Pietro Perona, Allen E. Puckett Professor of Electrical Engineering; Director, Information Science and Technology – California Institute of Technology (Caltech)&lt;/p&gt;
+&lt;p&gt;25 Novembre 2025, ore 15:00 – 17:30&lt;br&gt;
+Torino, OGR Cult – Sala Duomo&lt;br&gt;
+Registrazione alla pagina dedicata.&lt;/p&gt;
+&lt;p&gt;Il seminario introdurrà il tema dell’Intelligenza Artificiale Responsabile, con un focus particolare su bias ed equità. Verrà affrontata la sfida di stabilire legami causali tra variabili chiave e accuratezza algoritmica, evidenziando come le attuali tecniche osservative non siano sufficienti per determinare la causalità. Sarà inoltre presentato un approccio sperimentale basato su modelli generativi di immagini come metodo per misurare i bias, con esempi di applicazione nei sistemi di riconoscimento facciale.&lt;/p&gt;
+&lt;p&gt;A seguire, si terrà la tavola rotonda “Disruptive Ideas and Applications in the AI of the Near Future”, con la partecipazione del Professor Pietro Perona, del Professor Fabio Pammolli, del Professor Riccardo Zecchina, Direttore del Dipartimento di Scienze Informatiche e Professore Ordinario di Fisica Teorica all’Università Bocconi, del Professor Pierluigi Contucci, Professore di Fisica Matematica all’Alma Mater Studiorum dell&amp;rsquo; Università di Bologna, e di altri ospiti di rilievo.&lt;/p&gt;
+&lt;p&gt;In caso fosse utile, le registrazioni dei precedenti seminari, compresa la lectio di Bill Dally dello scorso 7 novembre, sono accessibili tramite il canale you tube &lt;a class="link" href="https://www.youtube.com/@AI4I-CSP-IAS" target="_blank" rel="noopener"
+&gt;https://www.youtube.com/@AI4I-CSP-IAS&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Note dal CdS di Novembre</title><link>https://domenicoo.github.io/gr4-news/p/cds-nov-2025/</link><pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-nov-2025/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 10 novembre 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.&lt;/p&gt;
+&lt;h1 id="in-memoria-di-michele-arneodo"&gt;In memoria di Michele Arneodo
+&lt;/h1&gt;&lt;p&gt;Il CdS si è aperto con una commemorazione di Michele Arneodo che, ricordiamo, ci ha lasciati prematuramente questa estate.&lt;/p&gt;
+&lt;h1 id="dal-direttivo"&gt;Dal direttivo
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;sono partite le borse postdoc per teorici e sperimentali. Al nostro gruppo 4 andrà una borsa, assegnata alla IS SIM.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Approvati (finalmente) i disciplinari per gli incarichi di ricerca (che sostituiscono gli AdR) e per gli incarichi postdoc. Tutto fermo per i contratti di ricerca, per i quali si attende la risposta ad un interpello all&amp;rsquo;INPS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Concluso l&amp;rsquo;iter del concorsone per i teorici. Ivano Basile è uno dei vincitori ed è intenzionato a venire da noi. Ne siamo contentissimi. Benvenuto Ivano!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tre contratti a tempo indeterminato (stabilizzazioni PNRR) sono stati assegnati a Torino. Uno per il calcolo scientifico, uno per la microelettronica, uno per quantum.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La legge di stabilità porterà tagli importanti al MUR. Per il momento il FOE non dovrebbe esserne toccato.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In studio un nuovo fondo del MUR per progetti di ricerca. L&amp;rsquo;idea è di avere un sistema di call periodico a budget definito per PRIN, FIS e simili. Vedremo come andrà&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In partenza la gara per un nuovo contratto di polizza sanitaria, dopo che le poste avevano rescisso il contratto precedente (non siamo un cliente conveniente).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nuovo direttorato del TIFPA. Il nostro Angelo Rivetti è al momento l&amp;rsquo;unico candidato al posto di direttore. Un grandissimo in bocca al lupo per la nuova avventura!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Buone notizie sul fronte onde gravitazionali. Dalla Sassonia arriva un progetto di rivelatore a doppia L in cooperazione con quello in Sardegna (in concorrenza con il progetto Olandese). A questo punto la scelta di geometria e sito dovrebbe avvenire nella metà del 2026.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Provvedimento organizzativo. Siamo vicini alla sottomissione della nostra proposta al gruppo di lavoro del direttorato. Se tutto va come deve, il provvedimento organizzativo potrebbe essere approvato a Dicembre ed entrare in vigore da Gennaio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Situazione ancora poco chiara per l&amp;rsquo;inizio dei lavori all&amp;rsquo;edificio vecchio. Si parla di fine 2026. Nel frattempo Chimica dovrebbe trasferirsi a Grugliasco e parte dell&amp;rsquo;INFN (tra cui la segreteria) spostarsi almeno provvisoriamente nell&amp;rsquo;edificio rimasto vuoto. L&amp;rsquo;operazione non è delle più semplici per motivi logistici e tutto resta ancora da definire. Non essendo stata fatta la gara non c&amp;rsquo;è ancora un progetto esecutivo con i dettagli.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="dal-centro-di-calcolo"&gt;Dal centro di calcolo
+&lt;/h1&gt;&lt;p&gt;Stefano Bagnasco ci ha rapidamente raccontato dalla situazione al Centro di Calcolo&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;la VPN è ancora inaccessibile perché mancano gli aggiornamenti al sistema operativo. La ditta con cui abbiamo il contratto continua a non rispondere.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stiamo utilizzando un sistema di posta provvisorio. Al momento non sappiamo quando passeremo ad una configurazione definitiva. Manca ancora la &amp;ldquo;lista della spesa&amp;rdquo; dal CNAF e &amp;ndash; una volta che avremo tutto &amp;ndash; ci vorrà qualche settimana per la transizione.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Il server di posta di Torino è di nuovo su ed è possibile accedere solo in lettura alle vecchie email. Il consiglio è di cercare di recuperare tutto il possibile via IMAP con la vecchia configurazione. Evitate però di caricare tutte le vecchie mail sul sistema di posta provvisorio. Quando passeremo al sistema definitivo sarà poi possibile rimettere tutti i pezzi insieme.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;in questo momento il server &lt;code&gt;artaban.to.infn.it&lt;/code&gt; è &lt;em&gt;rotto&lt;/em&gt;. Usare &lt;code&gt;zoroastro.to.infn.it&lt;/code&gt; per accedere dall&amp;rsquo;esterno.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="dalla-segreteria-di-direzione"&gt;Dalla segreteria di direzione
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;nella confusione del disastro al server di posta potrebbe essersi persa qualche comunicazione. Scrivete ancora a Rosella se temete che qualche messaggio non sia stato recapitato e state aspettando una risposta.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ricordate di usufruire delle ferie per festività abolite entro la fine di dicembre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;nuovo disciplinare per il lavoro a distanza. Per i ricercatori è stato definito il &amp;ldquo;lavoro decentrato&amp;rdquo;, cioè prestato presso una sezione diversa dalla propria. Contattate Rosella per i dettagli.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="dalla-segreteria-amministrativa"&gt;Dalla segreteria amministrativa
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;nuova procedura per i collaudi. Abbiamo un nuovo sistema digitale che introduce una serie di procedure piuttosto complicate. Simona Bortot ci ha spiegato che anche se non sembra adatto per le necessità della sezione Torino (che è relativamente piccola per queste cose), tutte le nuove complicazioni hanno un loro perchè nel caso dei laboratori. La buona notizia è che Matteo (Fea Sbaraglia) cercherà di semplificarci la vita e sarà in pratica necessario confermare che il materiale acquistato è funzionante con una semplice email.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;forse si parte davvero con Amazon. Non è purtroppo da considerarsi come una resurrezione delle compiante piccole spese, ma sarà da utilizzare solo in casi di estrema urgenza (da giustificare). Poi comunque la procedura è complicata e ci si aspetta di dover attendere comunque un paio di settimane tra la richiesta e l&amp;rsquo;effettivo acquisto&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;missioni. Ci sono state ricordate le regole per le ricevute da presentare per il rimborso dalle missioni. ⚠️ Fate attenzione a booking! Assicuratevi che la struttura rilasci una ricevuta (devono farlo per contratto se indicate &amp;ldquo;viaggio per lavoro&amp;rdquo;). Apparentemente air b&amp;amp;b funziona meglio da questo punto di vista.
+⚠️ Per coloro che sono in regime di rientro dei cervelli, per cortesia ricordatevi di indicarlo nei commenti quando aprite la missione (qualcosa del tipo &lt;em&gt;regime fiscale agevolato, IRPEF solo sul 10% del reddito&lt;/em&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Per qualsiasi chiarimento non esitate a scrivermi.
+Come sempre, tutte le slides e i documenti del CdS sono disponibili all’indirizzo:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!
+Domenico&lt;/p&gt;</description></item><item><title>Call Italia-Cina</title><link>https://domenicoo.github.io/gr4-news/p/cina-2025/</link><pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cina-2025/</guid><description>&lt;p&gt;All the details in the attachments:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="AOO_SRI-2025-0000066-Circolare%20SRI_Call%20Italia-NSFC%202026-2028_Signed.pdf" &gt;Circolare Call Italia-Cina&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="Call2026-2028_NSFC_ItalyChina_2025.10.22_final.pdf" &gt;Call Italia-Cina&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="FAQ_202510_CinaNSFC.pdf" &gt;FAQ&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="template_endorsement_letter_Cina-NSFC.docx" &gt;template endorsement letter&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Addetto Scientifico a Stoccolma</title><link>https://domenicoo.github.io/gr4-news/p/stoccolma-2025/</link><pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/stoccolma-2025/</guid><description>&lt;p&gt;All the details in the attachments:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="Allegato-n.-1-Modulo-disponibilita-STOCCOLMA.pdf" &gt;Modulo Manifestazione Disponibilità&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="AOO_SRI-2025-0000064-CircolareSRI_avviso_AS_Stoccolma_Signed.pdf" &gt;Circolare SRI&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="Avviso-di-selezione-add.-sc.-Stoccolma_Firmato.pdf" &gt;Avviso selezione&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Situazione mail ‼️ UPDATE ‼️</title><link>https://domenicoo.github.io/gr4-news/p/situazione-mail/</link><pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/situazione-mail/</guid><description>&lt;p&gt;ℹ️ &lt;mark&gt;You can find up-to-date information at the following address&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a class="link" href="https://docs.infn.it/share/page/site/TO/wiki-page?title=Main_Page" target="_blank" rel="noopener"
+&gt;https://docs.infn.it/share/page/site/TO/wiki-page?title=Main_Page&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id="-english-version-migration-to-an-external-email-server-10-october"&gt;‼️ English version: Migration to an external email server (10 October)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;This morning all email addresses in the @to.infn.it domain will be migrated to an emergency backup server at CNAF, very similar to the final one that will be put in production in the coming weeks.&lt;/p&gt;
+&lt;p&gt;At first, it will only be possible to access email through a webmail service, by connecting to&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://mail-to.infn.it" target="_blank" rel="noopener"
+&gt;https://mail-to.infn.it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Using your INFN-AAI credentials (the ones used for the general INFN portal). More instructions for the configuration of email clients such as mail.app, thunderbird etc. will be forthcoming shortly.&lt;/p&gt;
+&lt;p&gt;There will be a few hours interval while the configuration propagates worldwide; during that period some messages will continue to be shipped to our old server (and thus be forwarded according to your configuration), while most will already arrive at the new server. After that period, all messages will be routed to the new server and your forward configuration will be automatically disabled.&lt;/p&gt;
+&lt;p&gt;All archived email on the old server is not lost, we’re working on the hardware, and it will be made accessible read-only as soon as possible.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="-migrazione-a-server-di-posta-esterno-9-ottobre"&gt;‼️ Migrazione a server di posta esterno (9 ottobre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Domani mattina (venerdì 10 ottobre) tutti gli indirizzi di posta @to.infn.it saranno migrati su un sistema di emergenza al CNAF, molto simile a quello che sarà poi definitivo.&lt;/p&gt;
+&lt;p&gt;In un primo momento sarà possibile accedere solo attraverso il servizio webmail collegandosi a&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://mail-to.infn.it" target="_blank" rel="noopener"
+&gt;https://mail-to.infn.it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;e autenticandosi con le credenziali AAI (le stesse del portale INFN). Successivamente comunicheremo le istruzioni per configurare i client (mail.app, thunderbird eccetera).&lt;/p&gt;
+&lt;p&gt;Ci sarà un intervallo di poche ore in cui l’informazione si propaga; in quel periodo alcuni messaggi continueranno ad arrivare al nostro server (e conseguentemente a essere forwardati) mentre altri arriveranno direttamente al nuovo sistema; trascorso il periodo tutta la posta arriverà al nuovo server e &lt;strong&gt;i forward non saranno più attivi&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Per quanto riguarda la posta sul vecchio server, stiamo ancora lavorando al ripristino dello storage e la renderemo accessibile in sola lettura appena possibile.&lt;/p&gt;
+&lt;p&gt;Fare riferimento a &lt;a class="link" href="mailto:central-support@to.infn.it" &gt;central-support@to.infn.it&lt;/a&gt; per qualunque problema si incontri (central-support ha ricevuto email anche durante tutta la crsisi, è sempre il riferimento per richieste di supporto)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-8-ottobre"&gt;ℹ️ AGGIORNAMENTO (8 ottobre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Allora, abbiamo fatto passi avanti nel debug del sistema, ma la soluzione richiede probabilmente la sostituzione di altri dischi (già ordinati, ma ancora una settimana) e non è detto che basti&lt;br&gt;
+Quindi abbiamo deciso di procedere con la soluzione di emergenza al CNAF
+domani o al più tardi venerdì mattina migriamo&lt;br&gt;
+Domani in giornata arrivano istruzioni dettagliate su come procedere&lt;br&gt;
+Caveat principale: ci sono delle incongruenze tra la lista degli account locali e la lista degli account in AAI
+l’idea è di procedere al più presto in modo da mettere la maggior parte delle persone in grado di lavorare, e sistemare gli altri via via che troviamo i problemi&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-8-ottobre-1"&gt;ℹ️ AGGIORNAMENTO (8 ottobre)
+&lt;/h1&gt;&lt;p&gt;Purtroppo non ho le buone notizie che mi auguravo.
+I dischi sono arrivati, sono stati inseriti ma i problemi rimangono.&lt;/p&gt;
+&lt;p&gt;Nel frattempo, ho messo su una paginetta per avere sotto controllo la situazione. La trovate qui:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://domenicoo.github.io/gr4-news/is-it-up" target="_blank" rel="noopener"
+&gt;https://domenicoo.github.io/gr4-news/is-it-up&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(non è automatico che i server accettino il login anche se sono in funzione).&lt;/p&gt;
+&lt;h1 id="ℹ-aggiornamento-3-ottobre"&gt;ℹ️ AGGIORNAMENTO (3 ottobre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;È (quasi) tutto pronto per il passaggio al sistema di emergenza. Lunedì arrivano i dischi, gli diamo il tempo di ribilanciare il RAID e martedì mattina se non riparte provvediamo (non credo martedì stesso, ma forse mercoledì).&lt;br&gt;
+Se il nostro sistema riparte non ha senso passare al sistema di emergenza, aspettiamo quello definitivo nel giro di qualche settimana.&lt;br&gt;
+Seguiranno istruzioni dettagliate&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="teams"&gt;TEAMS
+&lt;/h1&gt;&lt;p&gt;L&amp;rsquo;INFN ha una licenza campus di microsoft teams.
+Come detto in CdS, è in questo momento il modo migliore per comunicare con l&amp;rsquo;amministrazione.&lt;/p&gt;
+&lt;p&gt;Trovate tutte le istruzioni alla pagina
+&lt;a class="link" href="https://web.infn.it/windows/index.php/istruzioni/24-office-365" target="_blank" rel="noopener"
+&gt;https://web.infn.it/windows/index.php/istruzioni/24-office-365&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In breve: ci si collega a &lt;a class="link" href="http://www.infn.it/richiesta-o365;" target="_blank" rel="noopener"
+&gt;http://www.infn.it/richiesta-o365;&lt;/a&gt; si viene autenticati con AAI; se non si è mai fatto richiesta di abilitazione si visualizza un bottone, diversamente l&amp;rsquo;informazione che si è già stati abilitati.&lt;/p&gt;
+&lt;h1 id="ℹ-aggiornamento-2-ottobre"&gt;ℹ️ AGGIORNAMENTO (2 ottobre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;⁠ufficialmente i dischi arrivano lunedì. Se il problema è davvero quello (ma non sono troppo ottimista) il problema si risolve subito&lt;/li&gt;
+&lt;li&gt;⁠migrazione al sistema di posta di emergenza potrebbe avvenire già nel corso della prossima settimana&lt;/li&gt;
+&lt;li&gt;sistema di posta definitivo ai servizi nazionali ottimisticamente tre settimane&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nel frattempo,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;l&amp;rsquo;accesso alla VPN è chiuso per qualche giorno&lt;/li&gt;
+&lt;li&gt;l&amp;rsquo;accesso alle macchine di login è sospeso. Ci auguriamo che sia ripristinato velocemente.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="come-inoltrare-la-mail-ad-un-altro-indirizzo"&gt;Come inoltrare la mail ad un altro indirizzo
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Purtroppo il guasto al sistema di posta persiste e non possiamo abilitare i client di posta (pine, imap, webmail).&lt;/p&gt;
+&lt;p&gt;In attesa di risolvere il problema, è possibile configurare un forward a una casella diversa nel seguente modo (sostituite “username” con il vostro username locale e [mioindirizzo@serverdiposta.dacambiare] con l’indirizzo che volete usare):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ssh -l username artaban.to.infn.it
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cd
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cp -a .forward .forward-20250925
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;echo &amp;#34;\\username, mioindirizzo@serverdiposta.dacambiare&amp;#34; &amp;gt; .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;e controllate il contenuto del file &lt;code&gt;.forward&lt;/code&gt; con il seguente comando:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cat .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Che deve restituire una riga simile a quella qui sotto (che ovviamente deve essere il vostro; importante il backslah iniziale per mantenere una copia del mail anche nella inbox locale):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;\bagnasco, stefano.bagnasco@cern.ch
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;h1 id="english-version-how-to-forward-your-mail-to-another-address"&gt;English version: how to forward your mail to another address
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Unfortunately, the mail system malfunction persists and we cannot enable the mail clients (pine, imap, webmail).&lt;/p&gt;
+&lt;p&gt;While waiting to solve the problem, it is possible to configure a forward to a different mailbox as follows (replace “username” with your local username and [mioindirizzo@serverdiposta.dacambiare] with the address you want to use):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ssh -l username artaban.to.infn.it
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cd
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cp -a .forward .forward-20250925
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;echo &amp;#34;\\username, mioindirizzo@serverdiposta.dacambiare&amp;#34; &amp;gt; .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Then check the contents of the &lt;code&gt;.forward&lt;/code&gt; file with the following command:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cat .forward
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;It should return a line similar to the one below (which of course must be yours; the initial backslash is important in order to keep a copy of the mail also in the local inbox):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;\bagnasco, stefano.bagnasco@cern.ch
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-25-settembre"&gt;ℹ️ AGGIORNAMENTO (25 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Non ho buone notizie
+Non risuciamo ad avviare stabilmente il servizio IMAP, stiamo cercando di capire la causa
+E per non rischiare di schiantare tutto per ora teniamo disabilitato anche pine
+Per i ricercatori, tra poco apriamo una public login per poterlo mettere in autonomia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-25-settembre-1"&gt;ℹ️ AGGIORNAMENTO (25 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;la ricostruzione è finita stanotte, ma abbiamo ancora problemi che stiamo cercando di capire
+Se entro stasera non risolviamo andiamo nella direzione del forward&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-24-settembre"&gt;ℹ️ AGGIORNAMENTO (24 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Il disco è arrivato e installato, sta ricostruendo la ridondanza. Ci vorranno alcune ore: a questo punto d’accordo con gli altri aspetterei domani mattina per fare ulteriori passi&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-24-settembre-1"&gt;ℹ️ AGGIORNAMENTO (24 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;stiamo ancora aspettando il disco (che probabilmente non sarà risolutivo, ma evita i rischi di perdita di dati), ho sollecitato ma mi dicono che anche loro stanno aspettando il corriere&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-22-settembre"&gt;ℹ️ AGGIORNAMENTO (22 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;se con il disco rimpiazzato il sistema sta in piedi e tutto torna come prima, bene
+altrimenti il piano è vedere se si riesce a tenere il sistema in piendi senza IMAP (e senza pine); la posta la gestiremmo attraverso dei forward verso altre caselle (CERN, UNITO, gmail,…) che possimo gestire noi per l’amministrazione, mentre i ricercatori dovrebbero essere in grado di far da soli (con opportune istruzioni)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="ℹ-aggiornamento-21-settembre"&gt;ℹ️ AGGIORNAMENTO (21 settembre)
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Purtroppo la situazione è peggiorata, è di nuovo crashato il cluster e non si riesce a farlo ripartire. Domani mattina vien un tecnico per cercare di capire se il problema, come sembra, è lo storage.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id="messaggio-originale"&gt;Messaggio originale:
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Cari coordinatori,&lt;/p&gt;
+&lt;p&gt;Se leggete questo mail ho un vostro indirizzo alternativo (non sono sicuro di quello di Domenico).&lt;/p&gt;
+&lt;p&gt;Abbiamo un complicato problema hardware, ci abbiamo messo un po’ a capire la situazione (dettagli su richiesta) e ora sto aspettando che mi chiamino dall’assistenza per avere un’idea dei tempi di ripristino.&lt;/p&gt;
+&lt;p&gt;Intanto in realtà il sistema di posta funziona, le mail arrivano e non si perdono, possono essere spedite; solo non possiamo “accendere” IMAP o si schianta tutto, quindi non è possible usare un normale client di posta per leggerle.&lt;/p&gt;
+&lt;p&gt;Per chi si ricorda come si fa, pine sulle macchine di public login funziona; un’alternativa, in deroga alle regole, è configurare un forward su un indirizzo diverso (unito, cern, gmail,…), da togliere però finita l’emergenza perché genera potenzialmente altri problemi.&lt;/p&gt;
+&lt;p&gt;Mi spiace per il grave disservizio, il sistema ha ovviamente tutte le ridondanze del caso (e infatti non abbiamo perso dati) ma shit happens… vi tengo informati sugli sviluppi.&lt;/p&gt;
+&lt;p&gt;Grazie,
+Stefano&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Note dal CdS di Ottobre</title><link>https://domenicoo.github.io/gr4-news/p/cds-oct-2025/</link><pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-oct-2025/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 2 ottobre 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note&lt;/p&gt;
+&lt;h1 id="dal-direttivo"&gt;Dal direttivo
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;È stato nominato il nuovo comitato internazionale di valutazione.&lt;/li&gt;
+&lt;li&gt;Sono usciti i bandi di concorso per neolaureati sperimentali: brevi periodi di ricerca (3 settimane per i triennali e 3 mesi per i magistrali) in un laboratorio INFN. Il programma è ancora abbastanza nuovo (4 anni) e ci sono alcune difficoltà amministrative.&lt;/li&gt;
+&lt;li&gt;Pubblicato il bando per &amp;ldquo;foreign visiting scientists&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Preruolo&lt;/strong&gt;: con decreto ministeriale è stato definito il minimo stipendiale (22k€ netti). Non sappiamo ancora il costo reale del contratto perché mancano i dettagli su tasse e previdenza. Nota: il contratto di ricerca richiede un permesso di soggiorno di lunga durata, difficile da ottenere per extraeuropei → massima attenzione nel preparare il bando.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Concorsi&lt;/strong&gt;: il concorso per i teorici è quasi concluso, mentre proseguono gli orali per gli sperimentali. In futuro l’ente chiederà deroghe per usare i tablet e per valutare i titoli prima degli orali. L’idea è di bandire concorsi regolarmente (ogni 3 anni?), ma i numeri saranno fissati dal turnover: niente più “concorsoni”.&lt;/li&gt;
+&lt;li&gt;Parte la sperimentazione di Amazon per acquisti di consumi e piccola strumentazione. Serve sempre motivare bene l’urgenza. A breve arriverà una circolare con le istruzioni.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polizza sanitaria&lt;/strong&gt;: le Poste hanno cancellato il contratto perché i premi non coprivano le spese.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="dalla-segreteria"&gt;Dalla segreteria
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Tutti i dipendenti sono invitati a richiedere una firma digitale da registrare nel libro firma e da usare per la documentazione quando serve. Gli associati possono usare la firma digitale fornita da UniTO. Info: Simona Bortot (responsabile della transizione digitale).&lt;/li&gt;
+&lt;li&gt;L’INFN ha una licenza campus di Microsoft Teams, sempre disponibile per contattare l’amministrazione. Istruzioni qui: &lt;a class="link" href="https://web.infn.it/windows/index.php/istruzioni/24-office-365" target="_blank" rel="noopener"
+&gt;https://web.infn.it/windows/index.php/istruzioni/24-office-365&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="dal-centro-di-calcolo"&gt;Dal Centro di Calcolo
+&lt;/h1&gt;&lt;p&gt;La situazione resta complicata: problemi hardware allo storage che si propagano a cascata su tutti i servizi. L’assistenza non è stata all’altezza, quindi stiamo cercando tecnici esterni.&lt;/p&gt;
+&lt;p&gt;Vista la situazione eccezionale, gli utenti sono invitati a impostare un &lt;em&gt;forward&lt;/em&gt; verso un altro indirizzo (anche se di solito non è permesso). La migrazione della posta al CNAF dovrebbe concludersi in poche settimane, dato che la procedura era già partita mesi fa.&lt;br&gt;
+⚠️ Attenzione: il &lt;code&gt;.forward&lt;/code&gt; ha peggiorato lo spam e con Gmail (o UniTO, che è lo stesso) rischiate di avere tutto finito in SPAM.&lt;/p&gt;
+&lt;p&gt;Nel frattempo potrebbe essere attivato un sistema di emergenza già usato a Roma dopo l’incendio del loro centro di calcolo.&lt;/p&gt;
+&lt;p&gt;È stata segnalata anche la mancanza di un sistema di comunicazione efficace in caso di emergenza.&lt;/p&gt;
+&lt;p&gt;Aggiornamenti sulla situazione qui:&lt;br&gt;
+👉 &lt;a class="link" href="https://domenicoo.github.io/gr4-news/p/situazione-mail" target="_blank" rel="noopener"
+&gt;https://domenicoo.github.io/gr4-news/p/situazione-mail&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Per qualsiasi chiarimento non esitate a scrivermi.&lt;br&gt;
+Come sempre, tutte le slides e i documenti del CdS sono disponibili all’indirizzo:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!&lt;br&gt;
+Domenico&lt;/p&gt;</description></item><item><title>Note dalla CSN4 di Settembre</title><link>https://domenicoo.github.io/gr4-news/p/csn4-25-09/</link><pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/csn4-25-09/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 23 e 24 settembre si è riunita la CSN4 al GGI. Queste sono le mie note&lt;/p&gt;
+&lt;h2 id="ricordo-di-carlo-maria-becchi"&gt;Ricordo di Carlo Maria Becchi
+&lt;/h2&gt;&lt;p&gt;La riunione si è aperta con un ricordo di &lt;strong&gt;Carlo Maria Becchi&lt;/strong&gt; da parte di Riccardo Torre (GE), uno dei suoi ultimi studenti.
+Riccardo ha sottolineato il contributo fondamentale di Becchi alla fisica teorica (per chi non lo sapesse, la &lt;em&gt;B&lt;/em&gt; di &lt;strong&gt;BRST&lt;/strong&gt;), la sua passione per la didattica e il suo lavoro come presidente della CSN4 (i famosi &amp;ldquo;FTE Becchi&amp;rdquo;).&lt;/p&gt;
+&lt;h2 id="dalla-giunta"&gt;Dalla giunta
+&lt;/h2&gt;&lt;p&gt;Intervento di Ciuchini, incentrato sulle difficoltà legate alle figure di preruolo.
+Attualmente ci sono 4-5 figure praticamente equivalenti, e la questione delle tutele per i giovani ricercatori e dei costi per l’ente resta confusa. Dopo mesi di discussioni tra Università e Istituti di ricerca, sembra che una circolare INPS abbia riportato tutto in alto mare.&lt;br&gt;
+Il disciplinare dovrebbe andare in approvazione al prossimo direttivo, si spera con chiarezza definitiva. Questo punto è importante anche per le &lt;strong&gt;borse per stranieri&lt;/strong&gt; (vedi sotto).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fine del periodo di “vacche grasse”: niente più avanzi, anzi c&amp;rsquo;è addirittura una proiezione di &lt;strong&gt;disavanzo&lt;/strong&gt; di ~10M€ per il 2027.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Concorsone&lt;/strong&gt;: procede bene (pettegolezzo: i curricula saranno giudicati nella prima metà di ottobre). La commissione lavora bene, senza i problemi che ha invece il concorso per sperimentali.&lt;/li&gt;
+&lt;li&gt;Discussione su IA: per ora l’INFN resta soprattutto un &lt;strong&gt;“power user”&lt;/strong&gt;, senza un vero investimento in ricerca.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="dal-presidente"&gt;Dal presidente
+&lt;/h2&gt;&lt;h3 id="premi"&gt;Premi
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fubini&lt;/strong&gt;&lt;br&gt;
+Torino ha fatto bene:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Antonio Smecca&lt;/strong&gt; vincitore&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Luca Orosa&lt;/strong&gt; menzione speciale&lt;br&gt;
+Antonio ha presentato la tesi &lt;em&gt;Inclusive Semileptonic Decays of Heavy Mesons and other challenging problems in Lattice QCD&lt;/em&gt;.&lt;br&gt;
+Altri vincitori:&lt;/li&gt;
+&lt;li&gt;Roberta Calabrese (Napoli) – &lt;em&gt;Physics beyond the Standard Model and primordial black holes&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Claudio Toni (Roma 1) – &lt;em&gt;The bearable lightness of new physics&lt;/em&gt;&lt;br&gt;
+Tutte presentazioni di altissimo livello: ottime prospettive per i nostri giovani colleghi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Baldo Ceolin&lt;/strong&gt;&lt;br&gt;
+Torino ancora protagonista con 2 vincitrici su 10: &lt;strong&gt;Maddalena Ferragatta&lt;/strong&gt; e &lt;strong&gt;Camilla Forgione&lt;/strong&gt;.
+La premiazione sarà al GGI il &lt;strong&gt;4 novembre&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="riorganizzazione-delle-iniziative"&gt;Riorganizzazione delle iniziative?
+&lt;/h3&gt;&lt;p&gt;Abbiamo 37 iniziative specifiche: forse troppe, rischio di frammentazione.&lt;br&gt;
+A giugno 2026 andranno ripresentate: potrebbe essere un’occasione per riorganizzare.
+Linee guida previste entro fine 2025, con discussione in CSN4 ad aprile 2026.&lt;/p&gt;
+&lt;h2 id="borse-per-stranieri"&gt;Borse per stranieri
+&lt;/h2&gt;&lt;p&gt;Situazione complicata per via di un buco legislativo.&lt;br&gt;
+Nonostante ciò, si spera di confermare le solite 15 borse e di pubblicare i bandi entro novembre.&lt;/p&gt;
+&lt;p&gt;In questo caso la ripartizione sarà:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Linea&lt;/th&gt;
+&lt;th&gt;1&lt;/th&gt;
+&lt;th&gt;2&lt;/th&gt;
+&lt;th&gt;3&lt;/th&gt;
+&lt;th&gt;4&lt;/th&gt;
+&lt;th&gt;5&lt;/th&gt;
+&lt;th&gt;6&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Borse&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="soldi"&gt;Soldi
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Budget CSN4 invariato: &lt;strong&gt;4M€&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Ma attenzione: il 10% dei fondi di missione (~250k€) resta congelato, da capire se sarà disponibile nel 2026.&lt;br&gt;
+Ne segue che il valore 1 FTE Becchi viene ridotto a &lt;strong&gt;1800€&lt;/strong&gt; (speriamo torni a 2k€ con lo scongelamento).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="scuole-e-workshop"&gt;Scuole e Workshop
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;36 richieste speciali, quasi tutte finanziate integralmente.&lt;/li&gt;
+&lt;li&gt;Raccomandazioni per il futuro:
+&lt;ul&gt;
+&lt;li&gt;essere precisi nelle richieste&lt;/li&gt;
+&lt;li&gt;ricordare che il contributo CSN4 deve essere &amp;lt; 50% del budget totale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Torino: tutte le richieste approvate &lt;em&gt;as is&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trovate le slide delle presentazioni alla pagina di indico &lt;a class="link" href="https://agenda.infn.it/event/48129" target="_blank" rel="noopener"
+&gt;https://agenda.infn.it/event/48129&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Per qualsiasi chiarimento non esitate a scrivermi.&lt;/p&gt;
+&lt;p&gt;A presto!&lt;br&gt;
+Domenico&lt;/p&gt;</description></item><item><title>Note dal CdS di Settembre</title><link>https://domenicoo.github.io/gr4-news/p/cds-sep-2025/</link><pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-sep-2025/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 15 settembre 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note&lt;/p&gt;
+&lt;h1 id="comunicazioni-del-direttore"&gt;Comunicazioni del Direttore
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;È stato eletto il nuovo Vice Presidente: il Prof. Diego Bettoni subentra al Prof. Pallavicini.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sono stati pubblicati i bandi per una serie di concorsi e premi:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Più donne nella Fisica&lt;/em&gt;: 25 borse per studentesse iscritte al primo anno della laurea magistrale.&lt;/li&gt;
+&lt;li&gt;Premio Nazionale &lt;em&gt;Milla Baldo Ceolin&lt;/em&gt; dedicato a &lt;em&gt;Women in Theoretical Physics&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Premio Nazionale &lt;em&gt;La Fisica delle particelle elementari e la meccanica quantistica: un incontro tra Arte e Scienza&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Premi Nazionali 2025 per le migliori tesi di dottorato: &lt;em&gt;Sergio Fubini&lt;/em&gt;, &lt;em&gt;Marcello Conversi&lt;/em&gt;, &lt;em&gt;Bruno Rossi&lt;/em&gt;, &lt;em&gt;Claudio Villi&lt;/em&gt;, &lt;em&gt;Francesco Resmini&lt;/em&gt;, &lt;em&gt;Raffaele Tripiccione&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;È iniziata la procedura selettiva per soli titoli per l’attribuzione della prima, seconda, terza e quarta progressione economica.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Da circa un anno è attivo un gruppo di lavoro ministeriale per la semplificazione dell’organizzazione delle università. Sono attese due novità rilevanti: l’abolizione dell’abilitazione scientifica nazionale e la riforma del CUN.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;È stato approvato il decreto per il preruolo, come annunciato a luglio. Sono previste due nuove figure:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Incarico di Ricerca&lt;/strong&gt;: richiede la laurea (conseguita da non più di sei anni), ha durata massima di tre anni e prevede la presenza di un tutor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incarico Postdoc&lt;/strong&gt;: richiede un PhD o titolo equivalente, dura al massimo tre anni, è compatibile con attività didattiche e non prevede tutor, in quanto figura autonoma.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Restiamo in attesa dei decreti attuativi per la definizione dei parametri stipendiali minimi, attesi entro la fine di settembre.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CERN&lt;/strong&gt;: situazione ancora tesa tra il Direttore Generale e il Governo italiano dopo la nomina del Direttorato (nel quale, ricordiamo, l’Italia non è rappresentata). Ci si augura un riequilibrio nella scelta dei capi servizio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Onde gravitazionali&lt;/strong&gt;: la situazione rimane complessa, soprattutto per la mancanza di finanziamenti statunitensi. LIGO, VIRGO e KAGRA saranno fusi in un unico esperimento per ottimizzare la gestione.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id="centro-di-calcolo"&gt;Centro di Calcolo
+&lt;/h1&gt;&lt;p&gt;Stefano Bagnasco ha presentato le attività del Centro di Calcolo, sia per i servizi sia per la parte scientifica, illustrando i progetti a cui il nostro CdC partecipa come TIER2.&lt;br&gt;
+È stata inoltre discussa la situazione del ri-cablaggio dell’Istituto, completato da UniTO, e quella del sistema di posta. Non disponiamo ancora di una roadmap per il trasferimento al CINECA, ma contiamo di averla al più presto.&lt;/p&gt;
+&lt;h1 id="piccole-spese"&gt;Piccole spese
+&lt;/h1&gt;&lt;p&gt;Ripartono le piccole spese, con una nuova procedura meno automatizzata e, temo, meno efficiente rispetto al passato. Se siete interessati, contattatemi direttamente.&lt;/p&gt;
+&lt;h1 id="lavoro-agile"&gt;Lavoro agile
+&lt;/h1&gt;&lt;p&gt;Si è svolta un’ampia discussione sull’applicazione del lavoro agile in sezione per i livelli IV-VIII. È emerso che l’INFN non ha una linea univoca: l’interpretazione è in gran parte lasciata ai singoli direttori.&lt;/p&gt;
+&lt;p&gt;Per qualsiasi chiarimento non esitate a scrivermi.&lt;br&gt;
+Come sempre, tutte le slides e i documenti del CdS sono disponibili all’indirizzo:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!&lt;br&gt;
+Domenico&lt;/p&gt;</description></item><item><title>Addetto Scientifico a Berlino</title><link>https://domenicoo.github.io/gr4-news/p/berlino-addetto/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/berlino-addetto/</guid><description>&lt;p&gt;All the details in the attachments:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="BERLINO-Modulo-disponibilita.pdf" &gt;Modulo Manifestazione Disponibilità&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="AOO_SRI-2025-0000047-Circolare_SRI_avviso_Addetto_Scientifico_Berlino_Signed.pdf" &gt;Circolare SRI&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="Avviso-selezione-BERLINO_Firmato.pdf" &gt;Avviso selezione&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Addetto scientifico a Londra</title><link>https://domenicoo.github.io/gr4-news/p/londra-addetto-scientifico/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/londra-addetto-scientifico/</guid><description>&lt;p&gt;All the details in the attachments:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="LONDRA-Modulo-disponibilita.pdf" &gt;Modulo Manifestazione Disponibilità&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="AOO_SRI-2025-0000046-Circolare_SRI_avviso_Addetto_Scientifico_Londra_Signed.pdf" &gt;Circolare SRI&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="Avviso-selezione-LONDRA_Firmato.pdf" &gt;Avviso selezione&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Call Obiettivo Pianeta | Fondazione Compagnia di San Paolo</title><link>https://domenicoo.github.io/gr4-news/p/pianeta-san-paolo/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/pianeta-san-paolo/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Si segnala che Fondazione Compagnia di San Paolo ha aperto le candidature per le nuove “Linee guida per attività a supporto della ricerca interdisciplinare” per l’Obiettivo Pianeta – missione Valorizzare la ricerca, con l’obiettivo di incentivare la ricerca interdisciplinare, favorire collaborazioni internazionali e rafforzare le istituzioni nella valorizzazione e nell’autofinanziamento della ricerca.&lt;br&gt;
+L’iniziativa si rivolge a istituti di ricerca e istituzioni pubbliche e private con sede in Piemonte, Liguria e Valle d’Aosta.&lt;/p&gt;
+&lt;p&gt;Deadline 15 settembre 2025.&lt;/p&gt;
+&lt;p&gt;Qui le info e il link al bando:&lt;br&gt;
+&lt;a class="link" href="https://www.compagniadisanpaolo.it/it/news/pubblicate-le-linee-guida-per-attivita-a-supporto-della-ricerca-interdisciplinare/" target="_blank" rel="noopener"
+&gt;https://www.compagniadisanpaolo.it/it/news/pubblicate-le-linee-guida-per-attivita-a-supporto-della-ricerca-interdisciplinare/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Ultimi Aggiornamenti Missioni</title><link>https://domenicoo.github.io/gr4-news/p/aggiornamenti-missioni/</link><pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/aggiornamenti-missioni/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Care/i,&lt;/p&gt;
+&lt;p&gt;è stato rilasciato in produzione un nuovo aggiornamento al modulo MISSIONI (Portale e Oracle Applications). Gentilmente vi chiederei di avvisare tutti i colleghi interessati alla questione.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;aggiornamento riguarda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;l&amp;rsquo;implementazione del flag &amp;ldquo;missione effettuata/non effettuata&amp;rdquo; nel Portale Missioni e maschera Oracle per la lavorazione delle Richieste di Rimborso (art. 46, 47, 75, 76 del D.P.R. n.445/2000)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;la dichiarazione di conformità degli allegati nel Portale Missioni (art. 19, 46 e 47 del D.P.R. n.445/2000)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;l&amp;rsquo;inserimento del campo &amp;ldquo;email&amp;rdquo; nella maschera Oracle per la lavorazione delle Richieste di Rimborso&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In allegato la documentazione dettagliata delle nuove funzionalità elencate.&lt;/p&gt;
+&lt;p&gt;Restiamo a disposizione per ulteriori informazioni.&lt;/p&gt;
+&lt;p&gt;Cordialmente,&lt;br&gt;
+Eleonora&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class="link" href="MS_EFFETTUATA_NON_EFFETTUATA.pdf" &gt;aggiornamento modulo missioni&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Note dal CdS di Luglio</title><link>https://domenicoo.github.io/gr4-news/p/cds-july-2025/</link><pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-july-2025/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 3 luglio 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note&lt;/p&gt;
+&lt;h1 id="comunicazioni-del-direttore"&gt;Comunicazioni del Direttore
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;È stato approvato un finanziamento premiale aggiuntivo di 60M€ per il FOE. Di questi, circa 9M€ (con una possibile variazione di ±1M€) andranno all&amp;rsquo;INFN. La misura è sperimentale per tre anni (fino alla fine dell&amp;rsquo;attuale legislatura), ma si auspica che diventi strutturale.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;È stato adottato un nuovo disciplinare per le borse di studio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entro fine luglio è atteso anche il nuovo disciplinare per le posizioni di pre-ruolo, aggiornato per includere le nuove figure professionali recentemente introdotte.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;L’uscita del bando per le borse di studio internazionali della CSN4 e del bando &amp;ldquo;Grant Giovani&amp;rdquo; del Gruppo V è vincolata all’approvazione di questo disciplinare.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;È stato finalmente emanato il decreto legge relativo al pre-ruolo, ma manca ancora il decreto ministeriale che definisce i livelli retributivi – ed è questo il nodo che sta ritardando l’approvazione del disciplinare.&lt;/p&gt;
+&lt;p&gt;Le nuove figure previste dal decreto sono:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Incarico di Ricerca&lt;/strong&gt;: richiede solo la laurea (conseguita da non più di sei anni), ha una durata massima di tre anni ed è previsto un tutor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incarico Postdoc&lt;/strong&gt;: richiede un PhD o curriculum equivalente, dura al massimo tre anni, è compatibile con attività didattiche e non prevede un tutor, poiché si considera una figura autonoma.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Queste si aggiungono al &lt;strong&gt;Contratto di Ricerca&lt;/strong&gt; già in vigore (fino a cinque anni, focalizzato solo sulla ricerca, senza didattica).&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;è stato un ampio dibattito sul tema del precariato (che, teoricamente, può durare fino a 11 anni dopo la laurea) e sull’assenza di un percorso strutturato per chi intende intraprendere la carriera nella ricerca.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id="concorsi-e-ricorsi"&gt;Co(nco)rsi e ricorsi
+&lt;/h1&gt;&lt;p&gt;Come è noto, siamo nel pieno svolgimento del concorsone.
+Il concorso per i teorici procede regolarmente: i risultati degli scritti sono attesi entro metà luglio, con gli orali previsti per settembre.&lt;/p&gt;
+&lt;p&gt;Situazione diversa per il concorso degli sperimentali:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uno dei commissari (Alberto Quaranta) ha inviato una lettera di scuse ufficiale per il proprio comportamento durante la prova.&lt;/li&gt;
+&lt;li&gt;Il presidente della commissione ha fornito indicazioni errate sul numero di esercizi da svolgere.&lt;/li&gt;
+&lt;li&gt;In generale, la tipologia della prova (basata su esercizi) è stata ritenuta poco adatta.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si è valutata l’ipotesi di annullare la prova, ma si è deciso di attendere l’esito ufficiale, consapevoli che con ogni probabilità ci saranno ricorsi.&lt;/p&gt;
+&lt;p&gt;Si è discusso anche su come migliorare l’organizzazione futura, ad esempio tramite una maggiore segmentazione (concorsi separati per le diverse commissioni sperimentali, concorsi locali), ma al momento non c’è consenso su una soluzione condivisa.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="stabilizzazioni"&gt;Stabilizzazioni
+&lt;/h1&gt;&lt;p&gt;Il finanziamento premiale del FOE dovrebbe contribuire in modo sostanziale a ridurre di circa la metà il disavanzo di 20M€ legato alla stabilizzazione dei contratti a tempo determinato finanziati dal PNRR.&lt;br&gt;
+Come già ribadito in passato, per l’INFN si tratta di stabilizzare la metà dei tecnologi e due terzi dei tecnici già formati, risorse fondamentali che sarebbe irragionevole disperdere.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id="dallestero"&gt;Dall’estero
+&lt;/h1&gt;&lt;p&gt;C’è delusione per la recente nomina del nuovo Council del CERN, che non include membri italiani. Il ministero ha inviato una lettera molto franca al nuovo Director General. Per la prima volta, il Council non è stato approvato all’unanimità.&lt;/p&gt;
+&lt;p&gt;Questa settimana sarà decisiva per il possibile futuro del progetto ET in Germania: il governo tedesco potrebbe stanziare circa 1 miliardo di euro, ma solo a condizione che il progetto sia cantierabile entro cinque anni. Entro la fine della settimana si dovrebbe capire se esiste un progetto che risponda a questo requisito e quanto risulterebbe compatibile con quello italiano.&lt;/p&gt;
+&lt;p&gt;Non esitate a scrivermi se volete altri chiarimenti.
+Vi ricordo che come sempre potete trovare tutti le slides e i documenti del CdS all&amp;rsquo;indirizzo&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!&lt;br&gt;
+Domenico&lt;/p&gt;</description></item><item><title>Workshop “Perspectives at the Bellotti IBF” - Second Circular</title><link>https://domenicoo.github.io/gr4-news/p/bellotti-2025/</link><pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/bellotti-2025/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Per incarico del Direttore si trasmette in allegato la Second Circular del
+workshop dal titolo &amp;ldquo;Perspectives at the Bellotti IBF&amp;rdquo;, che si terrà dal
+giorno 8 al giorno 10 ottobre 2025 presso la sala Maiorana dei LNGS.&lt;/p&gt;
+&lt;p&gt;Il link alla pagina web dedicata è il seguente:
+(&lt;a class="link" href="https://ibf-workshop.sites.lngs.infn.it/%29" target="_blank" rel="noopener"
+&gt;https://ibf-workshop.sites.lngs.infn.it/)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cordiali saluti&lt;br&gt;
+Servizio Direzione LNGS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a class="link" href="Second_Circular___Perspectives_at_IBF_2025-1.pdf" &gt;second circular&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Circolare Sri - Avviso Di Incarico Di Esperto Ex Art. 168 Del D.P.R. 18/67 Con Funzioni Di Addetto Spaziale Presso L’Ambasciata D’Italia In New Delhi</title><link>https://domenicoo.github.io/gr4-news/p/delhi-addetto-spaziale/</link><pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/delhi-addetto-spaziale/</guid><description>&lt;p&gt;All the details in the attachments:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="ALLEGATO-1-ModuloManifestazioneDisponibilita.pdf" &gt;Modulo Manifestazione Disponibilità&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="AOO_SRI-2025-0000040-Circolare-SRI_avviso-addetto-spaziale-New-Delhi_Signed.pdf" &gt;Circolare SRI&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="avviso-addetto-spaziale-New-Delhi_Firmato.pdf" &gt;Avviso addetto spaziale&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Wolfram Mathematica software - the new site license is available</title><link>https://domenicoo.github.io/gr4-news/p/mathematica-license-2025/</link><pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/mathematica-license-2025/</guid><description>&lt;p&gt;Dear all,&lt;/p&gt;
+&lt;p&gt;this is a reminder that we have activated the new mathematica contract.&lt;/p&gt;
+&lt;p&gt;To use it on your machine, please follow the instructions that Andrea sent us a few days ago (also attached to this message)&lt;/p&gt;
+&lt;p&gt;Domenico&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="./install_Mathematica_Physics_EN_2025.pdf" &gt;mathematica installation instructions&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dear all,&lt;/p&gt;
+&lt;p&gt;following my previous message from May, 8th (see below), I am happy to let you know that the new site license for the Wolfram Mathematica software is now available.
+Staff members and students associated with the departments of Physics, Mathematics, INFN, and the &amp;ldquo;Ferdinando Rossi&amp;rdquo; school can access the software following the instructions attached to this message.&lt;/p&gt;
+&lt;p&gt;Please let me know should you have any questions.
+Best regards,&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Andrea Signori
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Dear all,&lt;/p&gt;
+&lt;p&gt;the University of Turin provided a site license for the Mathematica
+software which expired at the end of April. With this license, each
+member of the UniTO community with a @unito.it or a @edu.unito.it email
+address had access to licenses for Mathematica.&lt;/p&gt;
+&lt;p&gt;After negotiating with the software distributor (Adalta), the license
+has been renewed for another year by the departments of Physics,
+Mathematics, INFN, and the &amp;ldquo;Ferdinando Rossi&amp;rdquo; school. Staff members and
+students associated to these institutions will keep access to the
+software. While waiting for the activation of the new contract, in order
+to use Mathematica you can take the following steps:&lt;/p&gt;
+&lt;p&gt;If you already created a Wolfram account linked to your @unito.it or
+@edu.unito.it email address:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;request a temporary activation key, valid for 1 month, using the form
+provided by Adalta on April 24th:
+&lt;a class="link" href="https://www.adalta.it/wolfram-mathematica-per-unitorino/" target="_blank" rel="noopener"
+&gt;https://www.adalta.it/wolfram-mathematica-per-unitorino/&lt;/a&gt;
+(the email with this link might be in your spam folder)&lt;/li&gt;
+&lt;li&gt;after receiving the temporary activation key, start Mathematica and
+go to &amp;ldquo;Help/Enter Activation Key&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;once the new contract will be active, you will need to create a new
+activation key from your existing Wolfram/UniTO account and enter it in
+the software&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you never created a Wolfram account linked to your @unito.it or
+@edu.unito.it email address, please wait a few more days/weeks for the
+new contract to be active.&lt;/p&gt;
+&lt;p&gt;I will send another message once the new site license is available.
+Best regards,&lt;/p&gt;
+&lt;p&gt;Andrea Signori&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Proposte progettuali congiunte italo-argentine per il biennio 2026-2028</title><link>https://domenicoo.github.io/gr4-news/p/argentina-2025/</link><pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/argentina-2025/</guid><description>&lt;p&gt;Avviso per la raccolta di proposte progettuali per la mobilità dei ricercatori,
+finalizzato al rinnovo del programma esecutivo per la cooperazione scientifica e
+tecnologica tra italia e argentina per il biennio 2026-2027.&lt;/p&gt;
+&lt;p&gt;Sebbene la presentazione delle proposte sia fissate da bando al 14.07.25, esse vanno preventivamente fatte pervenire via e-mail, al Direttore di Struttura, entro il 2 Luglio 2025, il quale deve farle pervenire al Presidente, al Prof. Pallavicini entro la scadenza interna del 04 luglio 2025.&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="Circolare-Italia-Argentina.pdf" &gt;Circolare SRI Call Italia-Argentina 2026-2027&lt;/a&gt;&lt;br&gt;
+&lt;a class="link" href="Bando-bilaterale-Italia-Argentina.pdf" &gt;Bando bilaterale Italia Argentina&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Avviso di selezione per il conferimento degli incarichi di lavoro autonomo occasionale presso le Strutture INFN</title><link>https://domenicoo.github.io/gr4-news/p/autonomo-occasionale/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/autonomo-occasionale/</guid><description>&lt;blockquote&gt;
+&lt;p&gt;Gentili Direttori&lt;/p&gt;
+&lt;p&gt;vi comunico, per conto del Direttore della Direzione Risorse Umane, che l&amp;rsquo;Ufficio Contratti di Ricerca, Borse di Studio e Collaborazioni ha provveduto a pubblicare nella pagina opportunità di lavoro (sezione art. 2222 - concorsi attivi - codice 81/2025) e nel Portale unico del reclutamento (inPA) - codice CONS/INFN/81/2025, l&amp;rsquo;avviso di selezione per il conferimento di contratti di lavoro autonomo occasionale presso le Strutture dell&amp;rsquo;INFN per attività di “Tutor a supporto di iniziative di diffusione della cultura scientifica dell&amp;rsquo;INFN&amp;quot; e attività di “Tutor per visite a carattere scientifico con seminari introduttivi sulle attività dei LNGS o dei LNS”.&lt;/p&gt;
+&lt;p&gt;Gli interessati alla selezione dovranno inoltrare domanda esclusivamente per via telematica, autenticandosi con SPID/CIE/CNS/eIDAS, compilando il format di candidatura sul Portale «inPA» - raggiungibile dalla rete internet all&amp;rsquo;indirizzo: &lt;a class="link" href="https://www.inpa.gov.it" target="_blank" rel="noopener"
+&gt;https://www.inpa.gov.it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Le domande potranno essere presentate entro le ore 23:59 del giorno 25 giugno 2025.&lt;/p&gt;
+&lt;p&gt;La presente comunicazione è per favorire una maggiore pubblicità, all&amp;rsquo;interno dell&amp;rsquo;Istituto, di selezioni che si contraddistinguono per la loro particolarità o interesse a livello nazionale.&lt;/p&gt;
+&lt;p&gt;Cordiali saluti&lt;/p&gt;
+&lt;p&gt;bm&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bianca Maria Mecangeli&lt;br&gt;
+Responsabile dell’ Ufficio di Segreteria&lt;br&gt;
+Direzione Risorse Umane&lt;br&gt;
+Referente Locale per la Formazione AC&lt;br&gt;
+Istituto Nazionale di Fisica Nucleare (INFN)- &lt;a class="link" href="https://www.ac.infn.it" target="_blank" rel="noopener"
+&gt;www.ac.infn.it&lt;/a&gt;&lt;br&gt;
+Tel.: 06.94032492&lt;br&gt;
+Email:bianca.mecangeli@lnf.infn.it&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>Note dal CdS di Giugno</title><link>https://domenicoo.github.io/gr4-news/p/cds-june-2025/</link><pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-june-2025/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 9 giugno 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le note raccolte da Mattia Di Mauro che mi ha sostituito (grazie!). Tutte le imprecisioni sono le mie.&lt;/p&gt;
+&lt;h1 id="comunicazioni-del-direttore"&gt;Comunicazioni del Direttore
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Calendario CDS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prossimo CDS: 3 luglio alle 9:30&lt;/li&gt;
+&lt;li&gt;CDS del 28 luglio probabilmente cancellato&lt;/li&gt;
+&lt;li&gt;Si propone di rinviare le riunioni di fine luglio a settembre, in coordinamento con le riunioni nazionali dei gruppi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Approvazioni&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;21/2025: Disciplinare contratti di ricerca approvato&lt;/li&gt;
+&lt;li&gt;32/2025: Approvati atti e graduatorie dei bandi di concorso&lt;/li&gt;
+&lt;li&gt;41/2025: Approvato accordo di ricerca collaborativa con Hyper-Kamiokande&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Aggiornamenti dai Ministeri&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FOE 2025:
+&lt;ul&gt;
+&lt;li&gt;Aumento di 10 milioni&lt;/li&gt;
+&lt;li&gt;Premiale aggiuntivo di 40 milioni&lt;/li&gt;
+&lt;li&gt;Ulteriori 60 milioni previsti dal 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;INFN: possibile incremento di fondi tra il 10% e il 15%&lt;/li&gt;
+&lt;li&gt;Necessità di individuare un veicolo normativo per trasformare queste risorse in legge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;EPR – CNR&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scaduta la proroga del Presidente del CNR&lt;/li&gt;
+&lt;li&gt;Il MUR non ha nominato membri del CdA&lt;/li&gt;
+&lt;li&gt;Il CNR è attualmente privo di rappresentante legale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Preruolo&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Approvato il DL 45&lt;/li&gt;
+&lt;li&gt;Accanto al contratto di ricerca, introdotte due nuove tipologie contrattuali&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Agenti Contabili&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Procedura di nomina conclusa&lt;/li&gt;
+&lt;li&gt;Il direttore effettuerà rimborsi in contanti, verosimilmente al termine di ogni CdS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tool RDA per gare&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Forte raccomandazione all’uso del tool rispetto alle email&lt;/li&gt;
+&lt;li&gt;Amazon resta bloccato&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nomina RLS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;RSU ha nominato come RLS l’uscente Sara Garbolino&lt;/li&gt;
+&lt;li&gt;La Giunta si riserva una riflessione sulla compatibilità con il ruolo RSU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CERN&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Strategia europea per la fisica delle particelle (ESPP): Venezia, 23–27 giugno&lt;/li&gt;
+&lt;li&gt;Nessun cambiamento nella struttura del direttorato&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LNGS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ottima review per DarkSide-L, la più positiva finora&lt;/li&gt;
+&lt;li&gt;Risolta la questione dell’estrazione dell’argon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Einstein Telescope (ET)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design ottico finalizzato, in attesa dei progetti definitivi&lt;/li&gt;
+&lt;li&gt;Incontri a Bruxelles con ministri di DE, FR, PL&lt;/li&gt;
+&lt;li&gt;PL interessata all’ipotesi di doppia L in Sassonia&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="comunicazioni-dalla-segreteria-di-direzione"&gt;Comunicazioni dalla Segreteria di Direzione
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Programmazione triennale&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Entro ottobre ogni sezione INFN dovrà predisporre la programmazione triennale delle spese&lt;/li&gt;
+&lt;li&gt;Utilizzo della piattaforma Nova PA&lt;/li&gt;
+&lt;li&gt;Invio contestuale all’Ufficio delibere e programmazione&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Nuovo disciplinare missioni estere&lt;/strong&gt; (in vigore dal 1/6/2025)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eliminato rimborso auto a noleggio in aeroporto&lt;/li&gt;
+&lt;li&gt;Rimborsabili i costi assicurativi complementari e le ricariche auto&lt;/li&gt;
+&lt;li&gt;Non più necessaria la carta d’imbarco&lt;/li&gt;
+&lt;li&gt;Aumenti:
+&lt;ul&gt;
+&lt;li&gt;Diaria CERN: 155 €&lt;/li&gt;
+&lt;li&gt;Spese vitto: 80–90 €&lt;/li&gt;
+&lt;li&gt;Spese pernottamento aumentate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Non saranno più rimborsate assicurazioni personali (presente polizza ad hoc)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Missioni in Italia&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vitto massimo: 60 €/24h&lt;/li&gt;
+&lt;li&gt;Pernottamento massimo: 250 €&lt;/li&gt;
+&lt;li&gt;Fate attenzione a riportare pasti offerti&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Missioni legate a fondi esterni&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Obbligo di descrizione esaustiva della missione e del legame col progetto&lt;/li&gt;
+&lt;li&gt;Inserimento del riferimento al progetto&lt;/li&gt;
+&lt;li&gt;In caso di intermediari, necessità di documento fiscale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digitalizzazione delle missioni&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Niente più ricevute cartacee: caricare tutto sul portale rimborsi&lt;/li&gt;
+&lt;li&gt;Conservare i documenti fino al rimborso&lt;/li&gt;
+&lt;li&gt;Controlli a campione comunicati in anticipo&lt;/li&gt;
+&lt;li&gt;Dopo la sottomissione non si può modificare la richiesta&lt;/li&gt;
+&lt;li&gt;Eventuali ricevute mancanti possono essere aggiunte dall’ufficio missioni&lt;/li&gt;
+&lt;li&gt;Per Paesi in blacklist è obbligatoria la ricevuta originale&lt;/li&gt;
+&lt;li&gt;Tutti i pagamenti devono essere tracciabili (vietati i contanti)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Non esitate a scrivermi se volete altri chiarimenti.
+Vi ricordo che come sempre potete trovare tutti le slides e i documenti del CdS all&amp;rsquo;indirizzo&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!
+Domenico&lt;/p&gt;</description></item><item><title>Candidati al concorsone INFN, un po' di dati</title><link>https://domenicoo.github.io/gr4-news/p/concorsone/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/concorsone/</guid><description>&lt;p&gt;Qualche tempo fa vi avevo chiesto di mettermi in contatto con i candidati al concorso INFN che avevano espresso preferenza per la sede di Torino.&lt;/p&gt;
+&lt;p&gt;Per essere completamente trasparenti, vi fornisco alcune statistiche (tenendo presente che i numeri sono piccoli e la varianza è grande).&lt;/p&gt;
+&lt;p&gt;Ad oggi, ho identificato almeno 16 candidati che hanno indicato Torino come prima scelta, ma potrebbero essercene altri di cui non sono ancora a conoscenza.
+Il numero totale di candidati per il concorso è di circa 250, per un totale di 10 posizioni disponibili.
+Per darvi un&amp;rsquo;idea della scala, il gruppo IV di Torino rappresenta circa il 10% del totale del gruppo IV INFN a livello nazionale.
+Potete trovare un paio di grafici riassuntivi a questo link:&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://www.reflando.net/oacu4uSe" target="_blank" rel="noopener"
+&gt;https://www.reflando.net/oacu4uSe&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Note dal CdS di Maggio</title><link>https://domenicoo.github.io/gr4-news/p/cds-may/</link><pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/cds-may/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;il 16 maggio 2025 si è tenuto il Consiglio di Sezione dell’INFN di Torino. Queste sono le mie note.&lt;/p&gt;
+&lt;h1 id="dal-consiglio-direttivo"&gt;Dal Consiglio Direttivo
+&lt;/h1&gt;&lt;p&gt;È stato rinnovato l&amp;rsquo;accordo con ICTP.
+Il FOE (Fondo Ordinario per gli Enti di ricerca) è in fase di definizione. Si prevede che le parti non premiali rimarranno invariate, mentre per le parti premiali sono attesi 20M€ per il 2025 e 50M€ per il 2026. Di questi, 10M€ saranno destinati all&amp;rsquo;INFN. La trattativa è resa più complicata dal fatto che l&amp;rsquo;INFN è l&amp;rsquo;unico tra gli enti di ricerca che non sta cambiando management in questo periodo.
+È stato nominato un nuovo presidente IRIM, un professore del Politecnico di Torino.&lt;/p&gt;
+&lt;h1 id="riforma-del-preruolo"&gt;Riforma del Preruolo
+&lt;/h1&gt;&lt;p&gt;È assolutamente chiara la necessità di una figura intermedia tra dottorato e contratto di ricerca.
+La proposta originaria del MUR è stata abbandonata per mancanza di consenso, sia a livello nazionale che in parlamento. Si è registrata una forte opposizione sindacale (CGIL e ADI).&lt;/p&gt;
+&lt;p&gt;La nuova proposta prevede due contratti intermedi: incarico di ricerca e postdoc.
+Il postdoc includerà anche attività didattica, ammetterà finanziamenti esterni (es. INFN), sarà a tempo determinato di 1 anno con possibilità fino a 3 rinnovi, ed è destinato a chi ha conseguito il dottorato.
+L&amp;rsquo;incarico di ricerca sostituirà l&amp;rsquo;AdR (Assegno di Ricerca), sarà detassato con 3 scaglioni salariali, a tempo determinato di 1 anno con possibilità fino a tre rinnovi, e sarà disponibile entro 6 anni dalla laurea, concedendo tempo sufficiente per ottenerlo anche dopo il dottorato.
+Il nuovo incarico di ricerca non sarà compatibile con il dottorato e non potrà essere utilizzato per finanziare dottorati senza borsa.
+Al momento, sembra che università ed EPR procederanno in modo diverso: le università con contratto subordinato (forse con introduzione del cartellino), gli EPR con contratto parasubordinato e previdenza in gestione separata. Potrebbero sorgere problemi nel riconoscimento dell&amp;rsquo;anzianità per i concorsi.&lt;/p&gt;
+&lt;p&gt;Per affrontare l&amp;rsquo;attuale vuoto normativo, esistono: borse di studio post-laurea (utilizzate intensamente dalle università, ma non dall&amp;rsquo;INFN, se non per ponti di qualche mese) e borse di studio postdoc. Queste non sono state abolite esplicitamente per gli EPR, ma sono soggette a tassazione e quindi hanno un costo complessivo superiore. Ci sono limitazioni per chi ha già avuto un AdR, ma con possibilità di discussione con la giunta. È in preparazione un disciplinare.&lt;/p&gt;
+&lt;p&gt;La situazione rimane molto fluida, ma ci si aspettano novità entro la prima settimana di giugno, quando saremo in completo vuoto normativo. Per dirne una, in questo momento non è possibile far venire in Italia i vincitori di una borsa Marie Curie.&lt;/p&gt;
+&lt;h1 id="concorsone"&gt;Concorsone
+&lt;/h1&gt;&lt;p&gt;Sono state definite le modalità di svolgimento e i candidati sono stati informati.
+La prova scritta per i teorici si terrà il 22 maggio.
+La prova comprenderà domande chiuse, domande aperte e un tema breve, con possibilità di scelta tra diversi argomenti.
+Il testo sarà disponibile in italiano e inglese, con possibilità di rispondere in inglese.
+Verrà fornito un tablet ai candidati e non sarà consentito portare niente (inclusa la carta) dall&amp;rsquo;esterno.&lt;/p&gt;
+&lt;h1 id="situazione-internazionale"&gt;Situazione Internazionale
+&lt;/h1&gt;&lt;h2 id="usa"&gt;USA
+&lt;/h2&gt;&lt;p&gt;È stato proposto un taglio del 55% dei fondi alla NSF. Sono già stati terminati da un giorno all&amp;rsquo;altro grant per un totale di 1G$.
+Sono in dubbio i progetti comuni con l&amp;rsquo;INFN, creando problemi principalmente ai laboratori del Gran Sasso.
+Si valuta un possibile contributo del Canada al progetto Darkside.&lt;/p&gt;
+&lt;h2 id="et-einstein-telescope"&gt;ET (Einstein Telescope)
+&lt;/h2&gt;&lt;p&gt;La situazione internazionale è in evoluzione dopo l&amp;rsquo;annuncio in Germania di investimenti dell&amp;rsquo;ordine di 100G€.
+Si prospetta una possibile spinta verso un laboratorio da costruire intorno a Maastricht o in Sassonia.&lt;/p&gt;
+&lt;p&gt;I tagli negli USA rischiano di cancellare tutti i prossimi grandi esperimenti (come Cosmic Explorer) per i prossimi 10 anni.
+Si prevedono problemi per tutte le attività interconnesse, considerando che per esempio attualmente il 70% del software è supportato dagli americani.&lt;/p&gt;
+&lt;h2 id="ia-intelligenza-artificiale"&gt;IA (Intelligenza Artificiale)
+&lt;/h2&gt;&lt;p&gt;La Commissione Europea ha previsto investimenti per costruire 5 AI factory da 4G€ ciascuna, ripartiti in 3G€ con fondi privati e 1G€ dalla Commissione.
+Francia e paesi nordici si mostrano molto interessati.
+L&amp;rsquo;INFN sta promuovendo una candidatura italiana, ma non è chiaro come reperire i fondi necessari.&lt;/p&gt;
+&lt;h1 id="piccole-spese"&gt;Piccole Spese
+&lt;/h1&gt;&lt;p&gt;È stata definita la figura dell&amp;rsquo;agente contabile. A Torino, questo ruolo sarà ricoperto dal Direttore.
+Mancano ancora i moduli per avviare il sistema delle piccole spese.
+Per gli acquisti via web persistono problemi sia tecnici che nella scelta delle categorie merceologiche proponibili.
+Si prevede di avviare una fase di sperimentazione a giugno.&lt;/p&gt;
+&lt;h1 id="comunicazioni-dalla-segreteria-di-direzione"&gt;Comunicazioni dalla Segreteria di Direzione
+&lt;/h1&gt;&lt;p&gt;Bisogna chiudere il cartellino tassativamente entro il 5 del mese successivo, pena il blocco dell&amp;rsquo;intera procedura.
+Le ferie residue devono essere godute entro il 31 agosto dell&amp;rsquo;anno successivo.
+È richiesto di pianificare almeno due settimane di ferie nel periodo tra giugno e settembre.&lt;/p&gt;
+&lt;p&gt;Non esitate a scrivermi se volete altri chiarimenti.
+Vi ricordo che come sempre potete trovare tutti le slides e i documenti del CdS all&amp;rsquo;indirizzo&lt;/p&gt;
+&lt;p&gt;&lt;a class="link" href="https://l.infn.it/cds-to" target="_blank" rel="noopener"
+&gt;https://l.infn.it/cds-to&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A presto!&lt;br&gt;
+Domenico&lt;/p&gt;</description></item><item><title>Dalla CSN4 di Aprile</title><link>https://domenicoo.github.io/gr4-news/p/csn4-202504/</link><pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/p/csn4-202504/</guid><description>&lt;p&gt;Carissimi,&lt;/p&gt;
+&lt;p&gt;vi allego il riassunto delle decisioni prese alla CSN4 di Napoli, aggiornato dopo la riunione con i responsabili
+nazionali dell Iniziative Specifiche di tre giorni fa.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Nella riunione del 03/04 Aprile della CSN4 a Napoli le decisioni prese di
+maggior interesse per la nostra comunità riguardano:
+i) Aggiornamento delle regole Becchi (RB);
+ii) Introduzione di correttivi nella gestione/assegnazione dei fondi missione
+per portare gli avanzi complessivi della CSN4 a fine anno a percentuali
+&amp;ldquo;accettabili&amp;rdquo; (&amp;lt;=5%).&lt;/p&gt;
+&lt;p&gt;Per quanto riguarda il primo punto sono state modificate le RB per:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Dottorandi.
+Dato che con la riforma del dottorato fatta nel 2023 dal governo Draghi, la
+borsa di dottorato è ora &amp;ldquo;vestita&amp;rdquo; con un finanziamento per attività di
+ricerca pari a circa il 10% della stessa per tutti i 3 anni e che l&amp;rsquo;INFN
+ha deciso di includere nelle Convenzioni con le Università questo
+finanziamento, lo stesso da parte della CSN4 risulta meno fondamentale. Pertanto
+si è deciso di finanziare i dottorandi con una quota flat per tutti i 3 anni
+pari a 0.5 gettone Becchi (GB) senza tenere in conto del controllo sulle
+pubblicazioni.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Assegnisti (o le future figure di personale a tempo determinato).
+Considerato che queste persone sono all&amp;rsquo;inizio della carriera e
+quindi il poter viaggiare è una necessità importante, si è deciso un
+finanziamento di 1 GB per i primi due anni senza tenere in conto del controllo
+sulle pubblicazioni, mentre in caso di terzo anno l&amp;rsquo;assegnazione di 1 GB
+terrà in conto del controllo sulle pubblicazioni.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sono state poi modificate le assegnazioni dei fondi missioni per
+personale afferente alla CSN4 con percentuali sulle IS inferiori al 40%.
+Per persone afferenti alla CSN4 (non si applica quindi a persone
+afferenti ad altre CSN) che hanno una percentuale su una IS inferiore al 40% i
+fondi missione (in percentuale) non verranno assegnati alla IS ma alle DOT4.&lt;/p&gt;
+&lt;p&gt;Infine per evitare la proliferazione di sigle di IS con percentuali minime
+è stato ribadito che per aprire una sigla di IS presso una sezione è
+necessario che la sigla abbia almeno 1 FTE totale, con la condizione in più
+che l&amp;rsquo;FTE provenga solo da staff, cioè non contano per fare 1 FTE né
+dottorandi né borsisti né personale di altro ente.
+Pertanto entro fine anno, tutte le sigle con meno di 1 FTE staff devono essere
+chiuse e le persone in queste sigle si devono riallocare o presso sigle della
+stessa IS in altre sedi oppure presso DOT4.&lt;/p&gt;
+&lt;p&gt;Riguardo il secondo punto nell&amp;rsquo;anno 2024 abbiamo avuto come commissione
+un avanzo sul capitolo missioni ~235 KE pari a più del 10% dell&amp;rsquo;assegnato.
+Per l&amp;rsquo;anno 2025 abbiamo avuto, rispetto al 2024, un ulteriore incremento sul
+capitolo missioni di 200 KE. Senza una ottimizzazione delle modalità di spesa
+rischiamo un avanzo su missioni a fine 2025 superiore a quello 2024, già
+troppo consistente.
+Sono stati presi due provvedimenti per ottimizzare la spesa.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Conformemente a quanto fatto dalle altre CSN e come già fatto sotto le
+presidenze Lerda e Piccinini si è deciso di stornare gli avanzi su missioni
+dalle IS alle DOT4. La data ultima degli storni, inizialmente fissata al 15/07,
+dopo una interlocuzione con i Responsabili Nazionali delle IS, è stata spostata
+al 05/09. Pertanto entro il 05/09 i Coordinatori provvederanno agli storni
+con le Amministrazioni locali.&lt;/li&gt;
+&lt;li&gt;è stato introdotto nella assegnazione primaverile un fattore di Bonus/Malus
+cosi&amp;rsquo; funzionante: nella assegnazione di primavera ad ogni sezione viene
+sottratto l&amp;rsquo;avanzo complessivo su missioni dell&amp;rsquo;anno precedente e restituito
+l&amp;rsquo;avanzo percentuale medio su missioni dell&amp;rsquo;anno precedente. In questa maniera
+vi è un trasferimento di fondi da sezioni che non hanno capacità di
+spesa a sezioni che invece sono capaci di spendere. Va specificato che mentre
+la sottrazione sarà puntuale, cioè si terrà in
+conto della provenienza dell&amp;rsquo;avanzo, la restituzione sarà tutta su DOT4.
+Per chiarire il punto con un esempio: assumiamo che in una sezione &amp;ldquo;virtuosa&amp;rdquo;,
+cioè con una avanzo complessivo di sezione inferiore alla media, una IS
+avanzi su missione a fine anno 1000 euro (perché magari prima del 05/09 ha
+impegnato dei soldi che poi non sono stati effettivamente spesi), nella
+assegnazione di primavera dell&amp;rsquo;anno successivo verranno sottratti a questa IS
+1000 euro mentre tutto quello dovuto alla &amp;ldquo;virtuosità&amp;rdquo; della sezione sarà
+assegnato su DOT4.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Queste sono le cose più importanti approvate nella riunione di Aprile.&lt;/p&gt;
+&lt;p&gt;Cari saluti
+Giuseppe&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>

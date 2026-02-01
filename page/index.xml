@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Group IV News</title><link>https://domenicoo.github.io/gr4-news/page/</link><description>Recent content in Pages on Group IV News</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://domenicoo.github.io/gr4-news/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://domenicoo.github.io/gr4-news/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/archives/</guid><description/></item><item><title>Calendars</title><link>https://domenicoo.github.io/gr4-news/calendars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/calendars/</guid><description>&lt;h1 id="csn4-events"&gt;CSN4 events
+&lt;/h1&gt;&lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Europe%2FRome&amp;showPrint=0&amp;title=CSN4%20events&amp;src=NGowb2VibHMzb2gydXE4MXY1NTBnNnF1MWw0ZTk5Z3ZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23ef6c00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;!-- &amp;mode=AGENDA --&gt;
+&lt;h1 id="seminars-in-torino"&gt;Seminars in Torino
+&lt;/h1&gt;&lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Europe%2FRome&amp;showPrint=0&amp;title=Theory%20Seminars%20in%20Torino&amp;src=Y180ZHI0bHZzNXRwZjY1ODBhbTRxZTJsaGhzOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y18zMWUwN2E2MmUyNTliODA4ZGFhOTNlYzZjM2Y3NGExMGE2N2UxMGYzOGNiOTc4OTJjMzg4MWI3NGMzODU4Y2E0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=Y18xMDlmNjQ3Yjg1MTY2NzRhYWMzM2QxODY4MDIwYTk4YTU5YjFkOWU2NmUxZWE3MTkzMzc1YjRhODgyNTliMDIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=Y19mYzMxMzg5MjMyNTY3ZTljNzdkZmE0MjM1OWE4NDY5NGFjNmYwMTUwNjQ4MjljODE2ZmY4ZDhjMzc1OWFjOTA2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=dG90aGNvbGxvcXVpYUBnbWFpbC5jb20&amp;color=%23F6BF26&amp;color=%23AD1457&amp;color=%23F09300&amp;color=%23616161&amp;color=%233F51B5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;!-- This page's frontmatter: --&gt;
+&lt;!-- ```yaml --&gt;
+&lt;!-- links: --&gt;
+&lt;!-- - title: GitHub --&gt;
+&lt;!-- description: GitHub is the world's largest software development platform. --&gt;
+&lt;!-- website: https://github.com --&gt;
+&lt;!-- image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png --&gt;
+&lt;!-- - title: TypeScript --&gt;
+&lt;!-- description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. --&gt;
+&lt;!-- website: https://www.typescriptlang.org --&gt;
+&lt;!-- image: ts-logo-128.jpg --&gt;
+&lt;!-- ``` --&gt;
+&lt;!-- `image` field accepts both local and external images. --&gt;</description></item><item><title>Is it up?</title><link>https://domenicoo.github.io/gr4-news/is-it-up/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/is-it-up/</guid><description>&lt;iframe src="https://is-it-up.reflando.net/status/torino" width=100% height="900" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;!-- This page's frontmatter: --&gt;
+&lt;!-- ```yaml --&gt;
+&lt;!-- links: --&gt;
+&lt;!-- - title: GitHub --&gt;
+&lt;!-- description: GitHub is the world's largest software development platform. --&gt;
+&lt;!-- website: https://github.com --&gt;
+&lt;!-- image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png --&gt;
+&lt;!-- - title: TypeScript --&gt;
+&lt;!-- description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. --&gt;
+&lt;!-- website: https://www.typescriptlang.org --&gt;
+&lt;!-- image: ts-logo-128.jpg --&gt;
+&lt;!-- ``` --&gt;
+&lt;!-- `image` field accepts both local and external images. --&gt;</description></item><item><title>Links</title><link>https://domenicoo.github.io/gr4-news/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/links/</guid><description>&lt;!-- # CSN4 events --&gt;
+&lt;!-- &lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Europe%2FRome&amp;showPrint=0&amp;title=CSN4%20events&amp;src=NGowb2VibHMzb2gydXE4MXY1NTBnNnF1MWw0ZTk5Z3ZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23ef6c00&amp;mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt; --&gt;
+&lt;!-- # Seminars in Torino --&gt;
+&lt;!-- &lt;iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Europe%2FRome&amp;showPrint=0&amp;title=Theory%20Seminars%20in%20Torino&amp;src=Y180ZHI0bHZzNXRwZjY1ODBhbTRxZTJsaGhzOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=Y18zMWUwN2E2MmUyNTliODA4ZGFhOTNlYzZjM2Y3NGExMGE2N2UxMGYzOGNiOTc4OTJjMzg4MWI3NGMzODU4Y2E0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=Y18xMDlmNjQ3Yjg1MTY2NzRhYWMzM2QxODY4MDIwYTk4YTU5YjFkOWU2NmUxZWE3MTkzMzc1YjRhODgyNTliMDIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=Y19mYzMxMzg5MjMyNTY3ZTljNzdkZmE0MjM1OWE4NDY5NGFjNmYwMTUwNjQ4MjljODE2ZmY4ZDhjMzc1OWFjOTA2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=dG90aGNvbGxvcXVpYUBnbWFpbC5jb20&amp;color=%23F6BF26&amp;color=%23AD1457&amp;color=%23F09300&amp;color=%23616161&amp;color=%233F51B5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt; --&gt;
+&lt;!-- This page's frontmatter: --&gt;
+&lt;!-- ```yaml --&gt;
+&lt;!-- links: --&gt;
+&lt;!-- - title: GitHub --&gt;
+&lt;!-- description: GitHub is the world's largest software development platform. --&gt;
+&lt;!-- website: https://github.com --&gt;
+&lt;!-- image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png --&gt;
+&lt;!-- - title: TypeScript --&gt;
+&lt;!-- description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. --&gt;
+&lt;!-- website: https://www.typescriptlang.org --&gt;
+&lt;!-- image: ts-logo-128.jpg --&gt;
+&lt;!-- ``` --&gt;
+&lt;!-- `image` field accepts both local and external images. --&gt;</description></item><item><title>Search</title><link>https://domenicoo.github.io/gr4-news/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domenicoo.github.io/gr4-news/search/</guid><description/></item></channel></rss>
