@@ -8,7 +8,6 @@ tags:
      - workshops
 weight: 10        # You can add weight to some posts to override the default sorting (date descending)
 ---
-
 Dear Colleagues,
 
 We are pleased to announce the upcoming conference:

@@ -1,6 +1,5 @@
 ---
 title: PhD School LACES 2026
-# description:
 slug: phd-school-laces-2026-november-december-2026
 date: 2026-07-29 00:00:00+0000
 categories:
