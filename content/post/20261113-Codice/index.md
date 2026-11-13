@@ -4,7 +4,7 @@ description: "INFN has approved a Code of Conduct for its events and conferences
 slug: codice-condotta-eventi-infn
 date: 2026-11-13 00:00:00+0000
 categories:
-    - Announcements
+    - Local
 tags:
     - INFN
     - English

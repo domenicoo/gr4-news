@@ -4,7 +4,7 @@ description: "November and December 2026 deadlines ahead of the transition to IN
 slug: scadenze-missioni-2026
 date: 2026-11-13 00:00:00+0000
 categories:
-    - Announcements
+    - Local
 tags:
     - INFN
     - Missions
