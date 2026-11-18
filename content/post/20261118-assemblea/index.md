@@ -9,7 +9,7 @@ tags:
     - "INFN"
     - "Italiano"
 weight: 10
-draft: true
+draft: false
 ---
 
 il 18 novembre si è tenuta un'Assemblea straordinaria della nostra Sezione, dedicata principalmente alla procedura per la scelta del nuovo Presidente dell'INFN. Vi riporto i miei appunti.
